@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: ProKrestination
+title: ADPhD
 
 # Short description of your site
 description: A blog about Physics, Math, ADHD, and doing physics and math with ADHD.
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Kreswell Neely
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,15 +72,15 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: true
-  facebook: true
-  github: true
-  twitter: true
+  email: prokrestination@gmail.com
+#  facebook: 
+  github: Kreswell
+  twitter: proKrestination
 #  reddit: yourname
-  linkedin: true
+  linkedin: kreswell-neely-2b9433129
 #  stackoverflow: 
 #  snapchat: 
-  instagram: true
+#  instagram: 
 #  youtube: 
 #  spotify: yourname
 #  telephone:
@@ -92,12 +92,12 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+#  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Kreswell.Github.io"
 
 # --- Web Statistics Section --- #
 
@@ -143,7 +143,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
