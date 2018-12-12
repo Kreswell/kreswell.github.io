@@ -5,9 +5,7 @@ subtitle: Can I MathJax and have it properly format LaTeX markup?
 tags: [test]
 ---
 
-# Figuring out the syntax
-
-## First Test
+# First Test
 The first test is to include the MathJax script call in the head.html file, which I've done. Let's test a few things.
 1. Inline math with `\( ... \)`: \( \LaTeX \), \( \hbar = 1.0545718\times 10^{-34}\: kg\cdot m^2/s \), \( x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a} \).
 2. Inline math with `$ ... $`: $\LaTeX$, $\hbar = 1.0545718\times 10^{-34}\: kg\cdot m^2/s$, $x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a}$.
@@ -38,7 +36,7 @@ Next let's try including it inside html (in this case, a `<ol></ol>` block):
 
 If this doesn't work, the next thing to try is including the `<script></script>` line in this .md file itself, although I'm not sure if I need to include it inside a `<head></head>` block.
 
-## Second Test
+# Second Test
 Hmmm... it seems to handle [double dollar](https://trigun.fandom.com/wiki/Chapter_1) signs fine in markdown and html, although it seemed to treat it as inline math in markdown. Let's just test that a few more times: $$ x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a} $$, $$ \sum_{n=0}^{\infty}\frac{1}{2^n} = 2 $$, $$ \nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0} $$.
 
 I think it treated the backslash as an escape character, at least in some contexts, and so didn't interpret them as $$\LaTeX$$ blocks. Let's see what it does with double backslash: \\( x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a} \\), \\( \hbar = 1.0545718\times 10^{-34}\: kg\cdot m^2/s \\).
@@ -60,7 +58,7 @@ $$
 And one with double backslash plus square brackets - `\\[ ... \\]`:
 \\[ x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a} \\]
 
-## Results
+# Results
 It looks like there are two approaches that will work: double dollar signs or double backslashes. I think that double dollar signs produce inline math if it's not preceded by a line break, and display math if it is. Let's double-check that. Here's an equation with no line breaks before or after: $$ x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a} $$, here's the same equation with a single line break both before and after:
 $$ x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a} $$
 Here's the same one with a double line break both before and after:
@@ -76,12 +74,12 @@ So it appears there needs to be a double-space before and after a `$$ ... $$` bl
 
 This is great! I can easily type equations in markdown and have it look great on the final page.
 
-## Further tests
+# Further tests
 Let's test a bunch more stuff. 
 
-### Inline $$\LaTeX$$ formatting in section headings
+## Inline $$\LaTeX$$ formatting in section headings
 
-### Syntax highlighting in code blocks.
+## Syntax highlighting in code blocks.
 
 ```latex
 \begin{equation}
@@ -89,7 +87,7 @@ Let's test a bunch more stuff.
 \end{equation}
 ```
 
-### Numbered (maybe?) equations
+## Numbered (maybe?) equations
 
 Here's how it renders the above code block:
 
@@ -101,7 +99,7 @@ $$
 
 Unfortunately, this does not appear to work.
 
-### Multi-line equation blocks (aka. Does it use the 'mathtools' or 'amsmath' package?)
+## Multi-line equation blocks (aka. Does it use the 'mathtools' or 'amsmath' package?)
 
 Here's how it displays
 
@@ -123,7 +121,7 @@ $$
 \end{aligned}
 $$
 
-### Matrices
+## Matrices
 
 Here's how it renders
 
@@ -144,7 +142,7 @@ A =
 \end{bmatrix}
 $$
 
-### Using a $$\LaTeX$$ package.
+## Using a $$\LaTeX$$ package.
 Most of the documentation I'm finding on MathJax says that I can't include $$\LaTeX$$ packages to extend its functionality. However, one [Stack Exchange post](https://stackoverflow.com/questions/21192606/can-i-add-latex-packages-to-mathjax) says that putting the line `$\require{\slashed}$` should work. (This package allows me to use the "Feynman slashed notation.") Let's see if it worked.
 
 $\require{\slashed}$
