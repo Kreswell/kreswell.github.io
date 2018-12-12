@@ -5,7 +5,7 @@ subtitle: Can I MathJax and have it properly format LaTeX markup?
 tags: [test]
 ---
 
-#Figuring out the syntax
+# Figuring out the syntax
 
 ## First Test
 The first test is to include the MathJax script call in the head.html file, which I've done. Let's test a few things.
@@ -71,3 +71,75 @@ Here's the same one with no line break before and a single one after. $$ x = \fr
 And here's one with a double line break before
 
 $$ x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a} $$ and no line break after.
+
+So it appears there needs to be a double-space before and after a `$$ ... $$` block to be display style, otherwise it's inline style.
+
+This is great! I can easily type equations in markdown and have it look great on the final page.
+
+## Further tests
+Let's test a bunch more stuff. 
+
+### Inline $$\LaTeX$$ formatting in section headings
+
+### Syntax highlighting in code blocks.
+
+```latex
+\begin{equation}
+  x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a}
+\end{equation}
+```
+
+### Numbered (maybe?) equations
+
+Here's how it renders the above code block:
+
+$$
+\begin{equation}
+  x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a}
+\end{equation}
+$$
+
+### Multi-line equation blocks (aka. Does it use the 'mathtools' or 'amsmath' package?)
+
+Here's how it displays
+
+```latex
+\begin{aligned}
+  \nabla \cdot \mathbf{E} &= \frac{\rho}{\varepsilon_0} \\
+  \nabla \cdot \mathbf{B} &= 0 \\
+  \nabla \times \mathbf{E} &= -\frac{\partial \mathbf{B}}{\partial t} \\
+  \nabla \times \mathbf{B} &= \mu_0\left(\mathbf{J}+\varepsilon_0\frac{\partial \mathbf{E}}{\partial t}\right)
+\end{aligned}
+```
+
+$$
+\begin{aligned}
+  \nabla \cdot \mathbf{E} &= \frac{\rho}{\varepsilon_0} \\
+  \nabla \cdot \mathbf{B} &= 0 \\
+  \nabla \times \mathbf{E} &= -\frac{\partial \mathbf{B}}{\partial t} \\
+  \nabla \times \mathbf{B} &= \mu_0\left(\mathbf{J}+\varepsilon_0\frac{\partial \mathbf{E}}{\partial t}\right)
+\end{aligned}
+$$
+
+### Matrices
+
+Here's how it renders
+
+```latex
+A = 
+\begin{bmatrix}
+    a_{11} & a_{12} & a_{13} \\
+    a_{21} & a_{22} & a_{23} \\
+    a_{31} & a_{32} & a_{33} \\
+\end{bmatrix}
+```
+$$
+A = 
+\begin{bmatrix}
+    a_{11} & a_{12} & a_{13} \\
+    a_{21} & a_{22} & a_{23} \\
+    a_{31} & a_{32} & a_{33} \\
+\end{bmatrix}
+$$
+
+If this all works, it would appear that it works basically the same as in a Jupyter notebook. I wonder if Jupyter uses MathJax. It probably does. (And I'm sure I could find out if I wanted to bother looking it up.)
