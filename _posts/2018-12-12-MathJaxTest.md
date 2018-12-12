@@ -164,4 +164,6 @@ $  <=>[+ 2OH-][+ 2H+]
 $\underset{\text{tetrahydroxozincate(II)}}{\ce{[Zn(OH)4]^2-}}$}
 $$
 
+Nope, doesn't work. Oh well, MathJax doesn't do everything, but it does do a lot.
+
 It would appear that it works basically the same as in a Jupyter notebook. I wonder if Jupyter uses MathJax. It probably does. (And I'm sure I could find out if I wanted to bother looking it up.)
