@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MathJax Test
-subtitle: Can I MathJax and have it properly format LaTeX markup?
+subtitle: Can I include MathJax and have it properly format LaTeX markup?
 tags: [test]
 ---
 
