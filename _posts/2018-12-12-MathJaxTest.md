@@ -99,6 +99,8 @@ $$
 \end{equation}
 $$
 
+Unfortunately, this does not appear to work.
+
 ### Multi-line equation blocks (aka. Does it use the 'mathtools' or 'amsmath' package?)
 
 Here's how it displays
@@ -142,4 +144,26 @@ A =
 \end{bmatrix}
 $$
 
-If this all works, it would appear that it works basically the same as in a Jupyter notebook. I wonder if Jupyter uses MathJax. It probably does. (And I'm sure I could find out if I wanted to bother looking it up.)
+### Using a package inside a math block.
+
+Let's see what it does with 
+
+```latex
+$$
+  \usepackage{slashed}
+  
+  \left(i\hbar\slashed{\partial}-mc\right)\psi=0
+$$
+```
+
+$$
+  \usepackage{slashed}
+  
+  \left(i\hbar\slashed{\partial}-mc\right)\psi=0
+$$
+
+(I bet it won't work.)
+
+It looks like what might work is putting ```latex $\require{\slashed}$``` near the top of this page.
+
+It would appear that it works basically the same as in a Jupyter notebook. I wonder if Jupyter uses MathJax. It probably does. (And I'm sure I could find out if I wanted to bother looking it up.)
