@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MathJax Test
-subtitle: Can I include MathJax and have it properly format \(\LaTeX\) markup? Let's see what it does with the equation: \(x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a}\) in the subtitle.
+subtitle: Can I include MathJax and have it properly format \(\LaTeX\) markup?
 tags: [test]
 ---
 
