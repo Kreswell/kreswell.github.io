@@ -1,13 +1,13 @@
 ---
 layout: post
-title: MathJax Test of $$\LaTeX$$
-subtitle: Can I include MathJax and have it properly format \(\LaTeX\) markup?
+title: MathJax Test
+subtitle: Can I include MathJax and have it properly format \(\LaTeX\) markup? Let's see what it does with the equation: \(x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a}\) in the subtitle.
 tags: [test]
 ---
 
-I did a bunch of tests, which can be seen below. And it looks like MathJax does almost everything I want it to do. One last test is to try putting $$\LaTeX$$ markup in the title and subtitle of the post. If it doesn't work I'll change it back and make note of it here.
+This line: $$x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a}$$ is a test to see how $$\LaTeX$$, which renders properly in the body of a markdown page, renders in the post preview.
 
-The results are surprising. It seems to render the $$\LaTeX$$ markup, but render it in display style, not inline. I'll try a few variations on the escape characters.
+I did a bunch of tests, which can be seen below. And it looks like MathJax does almost everything I want it to do. I put the line above up front to make sure it makes it into the post preview. One last test is to try putting $$\LaTeX$$ markup in the title and subtitle of the post. The results are surprising. It seems to render $$\LaTeX$$ markup in double dollar blocks as display (whether or not there are line breaks surrounding it), but it renders `\( ... \)` blocks inline (without the escape character errors). My best guess is that it's interpreting the $$\LaTeX$$ markup as it would in html, not as it would in markdown. Perhaps that's why it doesn't display it properly in the post preview.
 
 # First Test
 The first test is to include the MathJax script call in the head.html file, which I've done. Let's test a few things.
