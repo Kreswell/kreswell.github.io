@@ -1,11 +1,13 @@
 ---
 layout: post
-title: MathJax Test of $$\LaTeX$$
-subtitle: Can I include MathJax and have it properly format $$\LaTeX$$ markup?
+title: MathJax Test of $\LaTeX$
+subtitle: Can I include MathJax and have it properly format \\(\LaTeX\\) markup?
 tags: [test]
 ---
 
 I did a bunch of tests, which can be seen below. And it looks like MathJax does almost everything I want it to do. One last test is to try putting $$\LaTeX$$ markup in the title and subtitle of the post. If it doesn't work I'll change it back and make note of it here.
+
+The results are surprising. It seems to render the $$\LaTeX$$ markup, but render it in display style, not inline. I'll try a few variations on the escape characters.
 
 # First Test
 The first test is to include the MathJax script call in the head.html file, which I've done. Let's test a few things.
