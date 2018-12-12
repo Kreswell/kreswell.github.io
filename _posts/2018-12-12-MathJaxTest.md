@@ -9,6 +9,8 @@ This line: $$x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a}$$ is a test to see how $$\
 
 I did a bunch of tests, which can be seen below. And it looks like MathJax does almost everything I want it to do. I put the line above up front to make sure it makes it into the post preview. One last test is to try putting $$\LaTeX$$ markup in the title and subtitle of the post. The results are surprising. It seems to render $$\LaTeX$$ markup in double dollar blocks as display (whether or not there are line breaks surrounding it), but it renders `\( ... \)` blocks inline (without the escape character errors). My best guess is that it's interpreting the $$\LaTeX$$ markup as it would in html, not as it would in markdown. Perhaps that's why it doesn't display it properly in the post preview.
 
+As a side note, I broke the page once, and I think the problem was that the subtitle was too long. At some point it might be worth testing to see exactly what the character limit is.
+
 # First Test
 The first test is to include the MathJax script call in the head.html file, which I've done. Let's test a few things.
 1. Inline math with `\( ... \)`: \( \LaTeX \), \( \hbar = 1.0545718\times 10^{-34}\: kg\cdot m^2/s \), \( x = \frac{-b \pm \sqrt{(b^2 - 4ac)}}{2a} \).
