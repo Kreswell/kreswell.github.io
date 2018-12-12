@@ -144,26 +144,24 @@ A =
 \end{bmatrix}
 $$
 
-### Using a package inside a math block.
+### Using a $$\LaTeX$$ package.
+Most of the documentation I'm finding on MathJax says that I can't include $$\LaTeX$$ packages to extend its functionality. However, one [Stack Exchange post](https://stackoverflow.com/questions/21192606/can-i-add-latex-packages-to-mathjax) says that putting the line `$\require{\slashed}$` should work. (This package allows me to use the "Feynman slashed notation.") Let's see if it worked.
 
-Let's see what it does with 
-
-```latex
-$$
-  \usepackage{slashed}
-  
-  \left(i\hbar\slashed{\partial}-mc\right)\psi=0
-$$
-```
+$\require{\slashed}$
 
 $$
-  \usepackage{slashed}
-  
   \left(i\hbar\slashed{\partial}-mc\right)\psi=0
 $$
 
-(I bet it won't work.)
+If it doesn't, it might still work for other, more widely used packages. Here's an example from that same Stack Exchange post using the "mhchem" package.
 
-It looks like what might work is putting ```latex $\require{\slashed}$``` near the top of this page.
+$\require{\mhchem}$
+
+$$
+\ce{Zn^2+  <=>[+ 2OH-][+ 2H+]  
+$\underset{\text{zinc hydroxide}}{\ce{Zn(OH)2 v}}
+$  <=>[+ 2OH-][+ 2H+] 
+$\underset{\text{tetrahydroxozincate(II)}}{\ce{[Zn(OH)4]^2-}}$}
+$$
 
 It would appear that it works basically the same as in a Jupyter notebook. I wonder if Jupyter uses MathJax. It probably does. (And I'm sure I could find out if I wanted to bother looking it up.)
