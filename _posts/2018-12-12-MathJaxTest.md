@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MathJax Test of $\LaTeX$
-subtitle: Can I include MathJax and have it properly format \\(\LaTeX\\) markup?
+title: MathJax Test of $$\LaTeX$$
+subtitle: Can I include MathJax and have it properly format \(\LaTeX\) markup?
 tags: [test]
 ---
 
