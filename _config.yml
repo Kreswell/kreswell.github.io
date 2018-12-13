@@ -24,10 +24,7 @@ description: A blog about Physics, Math, ADHD, and doing physics and math with A
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Categories: 
-  {% for tag in paginator.posts.tags %}
-  - "tags#{{- tag -}}"
-  {% endfor %}
+  Categories: "tags"
 # Resources:
 #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #   - Learn markdown: "http://www.markdowntutorial.com/"
