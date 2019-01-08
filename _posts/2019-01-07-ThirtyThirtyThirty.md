@@ -26,6 +26,6 @@ Even if I go over, the most important thing, at least at first, is that I establ
 I need to be accountable to someone other than myself, or else I'm going to abandon this plan in about 2-3 weeks. So I'm posting it here.
 
 <div style="position:relative;">
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgxbumy-ygf8dOevllyLeUTYBX3P4iBUlw-rdRr-CS6iw6e0BFpOaavcstqAPzIsY39_Txnv8iVXns/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgxbumy-ygf8dOevllyLeUTYBX3P4iBUlw-rdRr-CS6iw6e0BFpOaavcstqAPzIsY39_Txnv8iVXns/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border:none;position:absolute;width:100%;height:100%;"></iframe>
 </div>
 
