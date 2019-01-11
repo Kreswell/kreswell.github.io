@@ -28,23 +28,23 @@ The two main issues I'm having to work around are:
 So my plan is to write a python script that will run on my computer and do the following:
 - [ ] Do the authentication to allow me to access my Fitbit data.
 - [ ] Get my fitness data from Fitbit via API request. That includes:
-  - Steps
-  - Calories eaten (entered via MyFitnessPal, but pushed to Fitbit)
-  - Calorie goal/total
-  - Weight
+- Steps
+- Calories eaten (entered via MyFitnessPal, but pushed to Fitbit)
+- Calorie goal/total
+- Weight
 - [ ] Get my (manually entered) run data from somewhere easily accessible to my phone (for entering) and the script.
-  - Probably a Google spreadsheet.
-  - Possibly a file on the Github repository.
+- Probably a Google spreadsheet.
+- Possibly a file on the Github repository.
 - [ ] Write it to a file.
-  - Probably a csv, since it will be organized in a flat table, but...
-  - xml or json might be more friendly to being translated into web page content, or...
-  - a markdown or html file already formatted for website display.
+- Probably a csv, since it will be organized in a flat table, but...
+- xml or json might be more friendly to being translated into web page content, or...
+- a markdown or html file already formatted for website display.
 - [ ] Push the file to the Github repository for this site.
 - [ ] Do some analysis and make some plots.
-  - Mainly trend plots to help determine the Calorie intake or Calorie deficit that corresponds to 1lb/week weight loss.
-  - Probably some other plots to help visualize my progress.
+- Mainly trend plots to help determine the Calorie intake or Calorie deficit that corresponds to 1lb/week weight loss.
+- Probably some other plots to help visualize my progress.
 - [ ] Save those plots and push them to the repository.
 I'd also like to
 - [ ] Write a short shell script to periodically run the python script, so the data on this website automatically updates.
-  - Once per hour is probably a good rate.
-  - Will probably run on my home PC (Windows).
+- Once per hour is probably a good rate.
+- Will probably run on my home PC (Windows).
