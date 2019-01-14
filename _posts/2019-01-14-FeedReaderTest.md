@@ -27,6 +27,8 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 
   //var rownum = 0;
   var feed = "https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/default/public/values";
+  $(document).ready(function()
+  {
 	  $.ajax(feed, 
     {
 		  accepts:
@@ -59,5 +61,6 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
         newcell3.innerHTML = runspeed;
 			});
 		}	
+	});
 	});
 </script>
