@@ -9,6 +9,8 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 
 <table style="width:100%" id="tbl"></table>
 
+<div id="testzone"></div>
+
 <script>
   var table = document.getElementById("tbl");
   var row = table.insertRow(0);
@@ -42,8 +44,14 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
         var newcell2 = newrow.insertCell(2);
         var newcell3 = newrow.insertCell(3);
         var runtime = el.find("gsx:time").text();
+	console.log(runtime);
+	testzone.innerHTML = "<p>" + runtime + "</p>";
         var rundist = el.find("gsx:distancekm").text();
+	console.log(rundist);
+	testzone.innerHTML = "<p>" + rundist + "</p>";
 	var runspeed = 60*rundist/runtime;
+	console.log(runspeed);
+	testzone.innerHTML = "<p>" + runspeed + "</p>";
         newcell0.innerHTML = el.find("gsx:date").text();
         newcell1.innerHTML = runtime;
         newcell2.innerHTML = rundist;
