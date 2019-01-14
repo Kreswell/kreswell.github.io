@@ -19,6 +19,7 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 <p id="errMsg">No error message printed.</p>
 
 <script>  
+  var table = document.getElementById("tbl");
   var feedUrl = "https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/default/public/values";
     fetch(feedUrl).then((res) => {
       res.text().then((xmlTxt) => {
