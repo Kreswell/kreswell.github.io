@@ -2,7 +2,7 @@
 title: Feed Reader Test
 subtitle: Testing reading data from an RSS feed and writing it into a table.
 date: 2019-01-14
-ext-js: "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+js: /js/jquery-1.11.2.min.js
 tags: [test]
 ---
 
