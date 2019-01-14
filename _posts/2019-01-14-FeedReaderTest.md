@@ -13,6 +13,7 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 <div id="testzone"></div>
 
 <script>
+$(document).ready(function(){
   var table = document.getElementById("tbl");
   var row = table.insertRow(0);
   var cell0 = row.insertCell(0);
@@ -27,8 +28,6 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 
   //var rownum = 0;
   var feed = "https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/default/public/values";
-  $(document).ready(function()
-  {
 	  $.ajax(feed, 
     {
 		  accepts:
