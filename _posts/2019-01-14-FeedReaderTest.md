@@ -10,10 +10,7 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 
 <table style="width:100%" id="tbl"></table>
 
-<div id="testzone"></div>
-
 <script>
-$(document).ready(function(){
   var table = document.getElementById("tbl");
   var row = table.insertRow(0);
   var cell0 = row.insertCell(0);
@@ -25,41 +22,26 @@ $(document).ready(function(){
   cell1.innerHTML = "Run Time";
   cell2.innerHTML = "Distance (km)";
   cell3.innerHTML = "Speed (km/h)";
-
-  //var rownum = 0;
-  var feed = "https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/default/public/values";
-	  $.ajax(feed, 
-    {
-		  accepts:
-    {
-			xml:"application/rss+xml"
-		},
-		dataType:"xml",
-		success:function(data) 
-    {
-			$(data).find("entry").each(function () 
-      { 
-				var el = $(this);
+  
+  var feedUrl = https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/default/public/values;
+  fetch(feedUrl).then((res) => {
+    res.text().then((xmlTxt) => {
+      var domParser = new DOMParser();
+      let doc = domParser.parseFromString(xmlTxt, 'text/xml');
+      doc.querySelectorAll('entry').forEach((entry) => {
         var newrow = table.insertRow(1);
         var newcell0 = newrow.insertCell(0);
         var newcell1 = newrow.insertCell(1);
         var newcell2 = newrow.insertCell(2);
         var newcell3 = newrow.insertCell(3);
-        var runtime = el.find("gsx:time").text();
-	console.log(runtime);
-	testzone.innerHTML = "<p>" + runtime + "</p>";
-        var rundist = el.find("gsx:distancekm").text();
-	console.log(rundist);
-	testzone.innerHTML = "<p>" + rundist + "</p>";
+        var runtime = entry.querySelector('gsx:time').textContent;
+        var rundist = entry.querySelector('gsx:distancekm').textContent;
 	var runspeed = 60*rundist/runtime;
-	console.log(runspeed);
-	testzone.innerHTML = "<p>" + runspeed + "</p>";
-        newcell0.innerHTML = el.find("gsx:date").text();
+        newcell0.innerHTML = entry.querySelector("gsx:date").textContent;
         newcell1.innerHTML = runtime;
         newcell2.innerHTML = rundist;
         newcell3.innerHTML = runspeed;
-			});
-		}	
-	});
-	});
+      });
+    });
+  });
 </script>
