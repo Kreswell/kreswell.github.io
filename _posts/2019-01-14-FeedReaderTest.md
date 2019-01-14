@@ -6,7 +6,7 @@ js: /js/jquery-1.11.2.min.js
 tags: [test]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 17:50 CT.
+This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 17:58 CT.
 
 <table style="width:100%" id="tbl">
   <tr>
@@ -31,10 +31,10 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
           var newcell1 = newrow.insertCell(1);
           var newcell2 = newrow.insertCell(2);
           var newcell3 = newrow.insertCell(3);
-          var runtime = entry.find("gsx:time").text();
-          var rundist = entry.find("gsx:distancekm").text();
+          var runtime = item.querySelector("time").textContent;
+          var rundist = item.querySelector("distancekm").textContent;
   	  var runspeed = 60*rundist/runtime;
-        newcell0.innerHTML = entry.find("gsx:date").text();
+        newcell0.innerHTML = item.querySelector("date").textContent;
         newcell1.innerHTML = runtime;
         newcell2.innerHTML = rundist;
         newcell3.innerHTML = runspeed;
