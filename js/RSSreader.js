@@ -1,5 +1,5 @@
-$(document).ready(function()
-{
+//$(document).ready(function()
+//{
   var table = document.getElementById("tbl");
   var row = table.insertRow(0);
   var cell0 = row.insertCell(0);
@@ -33,7 +33,7 @@ $(document).ready(function()
         var newcell3 = newrow.insertCell(3);
         var runtime = el.find("gsx:time").text();
         var rundist = el.find("gsx:distancekm").text();
-	      var runspeed = 60*rundist/runtime;
+	var runspeed = 60*rundist/runtime;
         newcell0.innerHTML = el.find("gsx:date").text();
         newcell1.innerHTML = runtime;
         newcell2.innerHTML = rundist;
@@ -41,4 +41,4 @@ $(document).ready(function()
 			});
 		}	
 	});
-});
+//});
