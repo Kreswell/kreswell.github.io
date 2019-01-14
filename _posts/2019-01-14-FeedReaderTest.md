@@ -6,7 +6,7 @@ js: /js/jquery-1.11.2.min.js
 tags: [test]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 17:26 CT.
+This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 17:33 CT.
 
 <table style="width:100%" id="tbl">
   <tr>
@@ -19,7 +19,7 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 <p id="errMsg">No error message printed.</p>
 
 <script>  
-  var feedUrl = https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/default/public/values;
+  var feedUrl = "https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/default/public/values";
     fetch(feedUrl).then((res) => {
       errMsg.innerHTML = res.text();
       res.text().then((xmlTxt) => {
