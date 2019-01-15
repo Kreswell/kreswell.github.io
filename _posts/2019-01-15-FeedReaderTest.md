@@ -1,12 +1,12 @@
 ---
 title: Feed Reader Test
 subtitle: Testing reading data from an RSS feed and writing it into a table.
-date: 2019-01-14
+date: 2019-01-15
 js: /js/jquery-1.11.2.min.js
 tags: [test]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 18:11 CT.
+This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 11:58 CT.
 
 <div style="width:100%" id="sheet">
   <tr>
@@ -26,7 +26,7 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       var runtime = json.feed.entry[i].gsx$time.$t;
       var rundist = json.feed.entry[i].gsx$distancekm.$t;
       var runspeed = 60*rundist/runtime;
-		  string += '<tr><td>' + date + '</td><td>' + cost + '</td><td>' + msrp + '</td></tr>';
+		  string += '<tr><td>' + date + '</td><td>' + runtime + '</td><td>' + rundist + '</td><td>' + runspeed + '</td></tr>';
     }
 	  string += "</table>";
 	  document.getElementById("sheet").innerHTML = string;
