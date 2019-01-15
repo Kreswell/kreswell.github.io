@@ -32,4 +32,4 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 	  document.getElementById("sheet").innerHTML = string;
   }   
 </script>
-<script src="http://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/od6/public/values?alt=json-in-script&amp;callback=displayContent" type="text/javascript"></script>
+<script src="https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/od6/public/values?alt=json-in-script&amp;callback=displayContent" type="text/javascript"></script>
