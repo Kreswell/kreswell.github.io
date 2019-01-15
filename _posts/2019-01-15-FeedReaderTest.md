@@ -29,9 +29,9 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       var caldeficit = parseInt(calgoal) + parseInt(calearned) - parseInt(calin);
       runstring += "<tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr>";
       calstring += "<tr><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + caldeficit + "</td><td>" + weight + "</td></tr>";
+    }
     runstring += "</table>";
     calstring += "</table>";
-    }
     document.getElementById("runtable").innerHTML = runstring;
     document.getElementById("caltable").innerHTML = calstring;
   }   
