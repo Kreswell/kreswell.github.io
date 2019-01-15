@@ -8,9 +8,7 @@ tags: [test]
 
 This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table.
 
-<div style="width:100%" id="runtable">
-  <table></table>
-</div>
+<div style="width:100%" id="runtable"></div>
 <div style="width:100%" id="caltable"></div>
   
 <script>
@@ -29,8 +27,10 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       var calearned = json.feed.entry[i].gsx$caloriesearned.$t;
       var weight = json.feed.entry[i].gsx$weightlbs.$t;
       var caldeficit = calgoal + calearned - calin;
-      runstring += "<tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr></table>";
-      calstring += "<tr><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + caldeficit + "</td><td>" + weight + "</td></tr></table>";
+      runstring += "<tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr>";
+      calstring += "<tr><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + caldeficit + "</td><td>" + weight + "</td></tr>";
+    runstring += "</table>";
+    calstring += "</table>";
     }
     document.getElementById("runtable").innerHTML = runstring;
     document.getElementById("caltable").innerHTML = calstring;
