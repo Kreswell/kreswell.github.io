@@ -1,15 +1,23 @@
 ---
-title: Feed Reader Test
-subtitle: Testing reading data from an RSS feed and writing it into a table.
+title: 30-30-30 Log
+subtitle: A single page for logging my "30-30-30" fitness plan progress.
 date: 2019-01-15
-# js: /js/jquery-1.11.2.min.js
-tags: [test]
+tags: [30-30-30, programming]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table.
+This is a page I'm setting up for logging and displaying my progress on my "30-30-30" fitness plan. I plan to update it regularly. 
+
+## Exercise Data
 
 <table style="width:100%;overflow:auto;" id="runtable"></table>
+
+## Calorie Data
+
 <table style="width:100%;overflow:auto;" id="caltable"></table>
+
+## Comments
+
+- 1/15/2019: I've figured out how to pull data into this page straight from a Google spreadsheet! So some of the stuff will be updated automatically when I enter data there. There's still a bunch of over-analysis I want to do, so my next step is to figure out how to get that working. I'm not sure how I'm going to do that. It will have to either be by coding it in javascript, doing it in Google Sheets and pulling it over, or getting some code in another language (python or R, probably) running within the page (if that's possible).
   
 <script>
   function displayContent(json) {
