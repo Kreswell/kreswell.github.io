@@ -6,7 +6,7 @@ js: /js/jquery-1.11.2.min.js
 tags: [test]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 11:58 CT.
+This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 12:01 CT.
 
 <div style="width:100%" id="sheet">
   <tr>
@@ -32,6 +32,4 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
 	  document.getElementById("sheet").innerHTML = string;
   }   
 </script>
-<script>
 <script src="http://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/od6/public/values?alt=json-in-script&amp;callback=displayContent" type="text/javascript"></script>
-</script>
