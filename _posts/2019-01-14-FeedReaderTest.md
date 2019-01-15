@@ -6,7 +6,7 @@ js: /js/jquery-1.11.2.min.js
 tags: [test]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 17:58 CT.
+This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated 18:02 CT.
 
 <table style="width:100%" id="tbl">
   <tr>
