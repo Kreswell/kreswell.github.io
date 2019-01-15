@@ -6,10 +6,10 @@ date: 2019-01-15
 tags: [test]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated at 16:49.
+This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table.
 
-<table style="width:100%;max-width:1000%;overflow:auto;" id="runtable"></table>
-<table style="width:100%;max-width:1000%;overflow:auto;" id="caltable"></table>
+<table style="width:100%;overflow:auto;" id="runtable"></table>
+<table style="width:100%;overflow:auto;" id="caltable"></table>
   
 <script>
   function displayContent(json) {
@@ -28,7 +28,7 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       var weight = json.feed.entry[i].gsx$weightlbs.$t;
       var caldeficit = json.feed.entry[i].gsx$deficitwithexercise.$t;
       runstring += "<tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr>";
-      calstring += "<tr><td>" + "<tr><td>" + rundate + "<tr><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + weight + "</td></tr>";
+      calstring += "<tr><td>" + "</td><td>" + rundate + "</td><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + weight + "</td></tr>";
     }
     //runstring += "</table>";
     //calstring += "</table>";
