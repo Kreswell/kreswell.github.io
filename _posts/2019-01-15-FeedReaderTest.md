@@ -9,12 +9,12 @@ tags: [test]
 This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated at 15:52.
 
 <div style="width:100%;overflow:auto;" id="runtable"></div>
-<div style="width:100%;overflow:auto;table-layout:fixed;" id="caltable"></div>
+<div style="width:100%;overflow:auto;" id="caltable"></div>
   
 <script>
   function displayContent(json) {
     var runstring = "<table><tr><th>Date</th><th>Run Time</th><th>Distance (km)</th><th>Speed (km/h)</th><th>Steps</th></tr>";  
-    var calstring = "<table><tr><th>Date</th><th>Calorie Goal</th><th>Calories In</th><th>Calories Earned</th><th>Calorie Deficit</th><th>Weight</th></tr>";
+    var calstring = "<table style="table-layout:fixed;"><tr><th>Date</th><th>Calorie Goal</th><th>Calories In</th><th>Calories Earned</th><th>Calorie Deficit</th><th>Weight</th></tr>";
     var len = json.feed.entry.length;
     for (var i=0; i<len; i++) {
       var rundate = json.feed.entry[i].gsx$date.$t;
