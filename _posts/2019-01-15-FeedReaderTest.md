@@ -27,8 +27,8 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       var calearned = json.feed.entry[i].gsx$caloriesearned.$t;
       var weight = json.feed.entry[i].gsx$weightlbs.$t;
       var caldeficit = json.feed.entry[i].gsx$deficitwithexercise.$t;
-      runstring += "<tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr>";
-      calstring += "<tr><td>" + rundate + "</td><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + caldeficit + "</td><td>" + weight + "</td></tr>";
+      runstring += "<tr><td nowrap>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr>";
+      calstring += "<tr><td nowrap>" + rundate + "</td><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + caldeficit + "</td><td>" + weight + "</td></tr>";
     }
     //runstring += "</table>";
     //calstring += "</table>";
