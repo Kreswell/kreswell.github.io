@@ -17,7 +17,7 @@ This is a page I'm setting up for logging and displaying my progress on my "30-3
 
 ## Comments
 
-- 1/15/2019: I've figured out how to pull data into this page straight from a Google spreadsheet! So some of the stuff will be updated automatically when I enter data there. There's still a bunch of over-analysis I want to do, so my next step is to figure out how to get that working. I'm not sure how I'm going to do that. It will have to either be by coding it in javascript, doing it in Google Sheets and pulling it over, or getting some code in another language (python or R, probably) running within the page (if that's possible).
+- **1/15/2019:** I've figured out how to pull data into this page straight from a Google spreadsheet! So these tables will be updated automatically when I enter data there. There's still a bunch of over-analysis I want to do, so my next step is to figure out how to get that working. I'm not sure how I'm going to do that. It will have to either be by coding it in javascript, doing it in Google Sheets and pulling it over, or getting some code in another language (python or R, probably) running within the page (if that's possible).
   
 <script>
   function displayContent(json) {
