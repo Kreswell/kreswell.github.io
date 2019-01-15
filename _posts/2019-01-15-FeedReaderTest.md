@@ -26,7 +26,7 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       var runtime = json.feed.entry[i].gsx$time.$t;
       var rundist = json.feed.entry[i].gsx$distancekm.$t;
       var runspeed = 60*rundist/runtime;
-		  string += '<tr><td>' + date + '</td><td>' + runtime + '</td><td>' + rundist + '</td><td>' + runspeed + '</td></tr>';
+		  string += "<tr><td>" + date + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td></tr>";
     }
 	  string += "</table>";
 	  document.getElementById("sheet").innerHTML = string;
