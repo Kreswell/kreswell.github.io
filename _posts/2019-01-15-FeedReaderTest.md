@@ -19,14 +19,14 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
   
 <script>
   function displayContent(json) {
-	  var string = "<table><tr><th>Date</th><th>Run Time</th><th>Distance (km)</th><th>Speed (km/h)</th></tr>";      
+    var string = "<table><tr><th>Date</th><th>Run Time</th><th>Distance (km)</th><th>Speed (km/h)</th></tr>";      
     var len = json.feed.entry.length;
     for (var i=0; i<len; i++) {
-      var date = json.feed.entry[i].gsx$date.$t;
+      var rundate = json.feed.entry[i].gsx$date.$t;
       var runtime = json.feed.entry[i].gsx$time.$t;
       var rundist = json.feed.entry[i].gsx$distancekm.$t;
       var runspeed = 60*rundist/runtime;
-		  string += "<tr><td>" + date + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td></tr>";
+		  string += "<tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td></tr>";
     }
 	  string += "</table>";
 	  document.getElementById("sheet").innerHTML = string;
