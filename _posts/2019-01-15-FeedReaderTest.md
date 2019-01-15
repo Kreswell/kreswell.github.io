@@ -6,15 +6,15 @@ date: 2019-01-15
 tags: [test]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated at 16:21.
+This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table.
 
-<div style="width:100%;overflow:auto;" id="runtable"></div>
-<div style="width:100%;overflow:auto;" id="caltable"></div>
+<div style="width:100%;" id="runtable"></div>
+<div style="width:100%;" id="caltable"></div>
   
 <script>
   function displayContent(json) {
-    var runstring = "<table><thead style="white-space:nowrap;"><tr><th>Date</th><th>Run Time</th><th>Distance (km)</th><th>Speed (km/h)</th><th>Steps</th></tr></thead>";  
-    var calstring = "<table><thead style="white-space:nowrap;"><tr><th>Date</th><th>Calorie Goal</th><th>Calories In</th><th>Calories Earned</th><th>Calorie Deficit</th><th>Weight</th></tr></thead>";
+    var runstring = "<table><tr><th>Date</th><th>Run Time</th><th>Distance (km)</th><th>Speed (km/h)</th><th>Steps</th></tr>";  
+    var calstring = "<table><tr><th>Date</th><th>Calorie Goal</th><th>Calories In</th><th>Calories Earned</th><th>Calorie Deficit</th><th>Weight</th></tr>";
     var len = json.feed.entry.length;
     for (var i=0; i<len; i++) {
       var rundate = json.feed.entry[i].gsx$date.$t;
@@ -27,11 +27,11 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       var calearned = json.feed.entry[i].gsx$caloriesearned.$t;
       var weight = json.feed.entry[i].gsx$weightlbs.$t;
       var caldeficit = json.feed.entry[i].gsx$deficitwithexercise.$t;
-      runstring += "<tbody style="white-space:nowrap;"><tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr>";
-      calstring += "<tbody style="white-space:nowrap;"><tr><td>" + "<tr><td>" + rundate + "<tr><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + caldeficit + "</td><td>" + weight + "</td></tr>";
+      runstring += "<tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr>";
+      calstring += "<tr><td>" + "<tr><td>" + rundate + "<tr><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + weight + "</td></tr>";
     }
-    runstring += "</tbody></table>";
-    calstring += "</tbody></table>";
+    runstring += "</table>";
+    calstring += "</table>";
     document.getElementById("runtable").innerHTML = runstring;
     document.getElementById("caltable").innerHTML = calstring;
   }   
