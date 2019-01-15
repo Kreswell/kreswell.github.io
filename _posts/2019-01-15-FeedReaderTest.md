@@ -31,6 +31,7 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       calstring += "<tr><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + caldeficit + "</td><td>" + weight + "</td></tr></table>";
     }
     document.getElementById("runtable").innerHTML = runstring;
+    document.getElementById("caltable").innerHTML = calstring;
   }   
 </script>
 <script src="https://spreadsheets.google.com/feeds/list/1ja2C-UuzQo4i_OrBZe-91Kifm3zWd9pg16xmLlN0Wgs/od6/public/values?alt=json-in-script&amp;callback=displayContent" type="text/javascript"></script>
