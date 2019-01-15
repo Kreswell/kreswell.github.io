@@ -8,8 +8,8 @@ tags: [test]
 
 This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated at 15:43.
 
-<div style="width:100%;overflow:auto" id="runtable"></div>
-<div style="width:100%;overflow:auto" id="caltable"></div>
+<div style="width:100%;overflow:auto;" id="runtable"></div>
+<div style="width:100%;overflow:auto;table-layout:fixed;" id="caltable"></div>
   
 <script>
   function displayContent(json) {
