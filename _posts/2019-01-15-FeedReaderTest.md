@@ -6,10 +6,10 @@ date: 2019-01-15
 tags: [test]
 ---
 
-This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated at 16:05.
+This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table. Updated at 16:13.
 
 <div style="width:100%;overflow:auto;" id="runtable"></div>
-<div style="overflow-x:auto;white-space:nowrap;" id="caltable"></div>
+<div style="overflow-x:auto;white-space:nowrap;table-layout:fixed;" id="caltable"></div>
   
 <script>
   function displayContent(json) {
