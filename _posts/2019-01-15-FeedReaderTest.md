@@ -8,13 +8,13 @@ tags: [test]
 
 This is a test of getting data from an RSS feed of a published Google spreadsheet and writing it to a table.
 
-<div style="width:100%;" id="runtable"></div>
-<div style="width:100%;" id="caltable"></div>
+<table style="width:100%;" id="runtable"></table>
+<table style="width:100%;" id="caltable"></table>
   
 <script>
   function displayContent(json) {
-    var runstring = "<table><tr><th>Date</th><th>Run Time</th><th>Distance (km)</th><th>Speed (km/h)</th><th>Steps</th></tr>";  
-    var calstring = "<table><tr><th>Date</th><th>Calorie Goal</th><th>Calories In</th><th>Calories Earned</th><th>Weight</th></tr>";
+    var runstring = "<tr><th>Date</th><th>Run Time</th><th>Distance (km)</th><th>Speed (km/h)</th><th>Steps</th></tr>";  
+    var calstring = "<tr><th>Date</th><th>Calorie Goal</th><th>Calories In</th><th>Calories Earned</th><th>Weight</th></tr>";
     var len = json.feed.entry.length;
     for (var i=0; i<len; i++) {
       var rundate = json.feed.entry[i].gsx$date.$t;
@@ -30,8 +30,8 @@ This is a test of getting data from an RSS feed of a published Google spreadshee
       runstring += "<tr><td>" + rundate + "</td><td>" + runtime + "</td><td>" + rundist + "</td><td>" + runspeed + "</td><td>" + steps + "</td></tr>";
       calstring += "<tr><td>" + "<tr><td>" + rundate + "<tr><td>" + calgoal + "</td><td>" + calin + "</td><td>" + calearned + "</td><td>" + weight + "</td></tr>";
     }
-    runstring += "</table>";
-    calstring += "</table>";
+    //runstring += "</table>";
+    //calstring += "</table>";
     document.getElementById("runtable").innerHTML = runstring;
     document.getElementById("caltable").innerHTML = calstring;
   }   
