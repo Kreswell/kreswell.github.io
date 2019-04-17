@@ -153,6 +153,12 @@ paginate: 5
 kramdown:
   input: GFM
 
+# Create some collections for drafts and such.
+collections:
+  - drafts:
+      output: true
+      permalink: /:collection/:name
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
@@ -163,12 +169,14 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
+      permalink: /:title
   -
     scope:
       path: "" # all files
     values:
       layout: "page"
       show-avatar: true
+      permalink: /:title
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
