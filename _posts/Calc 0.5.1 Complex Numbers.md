@@ -38,10 +38,10 @@ $$
 	x^2 = n,
 $$
 
-but now we can't over/under-shoot the estimate with rational numbers. There are no rational numbers that square to a negative number. *That's* what's so weird about "imaginary" numbers. There's no $n \in \mathbb{Q}$ such that $n^2$ is "close" to -1. So instead, we just give $\sqrt{-1}$ a name, $i$, and call it a new thing.
+but now we can't over/under-shoot the estimate with rational numbers. There are no rational numbers that square to a negative number. *That's* what's so weird about "imaginary" numbers. There's no $n \in \mathbb{Q}$ such that $n^2$ is "close" to -1. So instead, we just give $\sqrt{-1}$ a name, $i$, and call it a new thing. Remember, inventing a new number is not a new activity! 
 
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzY4OTAyNywyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbNjc4MjYwNDI0LDIxMjYzMjc3OTddfQ==
 -->
