@@ -14,9 +14,9 @@ $$
 	x^2 = n
 $$
 
-has a nice solution for $n \in \{0,1,4,9,16,\dots\}$. But for other values of $n \in \mathbb{N}$, we don't have obvious answers. We have to *invent* new numbers to solve the equation. Historically (at least apocryphally
+has a nice solution for $n \in \{0,1,4,9,16,\dots\}$. But for other values of $n \in \mathbb{N}$, we don't have obvious answers. We have to *invent* new numbers to solve the equation. Historically (at least apocryphally), it was surprising that $\sqrt{2}$ is not rational. But to me, it seems 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTA1NzY3NSwyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbLTE4NDAzODM4ODYsMjEyNjMyNzc5N119
 -->
