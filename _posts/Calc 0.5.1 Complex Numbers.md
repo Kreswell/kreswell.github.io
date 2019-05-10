@@ -43,10 +43,15 @@ but now we can't over/under-shoot the estimate with rational numbers. There are 
 $$
 x^2 = n
 $$
-for 
+
+
+
+for $n \in -\mathbb{N}$.
+
+
 
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTI2MDAzNywyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbMjczNzIyODczLDIxMjYzMjc3OTddfQ==
 -->
