@@ -38,10 +38,15 @@ $$
 	x^2 = n,
 $$
 
-but now we can't over/under-shoot the estimate with rational numbers. There are no rational numbers that square to a negative number. *That's* what's so weird about "imaginary" numbers. There's no $n \in \mathbb{Q}$ such that $n^2$ is "close" to -1. So instead, we just give $\sqrt{-1}$ a name, $i$, and call it a new thing. Remember, inventing a new number is not a new activity! As [Leopold Kroeneker said]([https://en.wikipedia.org/wiki/Leopold_Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker)), (paraphrased) we "start" with the integers -- really the natural numbers -- and invent thre rest. We invented rational numbers to solve problems involving the inverse of multiplication, and we invented the real numbers -- actually the *algebraic* numbers -- to solve 
+but now we can't over/under-shoot the estimate with rational numbers. There are no rational numbers that square to a negative number. *That's* what's so weird about "imaginary" numbers. There's no $n \in \mathbb{Q}$ such that $n^2$ is "close" to -1. So instead, we just give $\sqrt{-1}$ a name, $i$, and call it a new thing. Remember, inventing a new number is not a new activity! As [Leopold Kroeneker said]([https://en.wikipedia.org/wiki/Leopold_Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker)), (paraphrased) we "start" with the integers -- really the natural numbers -- and invent thre rest. We invented rational numbers to solve problems involving the inverse of multiplication, and we invented the real numbers -- actually the *algebraic* numbers -- to invert exponentiation by integers. So it's not so weird to invent new numbers to solve 
+
+$$
+x^2 = n
+$$
+for 
 
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTAxNTMyNywyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbLTMxOTI2MDAzNywyMTI2MzI3Nzk3XX0=
 -->
