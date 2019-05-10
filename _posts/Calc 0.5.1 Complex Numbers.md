@@ -19,16 +19,16 @@ has a nice solution for $n \in \{0,1,4,9,16,\dots\}$. But for other values of $n
 The reason why, is that we can "squeeze" down to it with rational numbers. To make it really clear what we're doing, I'm going to work in explicit fractions, rather than decimal representation. Let's make a list of the squares of some rational numbers to try to home-in on $\sqrt{2}$.
 
 $$
-	\begin{aligned}
-		1^2 = 1 \qquad &\text{Too small.}\\
-		2^2 = 4 \qquad &\text{Too big.} \\
-	\left(\frac{3}{2}\right)^2 = \frac{9}{4} = 2.25 \qquad &\text{Closer, but still too big.} \\
-	\left(\frac{4}{3}\right)^2 = \frac{16}{9} = 1.777\dots \qquad &\text{Too small.} \\
-	\left(\frac{5}{3}\right)^2 = \frac{25}{9} = 2.777\dots \qquad &\text{Too big.}
+	\begin{tabular}
+		1^2 &= 1 \qquad \text{Too small.}\\
+		2^2 &= 4 \qquad\qquad\qquad\qquad \text{Too big.} \\
+	\left(\frac{3}{2}\right)^2 &= \frac{9}{4} = 2.25 \qquad\qquad \text{Closer, but still too big.} \\
+	\left(\frac{4}{3}\right)^2 &= \frac{16}{9} = 1.777\dots \qquad \text{Too small.} \\
+	\left(\frac{5}{3}\right)^2 &= \frac{25}{9} = 2.777\dots \qquad \text{Too big.}
 	\end{aligned}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU0NTI2MzksMjEyNjMyNzc5N119
+eyJoaXN0b3J5IjpbLTIxMzE3Mjc5MjYsMjEyNjMyNzc5N119
 -->
