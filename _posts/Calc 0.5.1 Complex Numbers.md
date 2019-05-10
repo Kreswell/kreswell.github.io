@@ -20,13 +20,14 @@ The reason why, is that we can "squeeze" down to it with rational numbers. To ma
 
 $$
 	\begin{aligned}
-		1^2 &= 1 \qquad \text{ too small}\\
-		2^2 &= 4 \qquad \text{ too big} \\
-	\left(\frac{3}{2}\right)^2 &= \frac{9}{4} = 2.25 \qquad \t
+		1^2 = 1 \qquad &\text{Too small.}\\
+		2^2 = 4 \qquad &\text{Too big.} \\
+	\left(\frac{3}{2}\right)^2 = \frac{9}{4} = 2.25 \qquad &\text{Closer, but still too big.} \\
+	
 	\end{aligned}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIyMjYzMTAsMjEyNjMyNzc5N119
+eyJoaXN0b3J5IjpbMTYwNTM3MTQ3NiwyMTI2MzI3Nzk3XX0=
 -->
