@@ -14,9 +14,9 @@ $$
 	x^2 = 4
 $$
 
-Has a nice solution: 2 or -2, but when the number on the right-hand side isn't a perfect square, we have to *invent* new numbers to solve the equa
+Has a nice solution: 2 or -2, but when the number on the right-hand side isn't a perfect square, we have to *invent* new numbers to solve the equation.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTgzNjYwMV19
+eyJoaXN0b3J5IjpbMjEyNjMyNzc5N119
 -->
