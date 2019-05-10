@@ -27,11 +27,12 @@ $$
 	\left(\frac{5}{3}\right)^2 &= \frac{25}{9} = 2.777\dots &\text{Too big.} \\
 	\left(\frac{5}{4}\right)^2 &=\frac{25}{16} = 1.5625 &\text{Too small.} \\
 	\left(\frac{6}{5}\right)^2 &=\frac{36}{25} = 1.44 &\text{Too small.} \\
-	\left(\frac{7}{5}\right)^2 &=\frac{49}{25} = 1.96 &\text{Getting closer \dots}
+	\left(\frac{7}{5}\right)^2 &=\frac{49}{25} = 1.96 &\text{Getting closer \dots} \\
+	\left(\frac{8}{5}\right)^2 &=\frac{64}{25} = 2.56 &\text{Too }
 	\end{array}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzYzNzgxMSwyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbMTE5OTc0ODQ1NywyMTI2MzI3Nzk3XX0=
 -->
