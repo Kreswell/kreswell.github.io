@@ -11,9 +11,12 @@ Complex numbers have a reputation of being *bizarre* or *other-worldly*. I blame
 Let's think about $\sqrt{2}$, or as I prefer to say (the *better* way of writing it), $2^{\frac{1}{2}}$. The algebra problem
 
 $$
-	x^2 = 
+	x^2 = 4
+$$
+
+Has a nice solution: 2 or -2, but when the number on the right-hand side isn't a perfect square, we have to *invent* new numbers to solve the equa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDA2MjU1Ml19
+eyJoaXN0b3J5IjpbMTgwMTgzNjYwMV19
 -->
