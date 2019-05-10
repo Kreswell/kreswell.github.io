@@ -14,9 +14,9 @@ $$
 	x^2 = n
 $$
 
-has a nice solution for $n \in \{0,1,4,9,16,\dots\}$. But for other value
+has a nice solution for $n \in \{0,1,4,9,16,\dots\}$. But for other values of $n \in \mathbb{N}$, we don't have obvious answers. We have to *invent* new numbers to  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODgyMTU4MSwyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbLTQ5MDU0MjYxOCwyMTI2MzI3Nzk3XX0=
 -->
