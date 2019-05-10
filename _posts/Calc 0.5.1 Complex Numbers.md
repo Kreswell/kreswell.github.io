@@ -6,9 +6,9 @@ date: 2019-05-10
 tags: [math]
 ---
 
-
+Complex numbers have a reputation of being sort-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MTgxMjAzXX0=
+eyJoaXN0b3J5IjpbLTEzMTA2MjkzNTJdfQ==
 -->
