@@ -32,7 +32,14 @@ $$
 	\end{array}
 $$
 
+So what's so different about $\sqrt{-1}$? We're still inventing a new number to solve the equation
+
+$$
+	x^2 = n,
+$$
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Mjg0MDM2NywyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbMTM5NDg3MTg4LDIxMjYzMjc3OTddfQ==
 -->
