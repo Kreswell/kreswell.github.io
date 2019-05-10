@@ -26,7 +26,7 @@ $$
 	\left(\frac{4}{3}\right)^2 &= \frac{16}{9} = 1.777\dots &\text{Too small.} \\
 	\left(\frac{5}{3}\right)^2 &= \frac{25}{9} = 2.777\dots &\text{Too big.} \\
 	\left(\frac{5}{4}\right)^2 &=\frac{25}{16} = 1.5625 &\text{Too small.} \\
-	\left(\frac{7}{5}\right)^2 &=\frac{49}{25} = 1.96 &\text{Getting closer \dots} \\
+	\left(\frac{7}{5}\right)^2 &=\frac{49}{25} = 1.96 &\text{Getting closer} \\
 	\left(\frac{8}{5}\right)^2 &=\frac{64}{25} = 2.56 &\text{Too big.} \\
 	\vdots & & \vdots
 	\end{array}
@@ -43,5 +43,5 @@ but now we can't over/under-shoot the estimate with rational numbers. There are 
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NzQ2OTc4LDIxMjYzMjc3OTddfQ==
+eyJoaXN0b3J5IjpbMTc2MjE0MzY1MiwyMTI2MzI3Nzk3XX0=
 -->
