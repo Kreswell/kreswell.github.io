@@ -38,8 +38,8 @@ $$
 	x^2 = n,
 $$
 
-but now we can't over/under-shoot the estimate with rational numbers. There are no rational numbers that square to a negative number. *That's* what's so weird about "imaginary" numbers. There's no $n$ such 
+but now we can't over/under-shoot the estimate with rational numbers. There are no rational numbers that square to a negative number. *That's* what's so weird about "imaginary" numbers. There's no $n \in \mathbb{Q}$ such that $n^2$ is "close" to -1. 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyMzUwMTg3LDIxMjYzMjc3OTddfQ==
+eyJoaXN0b3J5IjpbLTMxNDMzNTM3NSwyMTI2MzI3Nzk3XX0=
 -->
