@@ -25,11 +25,12 @@ $$
 	\left(\frac{3}{2}\right)^2 &= \frac{9}{4} = 2.25 &\text{Closer, but still too big.} \\
 	\left(\frac{4}{3}\right)^2 &= \frac{16}{9} = 1.777\dots &\text{Too small.} \\
 	\left(\frac{5}{3}\right)^2 &= \frac{25}{9} = 2.777\dots &\text{Too big.} \\
-	\left(\frac{5}{4}\right)^2 &=\frac{25}{16} = 1.562
+	\left(\frac{5}{4}\right)^2 &=\frac{25}{16} = 1.5625 &\text{Too small.} \\
+	\left(\frac{6}{4}
 	\end{array}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjA0Nzg3NSwyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbMTQ2MzM3MjA3MSwyMTI2MzI3Nzk3XX0=
 -->
