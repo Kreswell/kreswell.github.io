@@ -20,11 +20,12 @@ The reason why, is that we can "squeeze" down to it with rational numbers. To ma
 
 $$
 	\begin{aligned}
-	\sqrt
+		1^2 &= 1 \text{ too small}\\
+	2^2 &= 4 \text{ too big} \\
 	\end{aligned}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTE1MTc1NiwyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbOTU4MDQ5ODksMjEyNjMyNzc5N119
 -->
