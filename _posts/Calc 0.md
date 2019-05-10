@@ -1,3 +1,11 @@
+---
+layout: post
+title: Calc 0
+subtitle: Talking in maths
+date: 2019-05-10
+tags: [math]
+---
+
 I've been thinking about math a lot lately. 
 
 OK, that's pretty much always true, but there are some particular mathematical concepts that I've been thinking about a lot that I don't understand nearly as well as I'd like to. While digging into it, I realized I could really stand to review a lot of stuff from calculus II-III, differential equations, complex analysis -- basically all the stuff from my undergrad math courses 20+ years ago. (Holy crap, I'm old!) These topics are one step above the level of the stuff I taught as a TA (pre-calc, calc I, first year physics), and two or three steps below the stuff covered in my grad courses, so some of it I really haven't touched (at least, not directly) since I first took the course.
@@ -6,8 +14,7 @@ So, I think I'm going to start a series where I (semi-)teach these concepts. Now
 
 I don't know how far I'll go or how often I'll post. I'm going to start with a quick(?) review of some key ideas from pre-calc and calc I, and move on from there. And I'll probably vary a lot with which things I'll dive into deeply, and which things I'll blow past. The stuff I've been wanting to understand better falls within the topics of functional analysis, topology, and such. So I'm hoping to get all the way up to that point. We'll see. 
 
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzY1MjY5XX0=
+eyJoaXN0b3J5IjpbMTE1NTgxNTgzMSwtNTA3NjUyNjldfQ==
 -->
