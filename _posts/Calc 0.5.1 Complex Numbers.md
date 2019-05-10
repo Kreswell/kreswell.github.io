@@ -14,9 +14,17 @@ $$
 	x^2 = n
 $$
 
-has a nice solution for $n \in \{0,1,4,9,16,\dots\}$. But for other values of $n \in \mathbb{N}$, we don't have obvious answers. We have to *invent* new numbers to solve the equation. Historically (at least apocryphally), it was surprising that $\sqrt{2}$ is not rational. But to me, it's a little suspect that we can call it a number at all. Why is $\sqrt{2}$ even a reasonable thing to write down?
+has a nice solution for $n \in \{0,1,4,9,16,\dots\}$. But for other values of $n \in \mathbb{N}$, we don't have obvious answers. We have to *invent* new numbers to solve the equation. Historically (at least apocryphally), it was surprising that $\sqrt{2}$ is not rational. But to me, it's a little suspect that we can call it a number at all. Why is $\sqrt{2}$ even a reasonable thing to write down? 
+
+The reason why, is that we can "squeeze" down to it with rational numbers. To make it really clear what we're doing, I'm going to work in explicit fractions, rather than decimal representation. Let's make a list of the squares of some rational numbers to try to home-in on $\sqrt{2}$.
+
+$$
+	\begin{aligned}
+	\sqrt
+	\end{aligned}
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzOTA1NSwyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbLTgxMTE1MTc1NiwyMTI2MzI3Nzk3XX0=
 -->
