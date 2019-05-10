@@ -34,12 +34,10 @@ $$
 ```
 That was a bit of overkill with all the `\cdots`, `\vdots`, and `\ddots`, but I wanted to see how they looked. As a test of multi-line equations, let's try Maxwell's equations. 
 $$
-	\begin{aligned}
 	\nabla \cdot \mathbf{E} &= \frac{\rho}{\epsilon_0} \\
 	\nabla \cdot \mathbf{B} &= 0 \\
 	\nabla \times \mathbf{E} &= -\frac{\partial \mathbf{B}}{\partial t} \\
 	\nabla \times \mathbf{B} &= \mu_0 \left( \epsilon_0\frac{\partial \mathbf{E}}{\partial t} + \mathbf{J} \right)
-	\end{aligned}
 $$
 
 This works in the editor, but I have to use `\begin{aligned}` and `\end{aligned}` (unlike MathJax, which just knows to do aligned lines if you use the `&` and `\\`. I still haven't figured out how to do equation numbers yet.
@@ -53,5 +51,5 @@ It uses KaTeX rather than MathJax, like a lot of Markdown editors. I haven't not
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MjQxNDQzXX0=
+eyJoaXN0b3J5IjpbMTM0ODg5OTYyNywyMTYyNDE0NDNdfQ==
 -->
