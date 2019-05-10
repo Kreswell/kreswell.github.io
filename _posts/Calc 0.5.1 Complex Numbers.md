@@ -23,11 +23,12 @@ $$
 		1^2 = 1 \qquad &\text{Too small.}\\
 		2^2 = 4 \qquad &\text{Too big.} \\
 	\left(\frac{3}{2}\right)^2 = \frac{9}{4} = 2.25 \qquad &\text{Closer, but still too big.} \\
-	
+	\left(\frac{4}{3}\right)^2 = \frac{16}{9} = 1.777\dots \qquad &\text{Too small.} \\
+	\left
 	\end{aligned}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTM3MTQ3NiwyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbMTI1NDkzNjg5NiwyMTI2MzI3Nzk3XX0=
 -->
