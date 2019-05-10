@@ -44,14 +44,12 @@ $$
 x^2 = n
 $$
 
-
-
 for $n \in -\mathbb{N}$.
 
-
+Now
 
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNzIyODczLDIxMjYzMjc3OTddfQ==
+eyJoaXN0b3J5IjpbMjA2MjAzODkzMywyMTI2MzI3Nzk3XX0=
 -->
