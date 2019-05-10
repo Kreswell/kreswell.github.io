@@ -33,6 +33,7 @@ $$
 $$
 ```
 That was a bit of overkill with all the `\cdots`, `\vdots`, and `\ddots`, but I wanted to see how they looked. As a test of multi-line equations, let's try Maxwell's equations. 
+
 $$
 	\begin{aligned}
 	\nabla \cdot \mathbf{E} &= \frac{\rho}{\epsilon_0} \\
@@ -53,6 +54,6 @@ It uses KaTeX rather than MathJax, like a lot of Markdown editors. I haven't not
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MjQxNDQzLDEzNDg4OTk2MjcsMjE2Mj
-QxNDQzXX0=
+eyJoaXN0b3J5IjpbLTUyMjMzMTkxNSwyMTYyNDE0NDMsMTM0OD
+g5OTYyNywyMTYyNDE0NDNdfQ==
 -->
