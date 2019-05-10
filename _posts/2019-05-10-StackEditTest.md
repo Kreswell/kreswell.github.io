@@ -7,7 +7,7 @@ tags: [test]
 ---
 
 # StackEdit Test
-I recently discovered StackEdit as a really user-friendly, web-based editor for Markdown documents with $\LaTeX$-ish[<sup>1</sup>](#1) support. It has an option to publish documents to various sites, including GitHub, Blogger, and WordPress. I've created accounts on all of those sites in the process of trying to find my favorite way to write blog posts. This is a test document to see what happens to the formatting when I publish to those sites.
+I recently discovered StackEdit as a really user-friendly, web-based editor for Markdown documents with $$\LaTeX$$-ish[<sup>1</sup>](#1) support. It has an option to publish documents to various sites, including GitHub, Blogger, and WordPress. I've created accounts on all of those sites in the process of trying to find my favorite way to write blog posts. This is a test document to see what happens to the formatting when I publish to those sites.
 
 ## Some test math
 The Jacobian matrix $$J$$ of a multi-variable function $$f : \mathbb{R}^n \mapsto \mathbb{R}^n$$ can be written as
@@ -53,5 +53,5 @@ It uses KaTeX rather than MathJax, like a lot of Markdown editors. I haven't not
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzY4MzgzOV19
+eyJoaXN0b3J5IjpbMjE2MjQxNDQzXX0=
 -->
