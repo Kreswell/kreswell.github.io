@@ -19,18 +19,19 @@ has a nice solution for $n \in \{0,1,4,9,16,\dots\}$. But for other values of $n
 The reason why, is that we can "squeeze" down to it with rational numbers. To make it really clear what we're doing, I'm going to work in explicit fractions, rather than decimal representation. Let's make a list of the squares of some rational numbers to try to home-in on $\sqrt{2}$.
 
 $$
-	\begin{array}{cll}
-		1^2 &= 1 &\text{Too small.} \\
-		2^2 &= 4 &\text{Too big.} \\
+\begin{array}{cll}
+	1^2 &= 1 &\text{Too small.} \\
+	2^2 &= 4 &\text{Too big.} \\
 	\left(\frac{3}{2}\right)^2 &= \frac{9}{4} = 2.25 &\text{Closer, but still too big.} \\
 	\left(\frac{4}{3}\right)^2 &= \frac{16}{9} = 1.777\dots &\text{Too small.} \\
 	\left(\frac{5}{3}\right)^2 &= \frac{25}{9} = 2.777\dots &\text{Too big.} \\
 	\left(\frac{5}{4}\right)^2 &=\frac{25}{16} = 1.5625 &\text{Too small.} \\
-	\left(\frac{6}{4}
-	\end{array}
+	\left(\frac{6}{5}\right)^2 &=\frac{36}{25} = 1.44 &\test{Too small.} \\
+	\left(\frac{7}{5}
+\end{array}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzM3MjA3MSwyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbLTE3MzU1MTM5MjQsMjEyNjMyNzc5N119
 -->
