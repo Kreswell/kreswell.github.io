@@ -46,10 +46,10 @@ $$
 
 for $n \in -\mathbb{N}$.
 
-Now
+Now you may be wondering, "That argument sounds good, but these numbers don't fit anywhere on the real line. So what do we do with them?" Well, 
 
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjAzODkzMywyMTI2MzI3Nzk3XX0=
+eyJoaXN0b3J5IjpbMzk1NTM2NTksMjEyNjMyNzc5N119
 -->
