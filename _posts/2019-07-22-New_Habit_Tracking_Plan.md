@@ -1,4 +1,3 @@
-
 ---
 title: New Habit Tracking Plan
 subtitle: The rebirth of 30-30-30
@@ -12,5 +11,5 @@ At the beginning of the year, I started my “30-30-30” plan. I managed to mak
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Nzg0NTM2NV19
+eyJoaXN0b3J5IjpbMTUzOTQ5MjQ3M119
 -->
