@@ -15,11 +15,11 @@ Since this approach worked so well for me before, I’m going to try rebooting i
 - Do each task/habit literally every day.
 - Regularly re-evaluate the goals, say once per week on Sundays, and adjust as needed.
 - Allow myself to take breaks from habits when I hit goals or when it becomes clear that I’ve stopped progressing. But have a plan for when and how I’ll get back to it.
-- Track everything in a spreadsheet.
+- Track everything in a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Sk6168ClNcAtyI5rENN3xY5neNYdY1f8DHXItBzUZ2x2FDionPBgePJ6MfcSpsXEhsULJMymCkli/pubhtml).
 - Share my progress for external accountability.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTMyMzk3NCwxNTM5NDkyNDczXX0=
+eyJoaXN0b3J5IjpbLTkyMTg1MDY5NCwxNTM5NDkyNDczXX0=
 -->
