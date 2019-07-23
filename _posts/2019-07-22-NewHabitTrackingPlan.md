@@ -14,12 +14,12 @@ Since this approach worked so well for me before, I’m going to try rebooting i
 - Have well-defined but reasonable long-term and daily/weekly goals.
 - Do each task/habit literally every day.
 - Regularly re-evaluate the goals, say once per week on Sundays, and adjust as needed.
-- Allow myself to take “vacations” from habits when I hit goals or when it becomes clear that I’ve stopped progressing. But have a plan for when and how I’ll get back to it.
+- Allow myself to take breaks from habits when I hit goals or when it becomes clear that I’ve stopped progressing. But have a plan for when and how I’ll get back to it.
 - Track everything in a spreadsheet.
 - Share my progress for external accountability.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzIzNTEwNywxNTM5NDkyNDczXX0=
+eyJoaXN0b3J5IjpbLTY5NTMyMzk3NCwxNTM5NDkyNDczXX0=
 -->
