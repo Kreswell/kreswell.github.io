@@ -24,7 +24,7 @@ So here are my starting goals:
   - Long-term goal: 187 pounds (just under the lowest weight I hit earlier this year). 
   - Haven’t set a deadline yet.
 - Track calories.
-  - Although I may not track this week since there’s a collaboration meeting, and snacks at events like this are [literally](https://media.giphy.com/media/LkcIVUmf1qoUM/giphy-facebook_s.jpg) the hardest foods to track.
+  - Although I may not track this week since there’s a collaboration meeting, and snacks like the ones at events like this are [literally](https://media.giphy.com/media/LkcIVUmf1qoUM/giphy-facebook_s.jpg) the hardest foods to track.
 - Track steps.
   - No goal yet.
 - Stretch.
@@ -36,6 +36,6 @@ So here are my starting goals:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODQyMTk0MSwtOTIxODUwNjk0LDE1Mz
-k0OTI0NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTIwMzQ4NTQsLTkyMTg1MDY5NCwxNT
+M5NDkyNDczXX0=
 -->
