@@ -18,8 +18,24 @@ Since this approach worked so well for me before, I’m going to try rebooting i
 - Track everything in a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Sk6168ClNcAtyI5rENN3xY5neNYdY1f8DHXItBzUZ2x2FDionPBgePJ6MfcSpsXEhsULJMymCkli/pubhtml).
 - Share my progress for external accountability.
 
+## Wednesday, July 24
+So here are my starting goals:
+- Weigh.
+  - Long-term goal: 187 pounds (just under the lowest weight I hit earlier this year). 
+  - Haven’t set a deadline yet.
+- Track calories.
+  - Although I may not track this week since there’s a collaboration meeting, and snacks at events like this are [literally]() the hardest foods to track.
+- Track steps.
+  - No goal yet.
+- Stretch.
+  - I stopped running regularly about four months ago because I got pretty bad plantar fasciitis in my right foot, and it’s still bothering me. The recommended treatment is a *whole lot* of stretching.
+- Write something and post it.
+  - I’m starting with a *very* low goal, but the goal of writing every day.
+  - I also set a low upper limit, which I broke yesterday and I’m breaking again right now, so I’ll talk more about the reasoning behind this limit tomorrow.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTg1MDY5NCwxNTM5NDkyNDczXX0=
+eyJoaXN0b3J5IjpbNjcwMjYwMjE0LC05MjE4NTA2OTQsMTUzOT
+Q5MjQ3M119
 -->
