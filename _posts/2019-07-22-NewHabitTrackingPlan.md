@@ -33,9 +33,12 @@ So here are my starting goals:
   - I’m starting with a *very* low goal, but the goal of writing every day.
   - I also set a low upper limit, which I broke yesterday and I’m breaking again right now, so I’ll talk more about the reasoning behind this limit tomorrow.
 
+## Thursday, July 25
+One of the big characteristics of ADHD, perhaps *the* defining feature, is difficulty with mental planning and organization. Whenever I think about starting a task, I usually either *way* underestimate what’s involved, set ridiculously high goals for myself, and then feel bad when I don’t make it. Or I way over-think the minor details and never get started. So my plan is to aim very small with my writing goals, at least at first, to make it easier for me to get something written every day, and to help me get a sense of what a reasonable goal actually looks like.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIwMzQ4NTQsLTkyMTg1MDY5NCwxNT
-M5NDkyNDczXX0=
+eyJoaXN0b3J5IjpbMTMzMjkwNzA2MiwtMTA5MjAzNDg1NCwtOT
+IxODUwNjk0LDE1Mzk0OTI0NzNdfQ==
 -->
