@@ -1,5 +1,8 @@
 ---
-title: 
+title: Any other physicists out there with ADHD?
+subtitle: Do you want to start a club or something?
+date: 2019-07-26
+tags: [ADHD, physics]
 ---
 
 I want to start a group for physicists with ADHD, or maybe, more generally, for scientists and researchers with ADHD.
@@ -11,5 +14,5 @@ It would be great to meet some other people in this field who are dealing with t
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM0NjI5MjBdfQ==
+eyJoaXN0b3J5IjpbMTUxMzI4NzUxN119
 -->
