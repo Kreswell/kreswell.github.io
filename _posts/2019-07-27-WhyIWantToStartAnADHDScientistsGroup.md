@@ -24,9 +24,10 @@ That’s actually helpful.
 
 ADHD isn’t really a D of A or H. It’s [an impairment of specific executive functions]([https://www.additudemag.com/7-executive-function-deficits-linked-to-adhd/](https://www.additudemag.com/7-executive-function-deficits-linked-to-adhd/)). The best (only?) way I’ve found to manage these impairments is externally; by having external structures, motivations, and reminders. And the best source of this external structure is another person. I’m not sure what sort of external peer support would work best, but I think if some of us got together, we could start trying to figure it out.
 
+Also, It would be nice to have some other people dealing with the same ADHD crap in the same sort of settings that I am, to commiserate with.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDgwMTc3M119
+eyJoaXN0b3J5IjpbMTk4NzM5NTkwMl19
 -->
