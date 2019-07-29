@@ -1,3 +1,10 @@
+---
+title: Why I want to start an ADHD scientists group
+subtitle: What I, personally, want to get out of it.
+date: 2019-07-27
+tags: [ADHD, physics]
+---
+
 I’ll be honest. I really only want to start a group for physicists/scientists with ADHD for my own benefit. But I figure if it benefits me, it will probably benefit other people too. So here’s what I’m hoping to get out of it.
 
 ### Awareness
@@ -20,5 +27,5 @@ ADHD isn’t really a D of A or H. It’s [an impairment of specific executive f
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTAwMTU5MF19
+eyJoaXN0b3J5IjpbLTEzODEzMDU3NDZdfQ==
 -->
