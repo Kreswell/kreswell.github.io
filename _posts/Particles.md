@@ -6,10 +6,10 @@ The standard model is sort of the "periodic table of elementary particles." Well
 As you can see, the list of known particles is pretty short<sup>1</sup>
 
 ---
-<sup>1</sup>Although that 
+<sup>1</sup>Although 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY4OTU4NTMsLTEzMDk0NTAwMTUsLT
-IwNzk4Mzk1MDQsNjE1OTk2MDI5XX0=
+eyJoaXN0b3J5IjpbMTQ4MzA1NTA2OCwtMTMwOTQ1MDAxNSwtMj
+A3OTgzOTUwNCw2MTU5OTYwMjldfQ==
 -->
