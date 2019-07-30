@@ -5,10 +5,10 @@ The standard model is sort of the "periodic table of elementary particles." Well
 ![The standard model of particle physics, as it's usually depicted.](https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg)
 As you can see, the list of known particles is pretty short. However, there are a whole bunch of different *categories* of particles. This is where things can get pretty confusing, if for no other reason than because of all the different names. But those categories are, in a sense, the defining features of the particles, so that's what I'll focus on.
 
-But before I can talk about the most important categorical difference, I've got to say a little bit about the bizarre quantum mechanical property called *spin*. 
+But before I can talk about the most important categorical difference, I've got to say a little bit about the bizarre quantum mechanical property called *spin*. So that's what we'll get into next time.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAxMDkyMDUsLTE0MTIyOTE1NTAsLT
-EzMDk0NTAwMTUsLTIwNzk4Mzk1MDQsNjE1OTk2MDI5XX0=
+eyJoaXN0b3J5IjpbLTY3NDk0Mzc0OSwtMTQxMjI5MTU1MCwtMT
+MwOTQ1MDAxNSwtMjA3OTgzOTUwNCw2MTU5OTYwMjldfQ==
 -->
