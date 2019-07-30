@@ -3,11 +3,13 @@ This is supposed to be a blog about physics, among other things, so it's about t
 The standard model is sort of the "periodic table of elementary particles." Well, a theorist would say it's really the theory behind those particles and their interactions. But let's just focus on what the particles and interactions are. The theory [gets a bit mathy](https://tvtropes.org/pmwiki/pmwiki.php/Main/Understatement).
 
 ![The standard model of particle physics, as it's usually depicted.](https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg)
-As you can see, the list of known particles is pretty shor
+As you can see, the list of known particles is pretty short<sup>1</sup>
 
+---
+<sup>1</sup>Although that 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTA0MjM2MSwtMTMwOTQ1MDAxNSwtMj
-A3OTgzOTUwNCw2MTU5OTYwMjldfQ==
+eyJoaXN0b3J5IjpbLTIwNDY4OTU4NTMsLTEzMDk0NTAwMTUsLT
+IwNzk4Mzk1MDQsNjE1OTk2MDI5XX0=
 -->
