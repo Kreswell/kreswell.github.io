@@ -8,11 +8,12 @@ The most famous ones are the [paradoxes of motion](https://en.wikipedia.org/wiki
 ### Number Darts
 Imagine throwing a dart (with a geometric point tip) at the [real number line](https://en.wikipedia.org/wiki/Real_line). Suppose you aim at $$\pi$$. What's the probability that you hit $$\pi$$ *exactly*? How will you know if you hit $$\pi$$ *exactly*? Suppose you try to cheat and stick the dart *exactly* on $$\pi$$ by hand. Is that even possible? What if instead of aiming at $$\pi$$, you aim at $$2$$. Is that different, or is $$2$$ just as "easy to hit" as $$\pi$$? 
 
-### 
+### Emptiness
+I'm just going to point you towards the Buddhist concept of sunyata or emptiness
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEyNTczMjMsMTQ1NjA5ODQ4OCwtOT
-AwMjUzNTkyLC0yMTM1ODMwOTgyLDE1NTQwNjM4NzcsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwNjc1MjcwNTUsLTEyNzEyNTczMjMsMT
+Q1NjA5ODQ4OCwtOTAwMjUzNTkyLC0yMTM1ODMwOTgyLDE1NTQw
+NjM4NzcsNzMwOTk4MTE2XX0=
 -->
