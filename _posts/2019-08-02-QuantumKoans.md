@@ -1,8 +1,8 @@
 ---
 title: Quantum Koans
-subtitle: Time to start writing it down.
-date: 2019-08-01
-tags: [physics]
+subtitle: Creating a new intuition.
+date: 2019-08-02
+tags: [physics, quantum mechanics]
 ---
 
 Quantum mechanics is very counter-intuitive, but intuition is [learned](https://www.psychologytoday.com/us/basics/intuition). So maybe it's possible to learn new intuitions that makes quantum mechanics make more sense. 
@@ -42,5 +42,5 @@ Finally, let me list a few quotes that might get us thinking in the right direct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTg3NTQxMF19
+eyJoaXN0b3J5IjpbMTY4OTMzMTM2OV19
 -->
