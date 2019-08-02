@@ -6,13 +6,13 @@ So let me start by listing the principles that *I think* are sufficient for deri
 1. Relativity: There is no preferred or "God given" coordinate system.
 2. Finite specificity: Any observable can only be measured or specified up to finite precision in finite time. This is an inherent property of real numbers, and therefore an inherent property of physical observables.
 
-I called the first one the "zeroth" principle because it's basically just terminology, and it's sort of a corollary to 1, but it still seems worth mentioning in itself. Number 2 is where nearly all of the "quantum weirdness" comes from, namely the probabilistic nature of QM, and *I think* (I haven't worked through it rigorously yet), the complex analytic nature of wave functions and observable operators (and therefore the wave-particle duality). It's also probably the hardest one to swallow conceptually, and the one I haven't seen mentioned by any other derivation or interpretation of QM. Which is kind of surprising to me since it follows fairly obviously from basic measure theory (which probably isn't familiar to you, but should be to any theorist), and it should give us a very natural way to completely eliminate "hidden variables" as a concept, so we don't even have to worry about them.
+I called the first one the "zeroth" principle because it's basically just terminology, and it's sort of a corollary to 1, but it still seems worth mentioning in itself. Number 2 is where nearly all of the "quantum weirdness" comes from, namely the probabilistic nature of QM, and *I think* (I haven't worked through it rigorously yet), the complex analytic nature of wave functions and observable operators (and therefore the wave-particle duality). It's also probably the hardest one to swallow conceptually, and the one I haven't seen mentioned by any other derivation or interpretation of QM. Which is kind of surprising to me since it follows fairly obviously from basic measure theory (which I realize you probably haven't heard of, but any theorist), and it should give us a very natural way to completely eliminate "hidden variables" as a concept, so we don't even have to worry about them.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDAwMzE1MiwyMDc3MzgxODYxLC0xMz
-UyMjI3ODYwLC03OTUwNzE5MzUsNDUyNDIxNTI1LDk2ODUyMzQ4
-OCwtMTc0Nzc0NDQ4NSwxMzE1NjM4Nzg1LC0xODkxMTIwMjZdfQ
-==
+eyJoaXN0b3J5IjpbLTE5ODE2MzQ4OTMsMjA3NzM4MTg2MSwtMT
+M1MjIyNzg2MCwtNzk1MDcxOTM1LDQ1MjQyMTUyNSw5Njg1MjM0
+ODgsLTE3NDc3NDQ0ODUsMTMxNTYzODc4NSwtMTg5MTEyMDI2XX
+0=
 -->
