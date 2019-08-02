@@ -37,6 +37,8 @@ Finally, let me list a few quotes that might get us thinking in the right direct
 
 #### Niels Bohr
 > Einstein, stop telling God what to do.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDQ0MDU0N119
+eyJoaXN0b3J5IjpbLTg0MTE3NDA4MV19
 -->
