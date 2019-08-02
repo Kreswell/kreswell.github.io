@@ -22,11 +22,12 @@ Finally, let me list a few quotes that might get us thinking in the right direct
 #### Albert Einstein
 > Thus the photon has traveled only _one_ route. It travels only one route. but it travels both routes: it travels both routes, but it travels only one route. What nonsense!
 
-#### Niel
+#### Niels Bohr
+> Einstein, stop telling God what to do.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjgxOTQxOCwtMTI3MTI1NzMyMywxND
+eyJoaXN0b3J5IjpbMTI3MjY4NTkwNiwtMTI3MTI1NzMyMywxND
 U2MDk4NDg4LC05MDAyNTM1OTIsLTIxMzU4MzA5ODIsMTU1NDA2
 Mzg3Nyw3MzA5OTgxMTZdfQ==
 -->
