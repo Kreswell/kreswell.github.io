@@ -2,7 +2,7 @@
 title: Quantum Thoughts
 subtitle: Time to start writing it down.
 date: 2019-08-01
-tags: [physics]
+tags: [physics, quantum mechanics]
 ---
 
 Lately I've been a bit obsessed with the mathematical foundations of quantum mechanics. I've tried several times to start writing up my current best understanding of it, but instead I keep getting sucked into reading more articles and Wikipedia pages about group representations, projection valued measures, decoherence, delayed choice quantum erasers, and so on. I think the problem is, I'm not sure where to start, and I'm really not sure where I'm going to end up.
@@ -20,5 +20,5 @@ There's a **whole lot** to work through, and it will get pretty mathy. If I deci
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDUzMDM1MF19
+eyJoaXN0b3J5IjpbLTM1MTAwMzA4MiwtNTcwNTMwMzUwXX0=
 -->
