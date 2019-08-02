@@ -5,14 +5,15 @@ So let me start by listing the principles that *I think* are sufficient for deri
 0. The words *observation*, *measurement*, and *interaction* are synonyms.
 1. Relativity: There is no preferred or "God given" coordinate system.
 2. Finite specificity: Any observable can only be measured or specified up to finite precision in finite time. This is an inherent property of real numbers, and therefore an inherent property of physical observables.
-3. Non-essentiality: [Things in themselves](https://en.wikipedia.org/wiki/Thing-in-itself) doesn't exist, or at least are completely unknowable. To quote John Wheeler "No phenomenon is a phenomenon until it is an observed phenomenon."
+3. Non-essentiality: [Things in themselves](https://en.wikipedia.org/wiki/Thing-in-itself) don't exist, or at least are completely unknowable. To quote John Wheeler "No phenomenon is a phenomenon until it is an observed phenomenon."
 
-I called the first one the "zeroth" principle because it's basically just terminology, and it's sort of a corollary to 1 and 3, but it still seems worth mentioning in itself. Number 2 is where nearly all of the "quantum weirdness" comes from, namely the probabilistic nature of QM, and *I think* (I haven't worked through it rigorously yet), the complex analytic nature of wave functions and observable operators (and therefore the wave-particle duality). It's also, I think, the hardest one to swallow, and the only one I haven't seen mentioned by 
+I called the first one the "zeroth" principle because it's basically just terminology, and it's sort of a corollary to 1 and 3, but it still seems worth mentioning in itself. Number 2 is where nearly all of the "quantum weirdness" comes from, namely the probabilistic nature of QM, and *I think* (I haven't worked through it rigorously yet), the complex analytic nature of wave functions and observable operators (and therefore the wave-particle duality). It's also probably the hardest one to swallow conceptually, and the one I haven't seen mentioned by any other 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MTY1OTA2LDIwNzczODE4NjEsLTEzNT
-IyMjc4NjAsLTc5NTA3MTkzNSw0NTI0MjE1MjUsOTY4NTIzNDg4
-LC0xNzQ3NzQ0NDg1LDEzMTU2Mzg3ODUsLTE4OTExMjAyNl19
+eyJoaXN0b3J5IjpbLTE2ODM1NTMyMTEsMjA3NzM4MTg2MSwtMT
+M1MjIyNzg2MCwtNzk1MDcxOTM1LDQ1MjQyMTUyNSw5Njg1MjM0
+ODgsLTE3NDc3NDQ0ODUsMTMxNTYzODc4NSwtMTg5MTEyMDI2XX
+0=
 -->
