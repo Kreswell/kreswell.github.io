@@ -6,10 +6,13 @@ So let me start by listing some of the concepts that seem to be key to understan
 1. Relativity: There is no preferred or "God given" coordinate system.
 2. Finite specificity: Any observable can only be measured or specified up to finite precision in finite time. This is an inherent property of real numbers, and therefore an inherent property of physical observables.
 
+I called the first one the "zeroth" p
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NzEwODI4LDIwNzczODE4NjEsLTEzNT
-IyMjc4NjAsLTc5NTA3MTkzNSw0NTI0MjE1MjUsOTY4NTIzNDg4
-LC0xNzQ3NzQ0NDg1LDEzMTU2Mzg3ODUsLTE4OTExMjAyNl19
+eyJoaXN0b3J5IjpbLTkyNjkwMDU5MiwyMDc3MzgxODYxLC0xMz
+UyMjI3ODYwLC03OTUwNzE5MzUsNDUyNDIxNTI1LDk2ODUyMzQ4
+OCwtMTc0Nzc0NDQ4NSwxMzE1NjM4Nzg1LC0xODkxMTIwMjZdfQ
+==
 -->
