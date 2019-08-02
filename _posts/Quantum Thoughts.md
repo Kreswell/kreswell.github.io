@@ -2,13 +2,12 @@ Lately I've been a bit obsessed with the mathematical foundations of quantum mec
 
 So let me start by listing some of the concepts that seem to be key to understanding quantum mechanics.
 1. Relativity: There is no preferred or "God given" coordinate system.
-2. Finite precision: 
+2. Finite specificity: Any observable can only be measured or specified up to finite precision. This is an inherent property of operations on
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQxNzc0OCwyMDc3MzgxODYxLC0xMz
-UyMjI3ODYwLC03OTUwNzE5MzUsNDUyNDIxNTI1LDk2ODUyMzQ4
-OCwtMTc0Nzc0NDQ4NSwxMzE1NjM4Nzg1LC0xODkxMTIwMjZdfQ
-==
+eyJoaXN0b3J5IjpbLTk5NDY5NTQ5LDIwNzczODE4NjEsLTEzNT
+IyMjc4NjAsLTc5NTA3MTkzNSw0NTI0MjE1MjUsOTY4NTIzNDg4
+LC0xNzQ3NzQ0NDg1LDEzMTU2Mzg3ODUsLTE4OTExMjAyNl19
 -->
