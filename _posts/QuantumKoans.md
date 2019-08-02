@@ -14,26 +14,28 @@ I'm just going to point you towards the Buddhist concept of [sunyata](https://en
 ### Quotes
 Finally, let me list a few quotes that might get us thinking in the right direction.
 
+#### George Box
+> All models are wrong, but some are useful.
+
+#### David Mermin
+> Correlations have physical reality; that which they correlate does not.
+
 #### John Wheeler
 > No phenomenon is a phenomenon until it is an observed phenomenon.
 
 > \[The Universe does not\] exist, out there independent of all acts of observation.
 
-#### David Mermin
-> Correlations have physical reality; that which they correlate does not.
-
 #### Albert Einstein
-> Thus the photon has traveled only _one_ route. It travels only one route. but it travels both routes: it travels both routes, but it travels only one route. What nonsense!
+> The photon has traveled only _one_ route. It travels only one route. but it travels both routes: it travels both routes, but it travels only one route. What nonsense!
 
 #### Niels Bohr
 > Einstein, stop telling God what to do.
 
-#### George Box
-> All models are wrong, but some are useful
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTU5ODI3MSw2ODcyNjg1MzQsLTEyNz
-EyNTczMjMsMTQ1NjA5ODQ4OCwtOTAwMjUzNTkyLC0yMTM1ODMw
-OTgyLDE1NTQwNjM4NzcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjg0MDU5MzE1LDY4NzI2ODUzNCwtMTI3MT
+I1NzMyMywxNDU2MDk4NDg4LC05MDAyNTM1OTIsLTIxMzU4MzA5
+ODIsMTU1NDA2Mzg3Nyw3MzA5OTgxMTZdfQ==
 -->
