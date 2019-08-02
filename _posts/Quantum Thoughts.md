@@ -5,14 +5,14 @@ So let me start by listing the principles that *I think* quantum mechanics can b
 0. The words *observation*, *measurement*, and *interaction* are synonyms.
 1. Relativity: There is no preferred or "God given" coordinate system.
 2. Finite specificity: Any observable can only be measured or specified up to finite precision in finite time. This is an inherent property of real numbers, and therefore an inherent property of physical observables.
-3. Non-essentiality: 
+3. Non-essentiality: The thing in itself
 
 I called the first one the "zeroth" principle because it's basically just terminology, and it's sort of a corollary to number 1, but it still seems worth mentioning in itself. Number 2 is where nearly all of the "quantum weirdness" comes from.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDM0Nzg5NywyMDc3MzgxODYxLC0xMz
+eyJoaXN0b3J5IjpbLTUzNzQ1NDc0NCwyMDc3MzgxODYxLC0xMz
 UyMjI3ODYwLC03OTUwNzE5MzUsNDUyNDIxNTI1LDk2ODUyMzQ4
 OCwtMTc0Nzc0NDQ4NSwxMzE1NjM4Nzg1LC0xODkxMTIwMjZdfQ
 ==
