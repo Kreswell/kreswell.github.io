@@ -1,8 +1,8 @@
 ---
-title: Quantu
-subtitle: Actually posted on 7/29.
-date: 2019-07-28
-tags: [ADHD, personal planning]
+title: Quantum Thoughts
+subtitle: 
+date: 2019-08-01
+tags: [physics]
 ---
 
 Lately I've been a bit obsessed with the mathematical foundations of quantum mechanics. I've tried several times to start writing up my current best understanding of it, but instead I keep getting sucked into reading more articles and Wikipedia pages about group representations, projection valued measures, decoherence, delayed choice quantum erasers, and so on. I think the problem is, I'm not sure where to start, and I'm really not sure where I'm going to end up.
@@ -20,8 +20,8 @@ There's a **whole lot** to work through, and it will get pretty mathy. If I deci
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTkxNzg0MywtMjcyMzgwNjI0LDIwNz
-czODE4NjEsLTEzNTIyMjc4NjAsLTc5NTA3MTkzNSw0NTI0MjE1
-MjUsOTY4NTIzNDg4LC0xNzQ3NzQ0NDg1LDEzMTU2Mzg3ODUsLT
-E4OTExMjAyNl19
+eyJoaXN0b3J5IjpbNDA1Njc2MzkxLC0yNzIzODA2MjQsMjA3Nz
+M4MTg2MSwtMTM1MjIyNzg2MCwtNzk1MDcxOTM1LDQ1MjQyMTUy
+NSw5Njg1MjM0ODgsLTE3NDc3NDQ0ODUsMTMxNTYzODc4NSwtMT
+g5MTEyMDI2XX0=
 -->
