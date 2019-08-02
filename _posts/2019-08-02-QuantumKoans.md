@@ -16,7 +16,7 @@ The most famous ones are the [paradoxes of motion](https://en.wikipedia.org/wiki
 Imagine throwing a dart (with a geometric point tip) at the [real number line](https://en.wikipedia.org/wiki/Real_line). Suppose you aim at $$\pi$$. What's the probability that you hit $$\pi$$ *exactly*? How will you know if you hit $$\pi$$ *exactly*? Suppose you try to cheat and stick the dart *exactly* on $$\pi$$ by hand. Is that even possible? What if instead of aiming at $$\pi$$, you aim at $$2$$. Is that different, or is $$2$$ just as "easy to hit" as $$\pi$$? 
 
 ### Emptiness
-I'm just going to point you towards the Mahayana Buddhist concepts of [sunyata](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81) or [emptiness](https://www.learnreligions.com/sunyata-or-emptiness-450191) and dependent origination, and the Kantian concept of the *unknowability* of the [thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself).
+I'm just going to point you towards the Mahayana Buddhist concepts of [sunyata](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81) or [emptiness](https://www.learnreligions.com/sunyata-or-emptiness-450191) and [dependent](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) [origination](https://www.learnreligions.com/dependent-origination-meaning-449723). Or, if you prefer a western source, the Kantian concept of the *unknowability* of the [thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself).
 
 ### Quotes
 Finally, let me list a few quotes that might get us thinking in the right direction.
@@ -42,6 +42,6 @@ Finally, let me list a few quotes that might get us thinking in the right direct
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjkwNTkzMCwxMzE3NzI5NTU5LDIxNz
-YyMTg3NF19
+eyJoaXN0b3J5IjpbLTk5NTQ4Nzg4LDEzMTc3Mjk1NTksMjE3Nj
+IxODc0XX0=
 -->
