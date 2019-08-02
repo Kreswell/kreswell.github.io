@@ -7,13 +7,13 @@ So let me start by listing the principles that *I think* are sufficient for deri
 2. Finite specificity: Any observable can only be measured or specified up to finite precision in finite time. This is an inherent property of real numbers, and therefore an inherent property of physical observables.
 3. Non-essentiality: [Things in themselves](https://en.wikipedia.org/wiki/Thing-in-itself) doesn't exist, or at least are completely unknowable. To quote John Wheeler "No phenomenon is a phenomenon until it is an observed phenomenon."
 
-I called the first one the "zeroth" principle because it's basically just terminology, and it's sort of a corollary to 1 and 3, but it still seems worth mentioning in itself. Number 2 is where nearly all of the "quantum weirdness" comes from including the probabilistic nature of QM. It's also, I think, the hardest one to swallow, and the only one I haven't seen mentioned by 
+I called the first one the "zeroth" principle because it's basically just terminology, and it's sort of a corollary to 1 and 3, but it still seems worth mentioning in itself. Number 2 is where nearly all of the "quantum weirdness" comes from, namely the probabilistic nature of QM, and *I . It's also, I think, the hardest one to swallow, and the only one I haven't seen mentioned by 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE0MjU5MjMsMjA3NzM4MTg2MSwtMT
-M1MjIyNzg2MCwtNzk1MDcxOTM1LDQ1MjQyMTUyNSw5Njg1MjM0
-ODgsLTE3NDc3NDQ0ODUsMTMxNTYzODc4NSwtMTg5MTEyMDI2XX
-0=
+eyJoaXN0b3J5IjpbMTk5OTQ1NTM2MiwyMDc3MzgxODYxLC0xMz
+UyMjI3ODYwLC03OTUwNzE5MzUsNDUyNDIxNTI1LDk2ODUyMzQ4
+OCwtMTc0Nzc0NDQ4NSwxMzE1NjM4Nzg1LC0xODkxMTIwMjZdfQ
+==
 -->
