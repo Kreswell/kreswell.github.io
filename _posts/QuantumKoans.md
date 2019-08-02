@@ -15,11 +15,15 @@ I'm just going to point you towards the Buddhist concept of [sunyata](https://en
 Finally, let me list a few quotes that might get us thinking in the right direction.
 
 #### John Wheeler
-> No phenomenon is a phenomenon until it is an observed phenomenon
+> No phenomenon is a phenomenon until it is an observed phenomenon.
+
+> \[The Universe does not\] exist, out there independent of all acts of observation.
+
+> 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc4NjYwODEsLTEyNzEyNTczMjMsMT
-Q1NjA5ODQ4OCwtOTAwMjUzNTkyLC0yMTM1ODMwOTgyLDE1NTQw
-NjM4NzcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjA3NTU4NzMyMiwtMTI3MTI1NzMyMywxND
+U2MDk4NDg4LC05MDAyNTM1OTIsLTIxMzU4MzA5ODIsMTU1NDA2
+Mzg3Nyw3MzA5OTgxMTZdfQ==
 -->
