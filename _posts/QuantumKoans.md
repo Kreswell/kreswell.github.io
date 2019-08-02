@@ -14,11 +14,12 @@ I'm just going to point you towards the Buddhist concept of [sunyata](https://en
 ### Quotes
 Finally, let me list a few quotes that might get us thinking in the right direction.
 
-
+#### John Wheeler
+> No phenomenon is a phenomenon until it is an observed phenomenon
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3ODM0NDIxLC0xMjcxMjU3MzIzLDE0NT
-YwOTg0ODgsLTkwMDI1MzU5MiwtMjEzNTgzMDk4MiwxNTU0MDYz
-ODc3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEzMTc4NjYwODEsLTEyNzEyNTczMjMsMT
+Q1NjA5ODQ4OCwtOTAwMjUzNTkyLC0yMTM1ODMwOTgyLDE1NTQw
+NjM4NzcsNzMwOTk4MTE2XX0=
 -->
