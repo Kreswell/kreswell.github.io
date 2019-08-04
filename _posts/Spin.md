@@ -6,12 +6,12 @@ Spin is the *intrinsic angular momentum* of a particle, which is, sort of, the "
 
 $$ L = mvR $$
 
-Where $m$ is mass, $v$ is velocity, and $R$ is the radius of the circle of motion. ($L$ is the standard letter to use for angular momentum. Don't ask me why. I don't know.)
+Where $m$ is mass, $v$ is velocity, and $R$ is the radius of the circle of motion. ($L$ is the standard letter to use for angular momentum. Don't ask me why. I don't know.) And spin has the same dimensions: $mass \times velocity \times distance$<><>
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODY2OTYzOCwtMTA3MDIyNjMwMSwtMj
-A1OTg4ODkwMywtMTQxNjQzNDQ3OCwtMTYyNTI2MTgwMywtMjY5
-NjIyNTI4XX0=
+eyJoaXN0b3J5IjpbMjA1OTgxNTYxOSwxNjM4NjY5NjM4LC0xMD
+cwMjI2MzAxLC0yMDU5ODg4OTAzLC0xNDE2NDM0NDc4LC0xNjI1
+MjYxODAzLC0yNjk2MjI1MjhdfQ==
 -->
