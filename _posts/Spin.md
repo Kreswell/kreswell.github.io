@@ -1,6 +1,6 @@
 ---
 title: Spin
-subtitle: Particles 2: Particle Stew
+subtitle: Particles 2 -- Particle Stew
 date: 2019-08-03
 bigimg: https://ih1.redbubble.net/image.546457904.0287/raf,750x1000,075,t,322e3f:696a94a5d4.jpg
 tags: [physics, particles]
@@ -23,8 +23,8 @@ What does this have to do with classifying particles? Well, spin always comes in
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ2MTE1NDUsMzg5MTYzMDA5LDIwNz
-M0NTAyNjQsLTUxMjA0NDc3OCwtMTU3ODA5MjY3MSwxNjM4NjY5
-NjM4LC0xMDcwMjI2MzAxLC0yMDU5ODg4OTAzLC0xNDE2NDM0ND
-c4LC0xNjI1MjYxODAzLC0yNjk2MjI1MjhdfQ==
+eyJoaXN0b3J5IjpbMjA2OTcyNzIwMSwzODkxNjMwMDksMjA3Mz
+Q1MDI2NCwtNTEyMDQ0Nzc4LC0xNTc4MDkyNjcxLDE2Mzg2Njk2
+MzgsLTEwNzAyMjYzMDEsLTIwNTk4ODg5MDMsLTE0MTY0MzQ0Nz
+gsLTE2MjUyNjE4MDMsLTI2OTYyMjUyOF19
 -->
