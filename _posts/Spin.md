@@ -8,13 +8,13 @@ $$ L = mvR $$
 
 Where $m$ is mass, $v$ is velocity, and $R$ is the radius of the circle of motion. ($L$ is the standard letter to use for angular momentum. Don't ask me why. I don't know.) And spin has the same dimensions: $mass \times velocity \times distance$. Except that elementary particles don't have structure. They don't have parts. So *there's nothing there to spin!* Yet, somehow they still have this "twistyness" as an intrinsic property.
 
-I like to think of spin as a sort of "directionality" or "pointedness." Here's what I mean: If you have a spin detector ([they involve magnetic fields](https://en.wikipedia.org/wiki/Stern%E2%80%93Gerlach_experiment)) and send some electrons through it (spin ½ particles)
+I like to think of spin as a sort of "directionality" or "pointedness." Spin ½ particles, like electrons, have two orientations: up and down
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTA2MDM0MiwtNTEyMDQ0Nzc4LC0xNT
-c4MDkyNjcxLDE2Mzg2Njk2MzgsLTEwNzAyMjYzMDEsLTIwNTk4
-ODg5MDMsLTE0MTY0MzQ0NzgsLTE2MjUyNjE4MDMsLTI2OTYyMj
-UyOF19
+eyJoaXN0b3J5IjpbLTEyNTE2NDk4NzYsLTUxMjA0NDc3OCwtMT
+U3ODA5MjY3MSwxNjM4NjY5NjM4LC0xMDcwMjI2MzAxLC0yMDU5
+ODg4OTAzLC0xNDE2NDM0NDc4LC0xNjI1MjYxODAzLC0yNjk2Mj
+I1MjhdfQ==
 -->
