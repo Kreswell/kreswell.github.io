@@ -4,12 +4,14 @@ Spin is weird. It's the most purely quantum mechanical property of subatomic par
 
 Spin is the *intrinsic angular momentum* of a particle, which is, sort of, the "spinniness" of an object. In classical physics, the angular momentum of an object moving in a circle is (simplified)
 
-$$ 
+$$ L = mvR $$
+
+Where $m$ is mass, $v$ is velocity, and $R$ is the radius of the circle of motion. ($L$ is the standard letter to use for angular momentum. Don't ask me why. I don't know.)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjE0Nzk3NywtMTA3MDIyNjMwMSwtMj
+eyJoaXN0b3J5IjpbMTYzODY2OTYzOCwtMTA3MDIyNjMwMSwtMj
 A1OTg4ODkwMywtMTQxNjQzNDQ3OCwtMTYyNTI2MTgwMywtMjY5
 NjIyNTI4XX0=
 -->
