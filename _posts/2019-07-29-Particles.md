@@ -2,7 +2,7 @@
 title: Particles
 subtitle: The Gathering
 date: 2019-07-29
-tags: [physics] 
+tags: [physics, particles] 
 ---
 
 This is supposed to be a blog about physics, among other things, so it's about time I wrote some posts about physics. Since I'm a particle physicist, and since I'm trying this format where I write a short post every day, I figured I'd get the ball rolling by running through the standard model over the next week or two.
@@ -16,5 +16,6 @@ But before I can talk about the most important categorical difference, I've got 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg4MTczOTZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTk3Njc0NjcsLTE5OTg4MTczOTZdfQ
+==
 -->
