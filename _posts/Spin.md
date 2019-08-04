@@ -10,13 +10,13 @@ Where $m$ is mass, $v$ is velocity, and $R$ is the radius of the circle of motio
 
 I like to think of spin as a sort of "directionality" or "pointedness." Spin ½ particles, like electrons, have two orientations: up and down. Spin 1 particles, like photons, can either be horizontal or vertical. But here's the weird thing: If you pick a random direction, call that "up," then measure the spin of an electron ([using magnetic fields](https://en.wikipedia.org/wiki/Stern%E2%80%93Gerlach_experiment)), it will always be either spin up or spin down! You'll never see it "spin sideways" to your detector, even if you change the orientation of the detector.
 
-What does this have to do with classifying particles? Well, spin always comes in multiples of ½, and particles with integer spin ($0,1,2,3,\dots$) interact with each other very differently than particles with half-integer spin ($\frac{1}{2},\frac{3}{2},\frac{5}{2},\dots$). Integer spin particles, *bosons*, can "pile up" with themselves, which leads to effects like  Half-integer spin particles, *fermions*,
+What does this have to do with classifying particles? Well, spin always comes in multiples of ½, and particles with integer spin ($0,1,2,3,\dots$) interact with each other very differently than particles with half-integer spin ($\frac{1}{2},\frac{3}{2},\frac{5}{2},\dots$). Integer spin particles, *bosons*, can "pile up" with themselves, which is how we get things like superconductors, superfluids, and lasers. Half-integer spin particles, *fermions*, don't do that
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTA0OTIwOCwzODkxNjMwMDksMjA3Mz
-Q1MDI2NCwtNTEyMDQ0Nzc4LC0xNTc4MDkyNjcxLDE2Mzg2Njk2
-MzgsLTEwNzAyMjYzMDEsLTIwNTk4ODg5MDMsLTE0MTY0MzQ0Nz
-gsLTE2MjUyNjE4MDMsLTI2OTYyMjUyOF19
+eyJoaXN0b3J5IjpbLTExNTQ2Mjg0ODksMzg5MTYzMDA5LDIwNz
+M0NTAyNjQsLTUxMjA0NDc3OCwtMTU3ODA5MjY3MSwxNjM4NjY5
+NjM4LC0xMDcwMjI2MzAxLC0yMDU5ODg4OTAzLC0xNDE2NDM0ND
+c4LC0xNjI1MjYxODAzLC0yNjk2MjI1MjhdfQ==
 -->
