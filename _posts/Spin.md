@@ -12,11 +12,13 @@ I like to think of spin as a sort of "directionality" or "pointedness." Spin ½ 
 
 What does this have to do with classifying particles? Well, spin always comes in multiples of ½, and particles with integer spin ($0,1,2,3,\dots$) interact with each other very differently than particles with half-integer spin ($\frac{1}{2},\frac{3}{2},\frac{5}{2},\dots$). Integer spin particles, *bosons*, can "pile up" with themselves, which is how we get things like superconductors, superfluids, and lasers. Half-integer spin particles, *fermions*, can't do that (well, pairs of them can at very low temperatures), but this [exclusivity](https://en.wikipedia.org/wiki/Pauli_exclusion_principle) is what allows them to form complex structures like atoms. Fermions are usually called "matter particles" and (most) bosons are usually called "force-carrier particles," although the question of "what is matter?" gets a little tricky when we start talking about things smaller than an atom.
 
+Although we can talk about particles with any (half-)integer spin, in the standard model, there are only particles with spin 0, ½, and 1
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODc3NDgzMCwzODkxNjMwMDksMjA3Mz
-Q1MDI2NCwtNTEyMDQ0Nzc4LC0xNTc4MDkyNjcxLDE2Mzg2Njk2
-MzgsLTEwNzAyMjYzMDEsLTIwNTk4ODg5MDMsLTE0MTY0MzQ0Nz
-gsLTE2MjUyNjE4MDMsLTI2OTYyMjUyOF19
+eyJoaXN0b3J5IjpbLTEwOTc5NTAwNzksMzg5MTYzMDA5LDIwNz
+M0NTAyNjQsLTUxMjA0NDc3OCwtMTU3ODA5MjY3MSwxNjM4NjY5
+NjM4LC0xMDcwMjI2MzAxLC0yMDU5ODg4OTAzLC0xNDE2NDM0ND
+c4LC0xNjI1MjYxODAzLC0yNjk2MjI1MjhdfQ==
 -->
