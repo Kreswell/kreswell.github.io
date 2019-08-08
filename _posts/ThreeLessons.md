@@ -1,7 +1,7 @@
-When
+When I was an undergrad
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDQwOTI5MF19
+eyJoaXN0b3J5IjpbMzE3NjA4MTIxXX0=
 -->
