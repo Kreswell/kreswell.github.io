@@ -3,11 +3,11 @@ When I was an undergrad, I remember hearing from one of my math professors that
 {: .box-note}
 If you pick a real number at random, there is a 100% chance that it is irrational.
 
-Later, in one of my first courses in grad school for math, my analysis professor was discussing the axiom of choice. The [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) is one of those mathematical concepts that, when stated in its full formality, is completely opaque, but is actually quite simple. Put plainly, it's the assumption that, for any set (even infinite ones) it's possible
+Later, in one of my first courses in grad school for math, my analysis professor was discussing the axiom of choice. The [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) is one of those mathematical concepts that, when stated in its full formality, is completely opaque, but is actually quite simple. Put plainly, it's the assertion that, for any set (even infinite ones), it's possible to pick out a single element. 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg5MjEyNDgsNjM4MzQwNDY5LC00OT
-MzNjYxNzAsLTExNTc5ODgyMzIsMzE3NjA4MTIxXX0=
+eyJoaXN0b3J5IjpbMTE2NjM4NzQ0LDYzODM0MDQ2OSwtNDkzMz
+Y2MTcwLC0xMTU3OTg4MjMyLDMxNzYwODEyMV19
 -->
