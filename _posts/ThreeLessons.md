@@ -1,7 +1,7 @@
-When learning math, it's pretty common to encounter facts that are provably true but sound completely crazy. One of the first 
+When I was an undergrad, I remember hearing from one of my math professors that if you pick a real number at random
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjY4OTIzMCwzMTc2MDgxMjFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTMwMjMxOTQsMzE3NjA4MTIxXX0=
 -->
