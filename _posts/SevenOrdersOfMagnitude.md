@@ -17,7 +17,7 @@ A few details about these:
 - The highest priority chore is the dishes. After that are probably laundry and yard work.
 - I'm calling my starting weight 196 pounds, so my goal weight is 186 pounds.
 - The "big thing" should be anything that's big and/or new enough to feel like an accomplishment on this time scale, but is still definitely one thing. Some possibilities are:
-  - Creating some sort of content like a video or podcast
+  - Creating some sort of content like a video or podcast.
 
 One hundred days is 14 weeks plus two days (one extra weekend), so today is day 1.
 
@@ -26,6 +26,7 @@ It also helped a lot that I had incentives to track absolutely every day. I want
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNzIxNTQ1LC0xMjQ1NzAwNTg0LDEyNT
-c1NTEwOTgsMTI1ODk1ODQxMCwtMTMwMzExMTI0NF19
+eyJoaXN0b3J5IjpbMjA4Nzc5MTUyMyw3MzM3MjE1NDUsLTEyND
+U3MDA1ODQsMTI1NzU1MTA5OCwxMjU4OTU4NDEwLC0xMzAzMTEx
+MjQ0XX0=
 -->
