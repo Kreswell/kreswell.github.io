@@ -1,6 +1,6 @@
 Well, I started off strong with my new behavior tracking plan, but then lost my momentum about two weeks in. This is pretty typical. Two weeks is about how long it takes for the "newness" to wear off. I think the lesson here is that I was able to stick to the 30-30-30 plan for about 15 weeks because it was a well-defined amount of time that was short enough to feel finite, but long enough to push through the initial few weeks and into becoming a routine. 
 
-So my new plan is: Pick a few things I want to accomplish in 100 days, and set some goals for the total amount I want to accomplish in that time. The goals should be *un*ambitious but require consistency. 
+So my new plan is to pick a few things I want to accomplish and set some goals for the total amount done in the next 100 days. The goals should be *un*ambitious but require consistency. 
 | Number | Goal | 
 |--|--|
 | 1,000,000 | steps |
@@ -24,6 +24,6 @@ It also helped a lot that I had incentives to track absolutely every day. I want
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODI2NDAwMywxMjU4OTU4NDEwLC0xMz
+eyJoaXN0b3J5IjpbMTI1NzU1MTA5OCwxMjU4OTU4NDEwLC0xMz
 AzMTExMjQ0XX0=
 -->
