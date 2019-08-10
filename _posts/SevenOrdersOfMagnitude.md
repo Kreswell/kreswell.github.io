@@ -7,18 +7,18 @@ So my new plan is: Pick a few things I want to accomplish in 100 days, and set s
 | 100,000 | calories logged |
 | 10,000 | words written |
 | 1,000 | minutes meditating |
-| 100 | chores completed |
+| 100 | chores |
 | 10 | pounds lost |
-| 1 | big accomplishment |
+| 1 | new thing |
 
 
 
-One hundred days is a nice number because it's 14 weeks plus two days (one extra weekend).
+One hundred days is 14 weeks plus two days (one extra weekend), so today is 
 
 It also helped a lot that I had incentives to track absolutely every day. I wanted complete calorie and weight data with no gaps because I was trying to figure out my true calorie limit for weight loss. Unfortunately, the noise was larger than the signal -- my daily weight fluctuations were often larger than my average day-to-day loss -- and 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDYwNzIyMCwtMTMwMzExMTI0NF19
+eyJoaXN0b3J5IjpbMTg1MzUwMDg0OSwtMTMwMzExMTI0NF19
 -->
