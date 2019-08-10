@@ -12,7 +12,7 @@ So my new plan is: Pick a few things I want to accomplish in 100 days, and set s
 | 1 | new thing |
 
 A few details about these:
-- 
+- Only days were I log every single thing I eat will count for calorie tracking. My daily goal will be  
 
 One hundred days is 14 weeks plus two days (one extra weekend), so today is day 1.
 
@@ -21,5 +21,5 @@ It also helped a lot that I had incentives to track absolutely every day. I want
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODk0NDcwLC0xMzAzMTExMjQ0XX0=
+eyJoaXN0b3J5IjpbLTM2MzQyOTE3OCwtMTMwMzExMTI0NF19
 -->
