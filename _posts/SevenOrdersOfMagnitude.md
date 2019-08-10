@@ -4,8 +4,9 @@ So my new plan is: Pick a few things I want to accomplish in 100 days, and set s
 | Number | Goal | Details
 |--|--|--|
 | 1,000,000 | steps |
-| 100,000 | calories logged | 
-| 10,000 | words written
+| 100,000 | calories logged | Only days when I log everything count.
+| 10,000 | words written | and posted!
+| 1,000 | minutes meditating | 
 
 
 One hundred days is a nice number because it's 14 weeks plus two days (one extra weekend).
@@ -15,5 +16,6 @@ It also helped a lot that I had incentives to track absolutely every day. I want
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzM2NjgzNiwtMTMwMzExMTI0NF19
+eyJoaXN0b3J5IjpbLTE1MjI3NzY5NTEsLTEzMDMxMTEyNDRdfQ
+==
 -->
