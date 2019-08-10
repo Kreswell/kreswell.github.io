@@ -19,7 +19,7 @@ A few details about these:
 - The "big thing" should be anything that's big and/or new enough to feel like an accomplishment on this time scale, but is still definitely one thing. Some possibilities are:
   - Creating some sort of content like a video or podcast.
   - Starting the "ADHD Scientists" group.
-  - 
+  - Getting all of my job application materials ready. This is something I need to do, but I kind of don't want to count it for this because it's not something I've 
 
 One hundred days is 14 weeks plus two days (one extra weekend), so today is day 1.
 
@@ -28,7 +28,7 @@ It also helped a lot that I had incentives to track absolutely every day. I want
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNDE0OSwyMDg3NzkxNTIzLDczMzcyMT
-U0NSwtMTI0NTcwMDU4NCwxMjU3NTUxMDk4LDEyNTg5NTg0MTAs
-LTEzMDMxMTEyNDRdfQ==
+eyJoaXN0b3J5IjpbMTY2ODAyMDg5OCwyMDg3NzkxNTIzLDczMz
+cyMTU0NSwtMTI0NTcwMDU4NCwxMjU3NTUxMDk4LDEyNTg5NTg0
+MTAsLTEzMDMxMTEyNDRdfQ==
 -->
