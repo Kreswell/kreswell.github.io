@@ -18,6 +18,8 @@ A few details about these:
 - I'm calling my starting weight 196 pounds, so my goal weight is 186 pounds.
 - The "big thing" should be anything that's big and/or new enough to feel like an accomplishment on this time scale, but is still definitely one thing. Some possibilities are:
   - Creating some sort of content like a video or podcast.
+  - Starting the "ADHD Scientists" group.
+  - 
 
 One hundred days is 14 weeks plus two days (one extra weekend), so today is day 1.
 
@@ -26,7 +28,7 @@ It also helped a lot that I had incentives to track absolutely every day. I want
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Nzc5MTUyMyw3MzM3MjE1NDUsLTEyND
-U3MDA1ODQsMTI1NzU1MTA5OCwxMjU4OTU4NDEwLC0xMzAzMTEx
-MjQ0XX0=
+eyJoaXN0b3J5IjpbNTYwNDE0OSwyMDg3NzkxNTIzLDczMzcyMT
+U0NSwtMTI0NTcwMDU4NCwxMjU3NTUxMDk4LDEyNTg5NTg0MTAs
+LTEzMDMxMTEyNDRdfQ==
 -->
