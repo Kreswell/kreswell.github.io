@@ -16,16 +16,13 @@ A few details about these:
 - Only words posted here, or otherwise "published," will count.
 - The highest priority chore is the dishes. After that are probably laundry and yard work.
 - I'm calling my starting weight 196 pounds, so my goal weight is 186 pounds.
-- The "big thing" should be anything that's big and/or new enough to feel like an accomplishment on this time scale, but is still definitely one thing. Some possibilities are:
-  - Creating some sort of content like a video or podcast.
-  - Starting the "ADHD Scientists" group.
-  - Getting all of my job application materials ready. This is something I need to do, but I kind of don't want to count it for this because it's not something I've been wanting to do 
+- The "big thing" should be anything that's big and/or new enough to feel like an accomplishment on this time scale, but is still definitely one thing such as creating some sort of content like a video or podcast or starting the "ADHD scientists" group.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI5NTcwNjgsLTE2MjY2MTgzNjgsMT
-Y2ODAyMDg5OCwyMDg3NzkxNTIzLDczMzcyMTU0NSwtMTI0NTcw
-MDU4NCwxMjU3NTUxMDk4LDEyNTg5NTg0MTAsLTEzMDMxMTEyND
-RdfQ==
+eyJoaXN0b3J5IjpbMTMyOTQzMjQ4NywtMTYyNjYxODM2OCwxNj
+Y4MDIwODk4LDIwODc3OTE1MjMsNzMzNzIxNTQ1LC0xMjQ1NzAw
+NTg0LDEyNTc1NTEwOTgsMTI1ODk1ODQxMCwtMTMwMzExMTI0NF
+19
 -->
