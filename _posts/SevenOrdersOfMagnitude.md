@@ -18,13 +18,13 @@ A few details about these:
 - I'm calling my starting weight 196 pounds, so my goal weight is 186 pounds.
 - The "big thing" should be anything that's big and/or new enough to feel like an accomplishment on this time scale, but is still definitely one thing such as starting the "ADHD scientists" group, or creating some sort of recorded media content like a video or podcast.
 
-Yesterday, August 10, was day 1, which makes November 17 day 100. The tracking spreadsheet is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQB1KkVJFVSpi6sP5w3Xgkvu43DZ61ABtgkjUWywLQQEnmzycT9cLMQlLDRPbY2qu1vXtUuM8TkkCCo/pubhtml).
+Yesterday, August 10, was day 1, which makes November 17 day 100. The tracking spreadsheet is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQB1KkVJFVSpi6sP5w3Xgkvu43DZ61ABtgkjUWywLQQEnmzycT9cLMQlLDRPbY2qu1vXtUuM8TkkCCo/pubhtml). I'm going to try to keep most of my posts on this blog related to the topics 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NzAwMzMyLDkxMjA1MzkzOSwtMTgyNT
-M4OTg0OSwtMTYyNjYxODM2OCwxNjY4MDIwODk4LDIwODc3OTE1
-MjMsNzMzNzIxNTQ1LC0xMjQ1NzAwNTg0LDEyNTc1NTEwOTgsMT
-I1ODk1ODQxMCwtMTMwMzExMTI0NF19
+eyJoaXN0b3J5IjpbMTIzMDMyMjM5OCw5MTIwNTM5MzksLTE4Mj
+UzODk4NDksLTE2MjY2MTgzNjgsMTY2ODAyMDg5OCwyMDg3Nzkx
+NTIzLDczMzcyMTU0NSwtMTI0NTcwMDU4NCwxMjU3NTUxMDk4LD
+EyNTg5NTg0MTAsLTEzMDMxMTEyNDRdfQ==
 -->
