@@ -1,6 +1,6 @@
 Well, I started off strong with my new behavior tracking plan, but then lost my momentum about two weeks in. This is pretty typical. Two weeks is about how long it takes for the "newness" to wear off. I think the lesson here is that I was able to stick to the 30-30-30 plan for about 15 weeks because it was a well-defined amount of time that was short enough to feel finite, but long enough to push through the initial few weeks and into becoming a routine. 
 
-So my new plan is to pick a few things I want to accomplish and set some goals for the total amount done in the next 100 days. The goals should be *un*ambitious but require consistency. 
+So for my new plan I'm setting a time frame of 100 days, which is 14 weeks plus two days (an extra weekend). The goals should be *un*ambitious but require consistency. 
 | Number | Goal | 
 |--|--|
 | 1,000,000 | steps |
@@ -21,14 +21,12 @@ A few details about these:
   - Starting the "ADHD Scientists" group.
   - Getting all of my job application materials ready. This is something I need to do, but I kind of don't want to count it for this because it's not something I've 
 
-One hundred days is 14 weeks plus two days (one extra weekend), so today is day 1.
-
 It also helped a lot that I had incentives to track absolutely every day. I wanted complete calorie and weight data with no gaps because I was trying to figure out my true calorie limit for weight loss. Unfortunately, the noise was larger than the signal -- my daily weight fluctuations were often larger than my average day-to-day loss -- and 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODAyMDg5OCwyMDg3NzkxNTIzLDczMz
-cyMTU0NSwtMTI0NTcwMDU4NCwxMjU3NTUxMDk4LDEyNTg5NTg0
-MTAsLTEzMDMxMTEyNDRdfQ==
+eyJoaXN0b3J5IjpbLTE2MjY2MTgzNjgsMTY2ODAyMDg5OCwyMD
+g3NzkxNTIzLDczMzcyMTU0NSwtMTI0NTcwMDU4NCwxMjU3NTUx
+MDk4LDEyNTg5NTg0MTAsLTEzMDMxMTEyNDRdfQ==
 -->
