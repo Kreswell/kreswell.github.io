@@ -19,15 +19,13 @@ A few details about these:
 - The "big thing" should be anything that's big and/or new enough to feel like an accomplishment on this time scale, but is still definitely one thing. Some possibilities are:
   - Creating some sort of content like a video or podcast.
   - Starting the "ADHD Scientists" group.
-  - Getting all of my job application materials ready. This is something I need to do, but I kind of don't want to count it for this because it's not something I've 
-
-It also helped a lot that I had incentives to track absolutely every day. I wanted complete calorie and weight data with no gaps because I was trying to figure out my true calorie limit for weight loss. Unfortunately, the noise was larger than the signal -- my daily weight fluctuations were often larger than my average day-to-day loss -- and 
+  - Getting all of my job application materials ready. This is something I need to do, but I kind of don't want to count it for this because it's not something I've been wanting to do 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjQ5Nzc0OSwtMTYyNjYxODM2OCwxNj
-Y4MDIwODk4LDIwODc3OTE1MjMsNzMzNzIxNTQ1LC0xMjQ1NzAw
-NTg0LDEyNTc1NTEwOTgsMTI1ODk1ODQxMCwtMTMwMzExMTI0NF
-19
+eyJoaXN0b3J5IjpbLTIwMTI5NTcwNjgsLTE2MjY2MTgzNjgsMT
+Y2ODAyMDg5OCwyMDg3NzkxNTIzLDczMzcyMTU0NSwtMTI0NTcw
+MDU4NCwxMjU3NTUxMDk4LDEyNTg5NTg0MTAsLTEzMDMxMTEyND
+RdfQ==
 -->
