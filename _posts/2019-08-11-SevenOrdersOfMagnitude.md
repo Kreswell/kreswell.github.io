@@ -1,5 +1,8 @@
 ---
-title: 
+title: Seven Orders of Magnitude
+subtitle: The next 30-30-30.
+date: 2019-08-11
+tags: [30-30-30, ADHD, personal planning]
 ---
 
 Well, I started off strong with my new behavior tracking plan, but then lost my momentum about two weeks in. This is pretty typical. Two weeks is about how long it takes for the "newness" to wear off. I think the lesson here is that I was able to stick to the 30-30-30 plan for about 15 weeks because it was a well-defined amount of time that was short enough to feel finite, but long enough to push through the initial few weeks and into becoming a routine. 
@@ -27,5 +30,5 @@ Yesterday, August 10, was day 1, which makes November 17 day 100. The tracking s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODQ1NjUwMl19
+eyJoaXN0b3J5IjpbMTc2MzM4NDU5MF19
 -->
