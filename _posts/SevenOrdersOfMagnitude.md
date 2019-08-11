@@ -1,6 +1,6 @@
 Well, I started off strong with my new behavior tracking plan, but then lost my momentum about two weeks in. This is pretty typical. Two weeks is about how long it takes for the "newness" to wear off. I think the lesson here is that I was able to stick to the 30-30-30 plan for about 15 weeks because it was a well-defined amount of time that was short enough to feel finite, but long enough to push through the initial few weeks and into becoming a routine. 
 
-So for my new plan I'm setting a time frame of 100 days, which is 14 weeks plus an extra weekend. The goals should be *un*ambitious but require consistency. 
+So for my new plan I'm setting a time frame of 100 days, which is 14 weeks plus an extra weekend. The goals should be *un*ambitious but require consistency, and will be a total number for the entire 100 days. Since 100 is a power of 10, I decided to make all of the goals a power of 10. So here they are: 
 | Number | Goal | 
 |--|--|
 | 1,000,000 | steps |
@@ -26,8 +26,8 @@ It also helped a lot that I had incentives to track absolutely every day. I want
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcxNzE1ODAsLTE2MjY2MTgzNjgsMT
-Y2ODAyMDg5OCwyMDg3NzkxNTIzLDczMzcyMTU0NSwtMTI0NTcw
-MDU4NCwxMjU3NTUxMDk4LDEyNTg5NTg0MTAsLTEzMDMxMTEyND
-RdfQ==
+eyJoaXN0b3J5IjpbNzk0NzE5OTQzLC0xNjI2NjE4MzY4LDE2Nj
+gwMjA4OTgsMjA4Nzc5MTUyMyw3MzM3MjE1NDUsLTEyNDU3MDA1
+ODQsMTI1NzU1MTA5OCwxMjU4OTU4NDEwLC0xMzAzMTExMjQ0XX
+0=
 -->
