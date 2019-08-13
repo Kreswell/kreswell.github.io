@@ -10,15 +10,17 @@ It's always somewhere. The thing doesn't suddenly pop into or out of existence. 
 3. **Continuity**
 Small changes in time imply small changes in location. It doesn't suddenly jump from one location to another.
 
-To be clear, these are statements about *what we see when we look for it*. It's important to note that we didn't say where it's *at* but where it's *in*. Also, continuity doesn't imply that if we see the thing in one location at one time, and in another location at another time, then it was at some *particular* location in between at an intermediate time. It only implies that if
+To be clear, these are statements about *what we see when we look for it*. It's important to note that we didn't say where it's *at* but where it's *in*. Also, continuity doesn't imply that if we see the thing in one location at one time, and in another location at another time, then it was at some *particular* location in between at an intermediate time. It only implies that if two observations are sufficiently close in time, then the observed locations will be close, in some sense.
+
+
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA4NzkzMDMsLTU2NTQ4NTY0OCwtMT
-k1OTYwMTcwMywtMTAwNTI5OTUyNiw1NjE5NzUzOTAsLTE0MTc5
-MTI3MjgsLTE5NzQxODIwNjAsLTU2NjI3NzE0NiwtMTk0NDE5Nj
-g3NF19
+eyJoaXN0b3J5IjpbMTY1NzQwODE2OSwtMTM1MDg3OTMwMywtNT
+Y1NDg1NjQ4LC0xOTU5NjAxNzAzLC0xMDA1Mjk5NTI2LDU2MTk3
+NTM5MCwtMTQxNzkxMjcyOCwtMTk3NDE4MjA2MCwtNTY2Mjc3MT
+Q2LC0xOTQ0MTk2ODc0XX0=
 -->
