@@ -4,14 +4,15 @@ To be able to talk about observation, we also need to talk about "thingness" bec
 
 To say a thing is *a single thing* implies a few things about it:
 1. Boundedness.
-There is somewhere that it is and somewhere that it *isn't*, and this "where it is" is bounded. We can draw a finite-volume box that completely encloses it. (This condition can, and will, be relaxed a little when we change from talking about where it *is* to where it *might be*.)
+There is somewhere that it is and somewhere that it *isn't*, and this "where it is" is bounded. We can draw a finite-volume box that completely encloses it.
+2. 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5MTg0MTI4LC0xMDA1Mjk5NTI2LDU2MT
-k3NTM5MCwtMTQxNzkxMjcyOCwtMTk3NDE4MjA2MCwtNTY2Mjc3
-MTQ2LC0xOTQ0MTk2ODc0XX0=
+eyJoaXN0b3J5IjpbLTE0NjgzMjgxMzgsLTEwMDUyOTk1MjYsNT
+YxOTc1MzkwLC0xNDE3OTEyNzI4LC0xOTc0MTgyMDYwLC01NjYy
+NzcxNDYsLTE5NDQxOTY4NzRdfQ==
 -->
