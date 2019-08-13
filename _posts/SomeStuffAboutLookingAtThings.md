@@ -10,17 +10,17 @@ It's always somewhere. The thing doesn't suddenly pop into or out of existence. 
 3. **Continuity**
 Small changes in time imply small changes in location. It doesn't suddenly jump from one location to another.
 
-To be clear, these are statements about *what we see when we look for it*. That is, these are statements about 
+To be clear, these are statements about *what we see when we look for it*. That is, these are statements about observations, and therefore statements about observable properties. I've been talking here about *location*, but the same rules hold for any other property: color, shape, orientation, charge, etc.
 
 It's important to note that we didn't say where it's *at* but where it's *in*. Also, continuity doesn't imply that if we see the thing in one location at one time, and in another location at another time, then it was at some *particular* location in between at an intermediate time. It only implies that if two observations are sufficiently close in time, then the observed locations will be close, in some sense.
 
-I've been talking here about *location*, but the same rules hold for any other property: color, shape, orientation, charge, etc. We can relax these three properties, but we start to lose our understanding of it being the *same*, *single* *thing*. There are things that we understand to be infinite in extent, electromagnetic fields, for example. But the observables associated with such fields are always localized.
+We can relax these three properties, but we start to lose our understanding of it being the *same*, *single* *thing*. There are things that we understand to be infinite in extent, electromagnetic fields, for example. But the observables associated with such fields are always localized.
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjE3MjkzNSwtOTI3NDczNTE3LC0xMz
+eyJoaXN0b3J5IjpbMTE0NDgwODQ2MCwtOTI3NDczNTE3LC0xMz
 UwODc5MzAzLC01NjU0ODU2NDgsLTE5NTk2MDE3MDMsLTEwMDUy
 OTk1MjYsNTYxOTc1MzkwLC0xNDE3OTEyNzI4LC0xOTc0MTgyMD
 YwLC01NjYyNzcxNDYsLTE5NDQxOTY4NzRdfQ==
