@@ -4,11 +4,10 @@ To be able to talk about observation, we also need to talk about "thingness" bec
 
 To say a thing is, well *a thing*, implies a few things about it:
 1. Locality.
-For so
+There is somewhere that it is and somewhere that it *isn't*. Even for things that we understand to exist everywhere -
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ2MDM3MzcsLTE5NDQxOTY4NzRdfQ
-==
+eyJoaXN0b3J5IjpbMTM3MjE3MTQ4NiwtMTk0NDE5Njg3NF19
 -->
