@@ -4,14 +4,14 @@ To be able to talk about observation, we also need to talk about "thingness" bec
 
 To say a thing is *a single thing* implies a few things about it:
 1. Locality:
-There is somewhere that it is and somewhere that it *isn't*, and this "where it is" is bounded and connected. We can draw a finite-volume box that completely encloses it.
+There is somewhere that it is and somewhere that it *isn't*, and this "where it is" is bounded and connected. We can draw a finite-volume box that completely encloses it, and we can't draw two disconnected 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTQ4NjE0MSwtMTAwNTI5OTUyNiw1Nj
-E5NzUzOTAsLTE0MTc5MTI3MjgsLTE5NzQxODIwNjAsLTU2NjI3
-NzE0NiwtMTk0NDE5Njg3NF19
+eyJoaXN0b3J5IjpbLTExNTYzOTMxMTYsLTEwMDUyOTk1MjYsNT
+YxOTc1MzkwLC0xNDE3OTEyNzI4LC0xOTc0MTgyMDYwLC01NjYy
+NzcxNDYsLTE5NDQxOTY4NzRdfQ==
 -->
