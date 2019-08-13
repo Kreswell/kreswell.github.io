@@ -8,7 +8,7 @@ There is somewhere that it is and somewhere that it *isn't*. Furthermore, this "
 2. **Unitarity**
 It's always somewhere. The thing doesn't suddenly pop into or out of existence. Another way to say this is, if we look everywhere, we're always guaranteed to find it.
 3. **Continuity**
-I have to be careful in how I phrase this one, so as to not imply things that aren't necessarily true.
+I have to be careful in how I phrase this one, so as to not imply things that aren't necessarily true. Small changes in time imply small changes in location. 
 
 
 
@@ -16,7 +16,7 @@ I have to be careful in how I phrase this one, so as to not imply things that ar
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNjMxOTExLC0xOTU5NjAxNzAzLC0xMD
-A1Mjk5NTI2LDU2MTk3NTM5MCwtMTQxNzkxMjcyOCwtMTk3NDE4
-MjA2MCwtNTY2Mjc3MTQ2LC0xOTQ0MTk2ODc0XX0=
+eyJoaXN0b3J5IjpbLTU2NTQ4NTY0OCwtMTk1OTYwMTcwMywtMT
+AwNTI5OTUyNiw1NjE5NzUzOTAsLTE0MTc5MTI3MjgsLTE5NzQx
+ODIwNjAsLTU2NjI3NzE0NiwtMTk0NDE5Njg3NF19
 -->
