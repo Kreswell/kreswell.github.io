@@ -10,9 +10,9 @@ It's always somewhere. The thing doesn't suddenly pop into or out of existence. 
 3. **Continuity**
 Small changes in time imply small changes in location. It doesn't suddenly jump from one location to another.
 
-To be clear, these are statements about *what we see when we look for it*. That is, these are statements about observations, and therefore statements about observable properties. I've been talking here about *location*, but the same rules hold for any other property: color, shape, orientation, charge, etc.
+To be clear, these are statements about *what we see when we look for it*. That is, these are statements about observations, and therefore statements about observable properties. I've been talking here about *location*, but the same rules hold for any other property: color, shape, orientation, charge, etc. But location seems like the most concrete and easily visualized property.
 
-It's important to note that we didn't say where it's *at* but where it's *in*. This is a subtle distinction that will be very important later. Also, continuity doesn't imply that we can make any definite state. It only implies that if two observations are sufficiently close in time, then the observed locations will be close, in some sense.
+It's important to note that we didn't say where it's *at* but where it's *in*. This is a subtle distinction that will be very important later. Also, continuity doesn't imply that we can make any definite statements about where something is between any two observations. It only implies that if two observations are sufficiently close in time, then the observed locations will be close, in some sense.
 
 We can relax these three properties, but we start to lose our understanding of it being the *same*, *single* *thing*. There are things that we understand to be infinite in extent, electromagnetic fields, for example. But the observables associated with such fields are always localized.
 
@@ -20,7 +20,7 @@ We can relax these three properties, but we start to lose our understanding of i
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzY1NzY4MCwtOTI3NDczNTE3LC0xMz
+eyJoaXN0b3J5IjpbMTAyMDAxMjU4MiwtOTI3NDczNTE3LC0xMz
 UwODc5MzAzLC01NjU0ODU2NDgsLTE5NTk2MDE3MDMsLTEwMDUy
 OTk1MjYsNTYxOTc1MzkwLC0xNDE3OTEyNzI4LC0xOTc0MTgyMD
 YwLC01NjYyNzcxNDYsLTE5NDQxOTY4NzRdfQ==
