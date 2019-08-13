@@ -4,10 +4,11 @@ To be able to talk about observation, we also need to talk about "thingness" bec
 
 To say a thing is, well *a thing*, implies a few things about it:
 1. Locality.
-If I say, "I saw something!" the na
+For so
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTQ3MzA3NCwtMTk0NDE5Njg3NF19
+eyJoaXN0b3J5IjpbLTE2OTQ2MDM3MzcsLTE5NDQxOTY4NzRdfQ
+==
 -->
