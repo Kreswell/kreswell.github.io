@@ -5,7 +5,8 @@ To be able to talk about observation, we also need to talk about "thingness" bec
 To say a thing is "a *single* thing" implies a few things about it. To be clear, these are statements about *what we see when we look for it*.
 1. **Locality**
 There is somewhere that it is and somewhere that it *isn't*. Furthermore, this "where it is" is **bounded** and **connected**.
-2. **Continuity of motion**
+2. **Unitarity**
+It's always somewhere. The thing doesn't suddenly pop into or out of existence.
 
 
 
@@ -13,7 +14,7 @@ There is somewhere that it is and somewhere that it *isn't*. Furthermore, this "
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDg3MDc0NSwtMTk1OTYwMTcwMywtMT
+eyJoaXN0b3J5IjpbLTM4Mjg1MzMyMiwtMTk1OTYwMTcwMywtMT
 AwNTI5OTUyNiw1NjE5NzUzOTAsLTE0MTc5MTI3MjgsLTE5NzQx
 ODIwNjAsLTU2NjI3NzE0NiwtMTk0NDE5Njg3NF19
 -->
