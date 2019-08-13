@@ -12,14 +12,14 @@ Small changes in time imply small changes in location. It doesn't suddenly jump 
 
 To be clear, these are statements about *what we see when we look for it*. It's important to note that we didn't say where it's *at* but where it's *in*. Also, continuity doesn't imply that if we see the thing in one location at one time, and in another location at another time, then it was at some *particular* location in between at an intermediate time. It only implies that if two observations are sufficiently close in time, then the observed locations will be close, in some sense.
 
-I've been talking here about *location*, but the same rules hold for any other property: color, shape, orientation, charge, etc. 
+I've been talking here about *location*, but the same rules hold for any other property: color, shape, orientation, charge, etc. We can relax these three properties, but we start to lose our understanding of it being the *same*, *single* *thing*. Something infinite in extent -- electromagnetic fields, for example -- 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk1MzQ5NzQsLTEzNTA4NzkzMDMsLT
+eyJoaXN0b3J5IjpbLTE4OTEwMjcyODQsLTEzNTA4NzkzMDMsLT
 U2NTQ4NTY0OCwtMTk1OTYwMTcwMywtMTAwNTI5OTUyNiw1NjE5
 NzUzOTAsLTE0MTc5MTI3MjgsLTE5NzQxODIwNjAsLTU2NjI3Nz
 E0NiwtMTk0NDE5Njg3NF19
