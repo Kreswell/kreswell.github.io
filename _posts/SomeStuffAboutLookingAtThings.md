@@ -4,14 +4,14 @@ To be able to talk about observation, we also need to talk about "thingness" bec
 
 To say a thing is, well *a thing*, implies a few things about it:
 1. Boundedness.
-There is somewhere that it is and somewhere that it *isn't*. Furthermore, "where it is" is bounded. We should be able to draw a finite-volume box that completely encloses it. (This condition can, and will, be relaxed a little when we change from talking about where it *is* to where it *might be*.)
-The apparent counterexamples here are things like electromagnetic fields, which we understand to exist everywhere in the universe. However, *observations* of such fields are necessarily observations of local variations. 
+There is somewhere that it is and somewhere that it *isn't*, and this "where it is" is bounded. We can draw a finite-volume box that completely encloses it. (This condition can, and will, be relaxed a little when we change from talking about where it *is* to where it *might be*.)
+The apparent counterexamples here are things like electromagnetic fields, which we understand to exist everywhere in the universe.
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDUyOTk1MjYsNTYxOTc1MzkwLC0xND
-E3OTEyNzI4LC0xOTc0MTgyMDYwLC01NjYyNzcxNDYsLTE5NDQx
-OTY4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQwMzI1NTAsLTEwMDUyOTk1MjYsNT
+YxOTc1MzkwLC0xNDE3OTEyNzI4LC0xOTc0MTgyMDYwLC01NjYy
+NzcxNDYsLTE5NDQxOTY4NzRdfQ==
 -->
