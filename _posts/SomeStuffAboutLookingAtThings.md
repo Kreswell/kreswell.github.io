@@ -7,6 +7,8 @@ To say a thing is "a *single* thing" implies a few things about it. To be clear,
 There is somewhere that it is and somewhere that it *isn't*. Furthermore, this "where it is" is **bounded** and **connected**.
 2. **Unitarity**
 It's always somewhere. The thing doesn't suddenly pop into or out of existence. Another way to say this is, if we look everywhere, we're always guaranteed to find it.
+3. **Continuity**
+I have to be careful in how I phrase this one, so as to not imply things that aren't necessarily true.
 
 
 
@@ -14,7 +16,7 @@ It's always somewhere. The thing doesn't suddenly pop into or out of existence. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjExNDg3MzAsLTE5NTk2MDE3MDMsLT
-EwMDUyOTk1MjYsNTYxOTc1MzkwLC0xNDE3OTEyNzI4LC0xOTc0
-MTgyMDYwLC01NjYyNzcxNDYsLTE5NDQxOTY4NzRdfQ==
+eyJoaXN0b3J5IjpbNTEyNjMxOTExLC0xOTU5NjAxNzAzLC0xMD
+A1Mjk5NTI2LDU2MTk3NTM5MCwtMTQxNzkxMjcyOCwtMTk3NDE4
+MjA2MCwtNTY2Mjc3MTQ2LC0xOTQ0MTk2ODc0XX0=
 -->
