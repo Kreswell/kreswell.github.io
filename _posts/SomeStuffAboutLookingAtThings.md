@@ -1,6 +1,6 @@
 Let's take a minute to really think about the nature of observation and measurement. I know that sounds really dull, but the payoff will hopefully be a better understanding of quantum mechanics.
 
-To be able to talk about observation, we also need to talk about "thingness" because they are *dual* to each other, in the sense that one isn't well-defined without the other. There's no observation without an observed object, and things are only knowable through their observable properties. By the way, if my abstract discussion of a "thing" is too abstract, then you can picture whatever you like to make it more concrete: a particle, a ball, a teapot, an amoeboid blob
+To be able to talk about observation, we also need to talk about "thingness" because they are *dual* to each other, in the sense that one isn't well-defined without the other. There's no observation without an observed object, and things are only knowable through their observable properties. By the way, if my abstract discussion of a "thing" is too abstract, then you can picture whatever you like to make it more concrete: a particle, a ball, a teapot, an amoeboid blob, etc.
 
 To say a thing is, well *a thing*, implies a few things about it:
 1. Boundedness.
@@ -10,7 +10,7 @@ There is somewhere that it is and somewhere that it *isn't*. Even for things, su
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA4MDEzMzUsNTYxOTc1MzkwLC0xND
-E3OTEyNzI4LC0xOTc0MTgyMDYwLC01NjYyNzcxNDYsLTE5NDQx
-OTY4NzRdfQ==
+eyJoaXN0b3J5IjpbMzc4MTczMDMsNTYxOTc1MzkwLC0xNDE3OT
+EyNzI4LC0xOTc0MTgyMDYwLC01NjYyNzcxNDYsLTE5NDQxOTY4
+NzRdfQ==
 -->
