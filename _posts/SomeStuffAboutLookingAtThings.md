@@ -2,10 +2,12 @@ Let's take a minute to really think about the nature of observation and measurem
 
 To be able to talk about observation, we also need to talk about "thingness" because they are *dual* to each other, in the sense that one isn't well-defined without the other. There's no observation without an observed object, and things are only knowable through their observable properties.
 
-To say a thing is, well *a thing*, implies a few things ab
+To say a thing is, well *a thing*, implies a few things about it:
+1. Locality.
+If I say, "I saw something!" the na
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzMzNzg1NSwtMTk0NDE5Njg3NF19
+eyJoaXN0b3J5IjpbLTQwOTQ3MzA3NCwtMTk0NDE5Njg3NF19
 -->
