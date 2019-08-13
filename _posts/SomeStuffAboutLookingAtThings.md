@@ -4,11 +4,11 @@ To be able to talk about observation, we also need to talk about "thingness" bec
 
 To say a thing is, well *a thing*, implies a few things about it:
 1. Locality.
-There is somewhere that it is and somewhere that it *isn't*. Even for things, such as electromagnetic fields, that we understand to exist everywhere in the universe, the only things we observe about them are their localized variations. If such a thing were truly constant everywhere, it would be 
+There is somewhere that it is and somewhere that it *isn't*. Even for things, such as electromagnetic fields, that we understand to exist everywhere in the universe, the only things we observe about them are their localized variations. 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTk2MDY1NywtNTY2Mjc3MTQ2LC0xOT
-Q0MTk2ODc0XX0=
+eyJoaXN0b3J5IjpbLTE5NzQxODIwNjAsLTU2NjI3NzE0NiwtMT
+k0NDE5Njg3NF19
 -->
