@@ -15,7 +15,7 @@ The takeaway here is that all measurements necessarily have finite precision. Th
 The best we can do when making a measurement -- indeed, what we actually do whenever we make a measurement -- is to specify an open interval, $S$, that (we imagine) contains the "true" value. The measure of this interval is bounded below by our "smallest possible measurement": $\mu(S) \ge \delta$ for some specific $\delta \in \mathbb{Q}$ which depends on our measurement method. 
 
 ### The problem of the measurement basis
-As we know from Galilean physics and special relativity, there is no preferred, "God given" coordinate system. Whenever we make a measurement, we have to establish a measurement basis. Basically, we grab a rod and call that [1 rod](https://en.wikipedia.org/wiki/Rod_%28unit%29). Then we pick a starting point 
+As we know from Galilean physics and special relativity, there is no preferred, "God given" coordinate system. Whenever we make a measurement, we have to establish a measurement basis. Basically, we grab a rod and call that [1 rod](https://en.wikipedia.org/wiki/Rod_%28unit%29). Then we pick a starting point and call that  
 
 ## The Pointless Topology
 
@@ -28,7 +28,7 @@ As we know from Galilean physics and special relativity, there is no preferred, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODEzNzE5MiwtNTU1MzU3Nzk1LC04OD
+eyJoaXN0b3J5IjpbMjA0ODY1ODEwNCwtNTU1MzU3Nzk1LC04OD
 g5NTE4MzcsLTE3OTA3MTU4MiwyMDY1NjI0MjY1LC0xNTY0MjU3
 OTg0LC0xMTUxOTg1MzMyLC02MzM5MDQ5NDYsOTgzODQ0NTE5LD
 gzNTAzNjY4Niw5NTg1ODQ4NTcsLTE5MDc4OTI2MDQsMjk1Nzgz
