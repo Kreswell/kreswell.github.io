@@ -4,7 +4,7 @@ OK, I need to write this stuff out for the sake of my own understanding. Please 
 Let $X$ be a space. We're going to construct several different structures on $X$. Two of these are order structures, so we need to be careful with notation to avoid confusion.
 
 ## Conceptual Motivation
-The typical conceptual and pedagogical way of constructing the reals is as a set of points -- usually the limit points of sequences of rational numbers (at least, that's how I first saw them rigorously constructed). 
+The typical conceptual and pedagogical way of constructing the reals is as a set of points -- usually the limit points of sequences of rational numbers (at least that's the construction I learned in my graduate analysis class). This presupposes 
 
 ## The Pointless Topology
 
@@ -17,5 +17,5 @@ The typical conceptual and pedagogical way of constructing the reals is as a set
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDE5Mzc0NSwxNzAyMTQ2NTcwXX0=
+eyJoaXN0b3J5IjpbMjk1NzgzNTU5LDE3MDIxNDY1NzBdfQ==
 -->
