@@ -4,7 +4,7 @@ OK, I need to write this stuff out for the sake of my own understanding. Please 
 Let $X$ be a space. We're going to construct several different structures on $X$. Two of these are order structures, so we need to be careful with notation to avoid confusion.
 
 ## Conceptual Motivation
-Typically we think of measurement
+Typically we think of measurement as a
 
 ## The Pointless Topology
 
@@ -17,6 +17,6 @@ Typically we think of measurement
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDgzODI5NCwtMTkwNzg5MjYwNCwyOT
+eyJoaXN0b3J5IjpbMTc1MTI4ODAzOSwtMTkwNzg5MjYwNCwyOT
 U3ODM1NTksMTcwMjE0NjU3MF19
 -->
