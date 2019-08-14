@@ -12,7 +12,7 @@ In more familiar terms, if we want to write down an arbitrary real number in dec
 
 The takeaway here is that all measurements necessarily have finite precision. This is not, as one might suppose, simply due to our imperfect instruments or (as way too many undergraduate students say in their lab reports) "human error." *It is an inherent property of the real numbers*. Or, more precisely, an inherent property of the set of continuous functions onto $\mathbb{R}$. In other words, "perfect" instruments are a ([measure](http://mathworld.wolfram.com/MeasureTheory.html)) theoretical impossibility.
 
-The best we can do when making a measurement -- indeed, what we actually do whenever we make a measurement -- is to specify an open interval that (we imagine) contains the "true" value. 
+The best we can do when making a measurement -- indeed, what we actually do whenever we make a measurement -- is to specify an open interval that (we imagine) contains the "true" value. The measure of this interval is 
 
 ## The Pointless Topology
 
@@ -25,7 +25,7 @@ The best we can do when making a measurement -- indeed, what we actually do when
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjAxMjUwNywtMTE1MTk4NTMzMiwtNj
-MzOTA0OTQ2LDk4Mzg0NDUxOSw4MzUwMzY2ODYsOTU4NTg0ODU3
-LC0xOTA3ODkyNjA0LDI5NTc4MzU1OSwxNzAyMTQ2NTcwXX0=
+eyJoaXN0b3J5IjpbLTE1NjQyNTc5ODQsLTExNTE5ODUzMzIsLT
+YzMzkwNDk0Niw5ODM4NDQ1MTksODM1MDM2Njg2LDk1ODU4NDg1
+NywtMTkwNzg5MjYwNCwyOTU3ODM1NTksMTcwMjE0NjU3MF19
 -->
