@@ -1,4 +1,4 @@
-
+Quantum mechanics, when viewed as a [mathematical theory](https://en.wikipedia.org/wiki/Mathematical_theory)
 
 ---
 
@@ -24,9 +24,9 @@ We can relax these three properties, but we start to lose our understanding of i
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzY1NDI5LDEwMjAwMTI1ODIsLTkyNz
-Q3MzUxNywtMTM1MDg3OTMwMywtNTY1NDg1NjQ4LC0xOTU5NjAx
-NzAzLC0xMDA1Mjk5NTI2LDU2MTk3NTM5MCwtMTQxNzkxMjcyOC
-wtMTk3NDE4MjA2MCwtNTY2Mjc3MTQ2LC0xOTQ0MTk2ODc0XX0=
-
+eyJoaXN0b3J5IjpbMTI2NTc4NzE4MywxNTUzNjU0MjksMTAyMD
+AxMjU4MiwtOTI3NDczNTE3LC0xMzUwODc5MzAzLC01NjU0ODU2
+NDgsLTE5NTk2MDE3MDMsLTEwMDUyOTk1MjYsNTYxOTc1MzkwLC
+0xNDE3OTEyNzI4LC0xOTc0MTgyMDYwLC01NjYyNzcxNDYsLTE5
+NDQxOTY4NzRdfQ==
 -->
