@@ -1,4 +1,4 @@
-Quantum mechanics, when viewed as a [mathematical theory](https://en.wikipedia.org/wiki/Mathematical_theory), can be thought of as the theory of observation and measurement (no
+Quantum mechanics, when viewed as a [mathematical theory](https://en.wikipedia.org/wiki/Mathematical_theory), can be thought of as the theory of observation and measurement. (No, not [that](http://mathworld.wolfram.com/MeasureTheory.html). Although it is closely related).
 
 ---
 
@@ -24,9 +24,9 @@ We can relax these three properties, but we start to lose our understanding of i
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTg0NTAwMywxNTUzNjU0MjksMTAyMD
-AxMjU4MiwtOTI3NDczNTE3LC0xMzUwODc5MzAzLC01NjU0ODU2
-NDgsLTE5NTk2MDE3MDMsLTEwMDUyOTk1MjYsNTYxOTc1MzkwLC
-0xNDE3OTEyNzI4LC0xOTc0MTgyMDYwLC01NjYyNzcxNDYsLTE5
-NDQxOTY4NzRdfQ==
+eyJoaXN0b3J5IjpbNDYwNzgwMTg2LDE1NTM2NTQyOSwxMDIwMD
+EyNTgyLC05Mjc0NzM1MTcsLTEzNTA4NzkzMDMsLTU2NTQ4NTY0
+OCwtMTk1OTYwMTcwMywtMTAwNTI5OTUyNiw1NjE5NzUzOTAsLT
+E0MTc5MTI3MjgsLTE5NzQxODIwNjAsLTU2NjI3NzE0NiwtMTk0
+NDE5Njg3NF19
 -->
