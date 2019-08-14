@@ -4,7 +4,7 @@ OK, I need to write this stuff out for the sake of my own understanding. Please 
 Let $X$ be a space. We're going to construct several different structures on $X$. Two of these are order structures, so we need to be careful with notation to avoid confusion.
 
 ## Conceptual Motivation
-Typically we think of measurement as a
+Typically we think of measurement as assigning a real number to a real-world phenomenon. However, this isn't really how it works. A real-world measurement can never specify 
 
 ## The Pointless Topology
 
@@ -17,6 +17,6 @@ Typically we think of measurement as a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTI4ODAzOSwtMTkwNzg5MjYwNCwyOT
-U3ODM1NTksMTcwMjE0NjU3MF19
+eyJoaXN0b3J5IjpbNzYzMDMzNzY1LC0xOTA3ODkyNjA0LDI5NT
+c4MzU1OSwxNzAyMTQ2NTcwXX0=
 -->
