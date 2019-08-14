@@ -8,7 +8,7 @@ Typically we think of measurement as assigning a real number to a real-world phe
 
 In more familiar terms, if we want to write down an arbitrary real number in decimal notation *exactly*, we have to write down *all* of its digits. This, of course, cannot be done in finite time. Thus, if we want to measure some real-world quantity *exactly*, such as the distance between to points, we have to determine *all* of the significant digits of the measurement. Even if the quantity has some "nice" value -- $2$ cm, for example -- to unambiguously determine this, we still have to determine all of it's significant digits. Otherwise, how do we know that the true value isn't, say, $2.0000000000000000143052\dots$ cm or $1.999999999999999919167\dots$ cm? One might be tempted to say, "Well at some point we get to lengths smaller than the proton, or even the [Planck length](https://en.wikipedia.org/wiki/Planck_length). So obviously we can't be more precise than that." But that's getting ahead of ourselves. The point is to study measurement in a purely mathematical context and see how it leads us to the rules of quantum mechanics.
 
-The takeaway here is that all measurements necessarily have finite precision. This is not, as one might suppose, simply a limit
+The takeaway here is that all measurements necessarily have finite precision. This is not, as one might suppose, simply due to our imperfect instruments or (as way too many undergraduate students say in their lab reports) "human error." It is an inherent property of the real numbers, or, more precise
 
 ## The Pointless Topology
 
@@ -21,7 +21,7 @@ The takeaway here is that all measurements necessarily have finite precision. Th
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTcyNDQ3MTEsLTExNTE5ODUzMzIsLT
-YzMzkwNDk0Niw5ODM4NDQ1MTksODM1MDM2Njg2LDk1ODU4NDg1
-NywtMTkwNzg5MjYwNCwyOTU3ODM1NTksMTcwMjE0NjU3MF19
+eyJoaXN0b3J5IjpbMjA2OTU1MzYwLC0xMTUxOTg1MzMyLC02Mz
+M5MDQ5NDYsOTgzODQ0NTE5LDgzNTAzNjY4Niw5NTg1ODQ4NTcs
+LTE5MDc4OTI2MDQsMjk1NzgzNTU5LDE3MDIxNDY1NzBdfQ==
 -->
