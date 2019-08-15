@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$X$$ be a set where we're going to construct some structures. When we're done, it will bear a strong resemblance to $$\mathbb{R}$$ but with some restrictions that make it behave more like a "real-world" line.
+Let $$X$$ be a (pretty much arbitrary) set. We want to construct a topology, or at least a lattice of sets, 
 
 
 
@@ -42,11 +42,11 @@ Let $$X$$ be a set where we're going to construct some structures. When we're do
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMT
-I1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYx
-NzU3MDksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OS
-wtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0y
-MTEzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NT
-Y3NzE0LDE5ODkyNjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAz
-OSw4Mzk2MzEzNl19
+eyJoaXN0b3J5IjpbLTE5NjY2MDQ3MDQsLTI2MjA1OTEwMSwtMT
+IxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcy
+MzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNjU1NiwxODU4ODc1ND
+E4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0x
+OTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMzQsMTYwNT
+gxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNTUsMTc5NjY3OTA4
+MSwtMTg0NzE5MzAzOV19
 -->
