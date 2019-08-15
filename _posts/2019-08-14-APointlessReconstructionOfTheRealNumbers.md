@@ -35,7 +35,7 @@ Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two [par
 
 In all of the following, declared sets (represented with a single character) will be understood to be inhabited unless otherwise stated. This assumption will not necessarily extend to sets defined by relations (such as intersection).
 
-The lattice 
+Let $$\mathcal{T}$$ include sufficient sets so that,$$\subseteq$$ form a topology
 
 # The Algebraic Structure
 
@@ -44,11 +44,11 @@ The lattice
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE4NjcwMDIsODM0MjQyODkxLC01ND
-Q5MTU2ODQsLTE2MjA2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2
-MjY0NSwtMTI1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMz
-U1LDEwNjYxNzU3MDksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEz
-MTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2ND
-IzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYw
-NiwtODc5NTY3NzE0XX0=
+eyJoaXN0b3J5IjpbLTE4MTM4MTIxMzYsLTE1MjE4NjcwMDIsOD
+M0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLTI2MjA1
+OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYzMzQyND
+E1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNjU1Niwx
+ODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MD
+E2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTcz
+MzQsMTYwNTgxMzYwNl19
 -->
