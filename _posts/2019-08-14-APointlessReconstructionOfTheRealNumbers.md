@@ -30,7 +30,11 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
 Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two partial orders defined on them, 
-- 
+- **Inclusion:** $$\subseteq$$
+- **Scalar ordering:** $$\le$$
+
+Both are partial orders, that is:
+1. $$A \subseteq A$$
 
 # The Algebraic Structure
 
@@ -39,7 +43,7 @@ Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two part
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MzI2ODA3LDgzNDI0Mjg5MSwtNTQ0OT
+eyJoaXN0b3J5IjpbOTY3ODA2MzY0LDgzNDI0Mjg5MSwtNTQ0OT
 E1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMwNjI2
 NDUsLTEyNTAxODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NS
 wxMDY2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5
