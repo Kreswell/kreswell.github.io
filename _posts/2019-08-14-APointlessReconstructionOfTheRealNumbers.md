@@ -61,7 +61,7 @@ $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
 $$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A$$ and $$C \subseteq B$$.
 - **Union:**
-$$A \cup B$$ is the *unique* set such that 
+$$A \cup B$$ is the *unique* set such that $$\forall \: x$$
 
 
 # The Linear Order
@@ -73,9 +73,9 @@ $$A \cup B$$ is the *unique* set such that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDcwMTYyMDMsLTE5NDY0MjM0MzUsLT
-IxMTM4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1
-Njc3MTQsMTk4OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMD
-M5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
-
+eyJoaXN0b3J5IjpbMTkzNjE2MTIyNywtMTQwNzAxNjIwMywtMT
+k0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4
+MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwOD
+EsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3
+NTUyMDY4OF19
 -->
