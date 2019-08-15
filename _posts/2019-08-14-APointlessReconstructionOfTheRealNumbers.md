@@ -65,7 +65,7 @@ $$A \cap B$$ is the *unique* set such that
 $$C \subseteq A \cap B \iff C \subseteq A \: \text{and} \: C \subseteq B$$
 
 - **Union:**
-$$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either $$x \in A$$ or $$x \in B$$.
+$$A \cup B$$ is the *unique* set such that $$\forall C \subseteq A \cup B$$ either $$C \cap A \ne \varnothing$$ or $$x \in B$$.
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
@@ -98,9 +98,9 @@ $$\square$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0MD
-cwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1
-NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NS
-wxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3
-Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbNzE3Mzc4NjU4LDEzMTk5MjE2OSwtNTMxNj
+AxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0
+NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LD
+E5ODkyNjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2
+MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
