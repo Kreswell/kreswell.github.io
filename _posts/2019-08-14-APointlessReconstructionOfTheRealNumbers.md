@@ -78,11 +78,11 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 $$C \subseteq U \iff C \subseteq A \: \text{and} \: C \subseteq B$$
 
-and likewise
+then
 
-$$C \subseteq V \iff C \subseteq A \: \text{and} \: C \subseteq B$$
+$$U \subseteq A \: \text{and} \: U \subseteq B$$
 
-then 
+The id
 
 $$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$
 $$\square$$
@@ -100,9 +100,10 @@ $$\square$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMT
-YwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgx
-NDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNC
-wxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5
-NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbLTEwODc1Nzc0MjgsMTg1ODg3NTQxOCwxMz
+E5OTIxNjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQy
+MzQzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MD
+YsLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4
+NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMD
+Y4OF19
 -->
