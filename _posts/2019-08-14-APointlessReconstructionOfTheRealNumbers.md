@@ -35,7 +35,7 @@ Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two [par
 
 In all of the following, declared sets (represented with a single character) will be understood to be inhabited unless otherwise stated. This assumption will not necessarily extend to sets defined by relations (such as intersection).
 
-Let $$\mathcal{T}$$ include sufficient sets such that it is a (generalized) topology under $$\subseteq$$.
+Let $$\mathcal{T}$$ include sufficient sets such that it is a (generalized) topology under $$\subseteq$$. 
 
 # The Algebraic Structure
 
@@ -44,7 +44,7 @@ Let $$\mathcal{T}$$ include sufficient sets such that it is a (generalized) topo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ2MTcxNDksOTcwODQ2MTU0LC0xNT
+eyJoaXN0b3J5IjpbLTIwMjIwOTkzNzcsOTcwODQ2MTU0LC0xNT
 IxODY3MDAyLDgzNDI0Mjg5MSwtNTQ0OTE1Njg0LC0xNjIwNjcw
 NzQ4LC0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAxODkyND
 csLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04
