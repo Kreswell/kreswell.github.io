@@ -97,7 +97,8 @@ $$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$.
 $$\square$$
 
 #### Proof that the union is unique
-Note that to define the union, we have to say that it includes everything in $$A$$ or $$B$$, and it excludes everything excluded from $$A$$ and $$B$$. This is necessary to allow for the possibility of elements 
+Note that to define the union, we have to say that it includes everything in $$A$$ or $$B$$, and it excludes everything excluded from $$A$$ and $$B$$. This is necessary to properly union the undecidable cases.
+
 Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that 
 
 
@@ -112,7 +113,7 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQwOTE2NzksLTg4MDkwNjU1NiwxOD
+eyJoaXN0b3J5IjpbLTE1Mzg0MTk0NzUsLTg4MDkwNjU1NiwxOD
 U4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2
 MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMz
 QsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNTUsMTc5
