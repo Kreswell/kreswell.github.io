@@ -27,7 +27,7 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 This is my first draft of working all of this out on paper. Hopefully, if done right, this construction will make it clear why measurements are inherently probabilistic and why the [Born rule](https://en.wikipedia.org/wiki/Born_rule) is the way to represent states and observables. Hopefully I may also be able to show why states evolve according to the Schrödinger equation, and what constitutes an observation for the purposes of "snapping into" an eigenstate. (Hint: it has nothing to do with human minds).
 
 ---
-Let $$X$$ be a space. We're going to construct several different structures on $$X$$. Two of these are order structures, so we need to be careful with notation to avoid confusion. The goal is for $$X$$ to look like $$\mathbb{R}$$, but with the 
+Let $$X$$ be a space. We're going to construct several different structures on $$X$$. Two of these are order structures, so we need to be careful with notation to avoid confusion. The goal is for $$X$$ to look like $$\mathbb{R}$$, but without, or at least with a very limited form of, the axiom of choice.
 
 # The Pointless Topology
 
@@ -41,6 +41,6 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMTg3NDQyLDgzOTYzMTM2LC0xODM3Nz
-k3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mz
+c3OTcxMTYsMTI3NTUyMDY4OF19
 -->
