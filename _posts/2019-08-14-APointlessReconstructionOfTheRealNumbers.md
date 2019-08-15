@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$\mathcal{R}$$ be 
+Let $$\mathcal{R}$$ be a set where we're going to construct some structures. Once we
 
 # The Linear Order
 
@@ -40,11 +40,11 @@ Let $$\mathcal{R}$$ be
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODkxODA0MywtMTI1MDE4OTI0NywtMT
-YzMzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkw
-NjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC
-0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5
-MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNj
-gxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwt
-MTgzNzc5NzExNl19
+eyJoaXN0b3J5IjpbLTM4MDExNTQ4LC0xMjUwMTg5MjQ3LC0xNj
+MzNDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2
+NTU2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLT
+E0MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkx
+OTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2OD
+E1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0x
+ODM3Nzk3MTE2XX0=
 -->
