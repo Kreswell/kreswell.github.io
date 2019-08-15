@@ -66,7 +66,7 @@ $$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either 
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
-Note, again, that the only statements made about elements of sets are universal ones. In plain English, they a
+Note, again, that the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "all the stuff in here is also in there." Thus, we avoid needing to choose individual elements to be able to check the truth of these, and corollary, statements.
 
 
 # The Linear Order
@@ -78,7 +78,7 @@ Note, again, that the only statements made about elements of sets are universal 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTIwNzk4MCwtNTMxNjAxNzI2LC0xND
+eyJoaXN0b3J5IjpbMTYyODY5Mzg2NiwtNTMxNjAxNzI2LC0xND
 A3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTky
 NTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNT
 UsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgz
