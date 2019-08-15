@@ -32,7 +32,9 @@ I started writing this section and got myself so turned around that I had to pre
 Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
 
 ### 1. $$\mathcal{T}$$ is a topology.
-
+That is:
+1. $$X \subseteq \mathcal{T}$$
+2. $$\varnothing \subseteq  \mathcal{T}$$
 
 
 
@@ -45,11 +47,11 @@ Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE5MDI4NjMsLTE2MjA2NzA3NDgsLT
-I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
-MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
-U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
-NDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MT
-kyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgx
-NTUsMTc5NjY3OTA4MV19
+eyJoaXN0b3J5IjpbLTgxNzg2MTIzMywtMTYyMDY3MDc0OCwtMj
+YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
+NDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2NT
+U2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0
+MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOT
+I1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1
+NSwxNzk2Njc5MDgxXX0=
 -->
