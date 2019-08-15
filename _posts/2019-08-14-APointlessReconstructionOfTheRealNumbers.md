@@ -42,7 +42,7 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 
 # The Pointless Topology
 ## Notations, definitions, and conventions
-A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements.
+A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. 
 
 It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
 
@@ -64,7 +64,7 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjU0MTcwLC0yMTEzODE0NzcyLDE5MT
+eyJoaXN0b3J5IjpbNDYzNzMwMjc4LC0yMTEzODE0NzcyLDE5MT
 kyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgx
 NTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMT
 gzNzc5NzExNiwxMjc1NTIwNjg4XX0=
