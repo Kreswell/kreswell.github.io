@@ -29,9 +29,8 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Order Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rational numbers. (This conception of $$\mathbb{R}$$ is essentially the same as the familiar decimal representation). As argued above, we can't specify an arbitrary real number in finite time. The best we can do is specify some finite sized intervals.
-
-Let $$\mathcal{T}$$ be a collection of open sets of 
+Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two partial orders defined on them, 
+- 
 
 # The Algebraic Structure
 
@@ -40,11 +39,11 @@ Let $$\mathcal{T}$$ be a collection of open sets of
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDE1MDM4Nyw4MzQyNDI4OTEsLTU0ND
-kxNTY4NCwtMTYyMDY3MDc0OCwtMjYyMDU5MTAxLC0xMjEzMDYy
-NjQ1LC0xMjUwMTg5MjQ3LC0xNjMzNDI0MTU4LC00NzIzODMzNT
-UsMTA2NjE3NTcwOSwtODgwOTA2NTU2LDE4NTg4NzU0MTgsMTMx
-OTkyMTY5LC01MzE2MDE3MjYsLTE0MDcwMTYyMDMsLTE5NDY0Mj
-M0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2
-LC04Nzk1Njc3MTRdfQ==
+eyJoaXN0b3J5IjpbNDI0MzI2ODA3LDgzNDI0Mjg5MSwtNTQ0OT
+E1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMwNjI2
+NDUsLTEyNTAxODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NS
+wxMDY2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5
+OTIxNjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMz
+QzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYs
+LTg3OTU2NzcxNF19
 -->
