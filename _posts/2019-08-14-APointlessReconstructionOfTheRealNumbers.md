@@ -77,9 +77,9 @@ $$\forall x \notin A \: \text{and} \: x \notin B, \: x \notin A \cup B$$
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
-Note, again, that we can't check conditional statements on individual elements, so the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "All the stuff in here is also in there," but not statements of the form "This one is..." Thus, we need both an "outer" and "inner" definition for union and intersection. We need to say what is definitely in, and what is definitely out, and allow room for elements whe
+Note, again, that we can't check conditional statements on individual elements, so the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "All the stuff in here is also in there," but not statements of the form "This one is..." Thus, we need both an "outer" and "inner" definition for union and intersection. We need to say what is definitely in, and what is definitely out, and allow room for elements where we don't know if they're in or out.
 
-
+The proofs of uniqueness of union and intersection are complicated because of this "outer" and 
 
 
 # The Linear Order
@@ -91,10 +91,10 @@ Note, again, that we can't check conditional statements on individual elements, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA0NDg0NjcsMTA2NjE3NTcwOSwtOD
-gwOTA2NTU2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3
-MjYsLTE0MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3Nz
-IsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4
-OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMT
-M2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbMjE0MTcyMzMzMywxMDY2MTc1NzA5LC04OD
+A5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcy
+NiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3Mi
+wxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5
+MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMz
+YsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
