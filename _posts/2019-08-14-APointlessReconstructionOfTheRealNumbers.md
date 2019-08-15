@@ -62,10 +62,6 @@ $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 $$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A$$ and $$C \subseteq B$$.
 - **Union:**
 
-Set equality is defined by:
-$$A = B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$
-Proper set inclusion is defined by:
-$$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $$A \cap B = \varnothing$$
 
 # The Linear Order
 
@@ -76,8 +72,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzE1ODAwLC0xOTQ2NDIzNDM1LC0yMT
-EzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3
-NzE0LDE5ODkyNjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOS
-w4Mzk2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbMTMyMjIxODg2NCwtMTk0NjQyMzQzNSwtMj
+ExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2
+NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMz
+ksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
