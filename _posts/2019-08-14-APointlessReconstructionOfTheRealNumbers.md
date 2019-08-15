@@ -43,12 +43,11 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 # The Pointless Topology
 ## Notations, definitions, and conventions
 ### Logical trichotomy 
-A statement is *true* if its conditions are met. A statement is *false* if the opposite of at least one condition is met. A statement is *undecided* or *indeterminate* if it is neither true nor false (we can't or haven't determined whether it's true or false). A statement is *not true* if it is either false or undecided, likewise for *not false* statements.
+A statement is *true* if its conditions are met. A statement is *false* if the opposite of at least one condition is met. A statement is *undecided* or *indeterminate* if it is neither true nor false (we can't tell whether it's true or false). A statement is *not true* if it is either false or undecided, likewise for *not false* statements.
 
-A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty.
+A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty. It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
 
-It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
-
+### Topological stru
 Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
 1. $$\mathcal{T}$$ is a topology. That is:
   - $$X \in \mathcal{T}$$
@@ -67,7 +66,7 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg0MTQ0NDUsLTIxMTM4MTQ3NzIsMT
+eyJoaXN0b3J5IjpbLTE4NzkxNTU2OTksLTIxMTM4MTQ3NzIsMT
 kxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2
 ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC
 0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
