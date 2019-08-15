@@ -21,15 +21,15 @@ The takeaway here is that all measurements necessarily have finite precision. Th
 The best we can do when making a measurement -- indeed, what we actually do whenever we make a measurement -- is to specify an open interval, $$S$$, that (we imagine) contains the "true" value. The measure of this interval is bounded below by our "smallest possible measurement": $$\mu(S) \ge \delta$$ for some specific $$\delta \in \mathbb{Q}$$ which depends on our measurement method. 
 
 ### The problem of the measurement basis
-Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $$\mathbb{R}$$, then we need two points which we could label $$0$$ and $$1$$, the origin and the point one (positive) unit from the origin. From this we could measure any distance along the line passing through $0$ and $1$.
+Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $$\mathbb{R}$$, then we need two points which we could label $$0$$ and $$1$$, the origin and the point one (positive) unit from the origin. From this we could measure any distance along the line passing through $$0$$ and $$1$$.
 
-However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly where our base points are. We can't know exactly how long our ruler is. As before, the best we can do is to specify open neighborhoods and say "$0$ is in here and $1$ is in there."
+However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly where our base points are. We can't know exactly how long our ruler is. As before, the best we can do is to specify open neighborhoods and say "$$0$$ is in here and $$1$$ is in there."
 
 ### The plan
 This is my first draft of working all of this out on paper. Hopefully, if done right, this construction will make it clear why measurements are inherently probabilistic and why the [Born rule](https://en.wikipedia.org/wiki/Born_rule) is the way to represent states and observables. Hopefully I may also be able to show why states evolve according to the Schrödinger equation, and what constitutes an observation for the purposes of "snapping into" an eigenstate. (Hint: it has nothing to do with human minds).
 
 ---
-Let $X$ be a space. We're going to construct several different structures on $X$. Two of these are order structures, so we need to be careful with notation to avoid confusion.
+Let $$X$$ be a space. We're going to construct several different structures on $$X$$. Two of these are order structures, so we need to be careful with notation to avoid confusion.
 
 ## The Pointless Topology
 
@@ -42,5 +42,5 @@ Let $X$ be a space. We're going to construct several different structures on $X$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI0MzY5MDgsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
