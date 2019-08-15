@@ -36,7 +36,9 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 
 However,
 
-6. We cannot make logical statements about set elements directly. At best, we can make universal ("for all") statements about elements based e
+6. We cannot make logical statements about set elements directly. At best, we can make universal ("for all") statements about elements based on which sets they inhabit.
+
+As we will see, there will 
 
 # The Pointless Topology
 
@@ -50,6 +52,6 @@ However,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM3NTg0MTAsLTE4NDcxOTMwMzksOD
+eyJoaXN0b3J5IjpbLTE2Mzc0OTQ1NjQsLTE4NDcxOTMwMzksOD
 M5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
