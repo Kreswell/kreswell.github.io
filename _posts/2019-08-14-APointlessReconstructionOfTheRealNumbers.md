@@ -36,8 +36,7 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 
 However,
 
-6. We cannot make logical statements about set elements directly.
-7. 
+6. We cannot make logical statements about set elements directly. At best, we can make 
 
 # The Pointless Topology
 
@@ -51,6 +50,6 @@ However,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MjAyMDc0LC0xODQ3MTkzMDM5LDgzOT
+eyJoaXN0b3J5IjpbNzc4MjU1MjU0LC0xODQ3MTkzMDM5LDgzOT
 YzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
 -->
