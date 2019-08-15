@@ -33,6 +33,7 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 
 ## The Pointless Topology
 
+
 ## The Linear Order
 
 ## The Algebraic Structure
@@ -42,5 +43,6 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbLTc1MDk5NDM0NiwtMTgzNzc5NzExNiwxMj
+c1NTIwNjg4XX0=
 -->
