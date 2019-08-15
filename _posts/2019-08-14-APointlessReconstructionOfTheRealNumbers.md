@@ -1,5 +1,8 @@
 ---
-
+title: A Pointless Reconstruction of the Real Numbers
+subtitle: And why it's important for quantum mechanics.
+date: 2019-08-14
+tags: [physics, math, quantum mechanics]
 ---
 
 OK, I need to write this stuff out for the sake of my own understanding. Please excuse my (mathematically formal) language. 
@@ -39,5 +42,5 @@ Let $X$ be a space. We're going to construct several different structures on $X$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEyODQyNzJdfQ==
+eyJoaXN0b3J5IjpbMTI3NTUyMDY4OF19
 -->
