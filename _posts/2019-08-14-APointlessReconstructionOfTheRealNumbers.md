@@ -31,6 +31,8 @@ I started writing this section and got myself so turned around that I had to pre
 
 Let $$X$$ be a set where we're going to construct some structures. When we're done, it will bear a strong resemblance to $$\mathbb{R}$$ but with some restrictions that make it behave more like a "real-world" line.
 
+
+
 # The Linear Order
 
 # The Algebraic Structure
@@ -40,7 +42,7 @@ Let $$X$$ be a set where we're going to construct some structures. When we're do
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzcwNzIwNywtMTIxMzA2MjY0NSwtMT
+eyJoaXN0b3J5IjpbLTI2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMT
 I1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYx
 NzU3MDksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OS
 wtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0y
