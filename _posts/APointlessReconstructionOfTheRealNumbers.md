@@ -17,7 +17,9 @@ The best we can do when making a measurement -- indeed, what we actually do when
 ### The problem of the measurement basis
 Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $\mathbb{R}$, then we need two points which we could label $0$ and $1$, the origin and the point one (positive) unit from the origin. From this we could measure any distance along the line passing through $0$ and $1$.
 
-However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly where our base points are. We can't know exactly how long our ruler is. As before, the best we can do is specify an open neighborhooe
+However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly where our base points are. We can't know exactly how long our ruler is. As before, the best we can do is to specify open neighborhoods and say "$0$ is in here and $1$ is in there."
+
+The 
 
 ## The Pointless Topology
 
@@ -30,11 +32,11 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU0ODIzMzYsLTc4MDEwMDA1NiwtMT
-Y0MDA4OTk3NywtMTE1NzQ1MzYzMCwxNzQ2MzQ2NDUyLC0zMTYy
-NTg0OTQsMTI1NTI0MzcwMywxMzI4Mzg5NTU1LC0xMDc5NzA1MT
-c4LDIwNDg2NTgxMDQsLTU1NTM1Nzc5NSwtODg4OTUxODM3LC0x
-NzkwNzE1ODIsMjA2NTYyNDI2NSwtMTU2NDI1Nzk4NCwtMTE1MT
-k4NTMzMiwtNjMzOTA0OTQ2LDk4Mzg0NDUxOSw4MzUwMzY2ODYs
-OTU4NTg0ODU3XX0=
+eyJoaXN0b3J5IjpbLTg4NjkwODM5NywtNzgwMTAwMDU2LC0xNj
+QwMDg5OTc3LC0xMTU3NDUzNjMwLDE3NDYzNDY0NTIsLTMxNjI1
+ODQ5NCwxMjU1MjQzNzAzLDEzMjgzODk1NTUsLTEwNzk3MDUxNz
+gsMjA0ODY1ODEwNCwtNTU1MzU3Nzk1LC04ODg5NTE4MzcsLTE3
+OTA3MTU4MiwyMDY1NjI0MjY1LC0xNTY0MjU3OTg0LC0xMTUxOT
+g1MzMyLC02MzM5MDQ5NDYsOTgzODQ0NTE5LDgzNTAzNjY4Niw5
+NTg1ODQ4NTddfQ==
 -->
