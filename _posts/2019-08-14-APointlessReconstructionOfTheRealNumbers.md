@@ -43,10 +43,10 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 # The Pointless Topology
 Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
 1. $$\mathcal{T}$$ is a topology. That is:
-  a. $$X \in \mathcal{T}$$
-  b. $$\varnothing \in \mathcal{T}$$
-  c. $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
-  d. $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
+  - $$X \in \mathcal{T}$$
+  - $$\varnothing \in \mathcal{T}$$
+  - $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
+  - $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
 2. 
 
 # The Linear Order
@@ -58,7 +58,7 @@ Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following prope
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYzMDYzNjYsMTk4OTI2ODE1NSwxNz
-k2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3
-MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OT
+Y2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcx
+MTYsMTI3NTUyMDY4OF19
 -->
