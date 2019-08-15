@@ -79,6 +79,8 @@ $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that
 
 Note, again, that we can't check conditional statements on individual elements, so the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "All the stuff in here is also in there," but not statements of the form "This one is..." Thus, we need both an "outer" and "inner" definition for union and intersection. We need to say what is definitely in, and what is definitely out, and allow room for elements where we don't know if they're in or out. Union and intersection are, therefore, only unique up to the decidability of the sets being unioned or intersected.
 
+We need to be careful here. 
+
 
 # The Linear Order
 
@@ -89,10 +91,10 @@ Note, again, that we can't check conditional statements on individual elements, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzQ1OTk5LDEwNjYxNzU3MDksLTg4MD
-kwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2
-LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLD
-E5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODky
-NjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNi
-wtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04OD
+A5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcy
+NiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3Mi
+wxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5
+MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMz
+YsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
