@@ -35,6 +35,7 @@ Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two part
 
 Both are partial orders, that is:
 1. $$A \subseteq A$$
+2. If $$A \subseteq B$$ and $$B \subseteq C$$ then $$
 
 # The Algebraic Structure
 
@@ -43,11 +44,11 @@ Both are partial orders, that is:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3ODA2MzY0LDgzNDI0Mjg5MSwtNTQ0OT
-E1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMwNjI2
-NDUsLTEyNTAxODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NS
-wxMDY2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5
-OTIxNjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMz
-QzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYs
-LTg3OTU2NzcxNF19
+eyJoaXN0b3J5IjpbLTE1MTA4MDA0MjEsODM0MjQyODkxLC01ND
+Q5MTU2ODQsLTE2MjA2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2
+MjY0NSwtMTI1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMz
+U1LDEwNjYxNzU3MDksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEz
+MTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2ND
+IzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYw
+NiwtODc5NTY3NzE0XX0=
 -->
