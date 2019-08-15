@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ which has a finitely generated lattice structure. What exactly this means, will be defined. But it does not necessarily mean that the lattice of sets is finite.
+Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$.
 
 ### 1. $$\mathcal{T}$$ is a topology.
 That is:
@@ -47,11 +47,11 @@ That is:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
-YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
-NDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2NT
-U2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0
-MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOT
-I1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1
-NSwxNzk2Njc5MDgxXX0=
+eyJoaXN0b3J5IjpbLTI1MTQ3Nzc3NiwtNTQ0OTE1Njg0LC0xNj
+IwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAx
+ODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1Nz
+A5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUz
+MTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMz
+gxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2Nzcx
+NCwxOTg5MjY4MTU1XX0=
 -->
