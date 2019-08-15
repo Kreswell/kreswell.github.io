@@ -16,7 +16,7 @@ In more familiar terms, if we want to write down an arbitrary real number in dec
 
 The takeaway here is that all measurements necessarily have finite precision. This is not, as one might suppose, simply due to our imperfect instruments or (as way too many undergraduate students say in their lab reports) "human error." *It is an inherent property of the real numbers*. Or, more precisely, an inherent property of the set of continuous functions onto $$\mathbb{R}$$. In other words, "perfect" instruments are a ([measure](http://mathworld.wolfram.com/MeasureTheory.html)) theoretical impossibility.
 
-The best we can do when making a measurement -- indeed, what we actually do whenever we make a measurement -- is to specify an open interval, $$S$$, that (we imagine) contains the "true" value. The measure of this interval is bounded below by our "smallest possible measurement": $$\mu(S) \ge \delta$$ for some specific $$\delta \in \Q$$ which depends on our measurement method. 
+The best we can do when making a measurement -- indeed, what we actually do whenever we make a measurement -- is to specify an open interval, $$S$$, that (we imagine) contains the "true" value. The measure of this interval is bounded below by our "smallest possible measurement": $$\mu(S) \ge \delta$$ for some specific $$\delta \in \mathbb{Q}$$ which depends on our measurement method. 
 
 ## The problem of the measurement basis
 Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $$\R$$, then we need two points which we could label $$0$$ and $$1$$, the origin and the point one (positive) unit from the origin. From this we could measure any distance along the line passing through $$0$$ and $$1$$.
@@ -44,7 +44,7 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
 1. $$X \in \mathcal{T}$$
 2. $$\varnothing \in \mathcal{T}$$
-3. $$\forall A_i \in \mathcal{T}, i \in I \subseteq \Q\cup\infty; \bigcup_i A_i \in \mathcal{T} $$
+3. $$\forall A_i \in \mathcal{T}, i \in I \subseteq \{\mathbb{Q},\infty\}; \bigcup_i A_i \in \mathcal{T} $$
 4. $$\forall A,B \in \mathcal{T}; A \cap B \in \mathcal{T} $$
 
 # The Linear Order
@@ -56,7 +56,7 @@ Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following prope
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNjMxNTM4LDE5ODkyNjgxNTUsMTc5Nj
+eyJoaXN0b3J5IjpbNTI3NjczOTc4LDE5ODkyNjgxNTUsMTc5Nj
 Y3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgzNzc5NzEx
 NiwxMjc1NTIwNjg4XX0=
 -->
