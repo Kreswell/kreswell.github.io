@@ -15,7 +15,7 @@ The takeaway here is that all measurements necessarily have finite precision. Th
 The best we can do when making a measurement -- indeed, what we actually do whenever we make a measurement -- is to specify an open interval, $S$, that (we imagine) contains the "true" value. The measure of this interval is bounded below by our "smallest possible measurement": $\mu(S) \ge \delta$ for some specific $\delta \in \mathbb{Q}$ which depends on our measurement method. 
 
 ### The problem of the measurement basis
-Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a set of points
+Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick two points (for a one-dimensional 
 
 ## The Pointless Topology
 
@@ -28,10 +28,11 @@ Since there is no universal, "God given" coordinate system, whenever we make a m
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjI1ODQ5NCwxMjU1MjQzNzAzLDEzMj
-gzODk1NTUsLTEwNzk3MDUxNzgsMjA0ODY1ODEwNCwtNTU1MzU3
-Nzk1LC04ODg5NTE4MzcsLTE3OTA3MTU4MiwyMDY1NjI0MjY1LC
-0xNTY0MjU3OTg0LC0xMTUxOTg1MzMyLC02MzM5MDQ5NDYsOTgz
-ODQ0NTE5LDgzNTAzNjY4Niw5NTg1ODQ4NTcsLTE5MDc4OTI2MD
-QsMjk1NzgzNTU5LDE3MDIxNDY1NzBdfQ==
+eyJoaXN0b3J5IjpbLTEzODI3NjQ0OTIsLTMxNjI1ODQ5NCwxMj
+U1MjQzNzAzLDEzMjgzODk1NTUsLTEwNzk3MDUxNzgsMjA0ODY1
+ODEwNCwtNTU1MzU3Nzk1LC04ODg5NTE4MzcsLTE3OTA3MTU4Mi
+wyMDY1NjI0MjY1LC0xNTY0MjU3OTg0LC0xMTUxOTg1MzMyLC02
+MzM5MDQ5NDYsOTgzODQ0NTE5LDgzNTAzNjY4Niw5NTg1ODQ4NT
+csLTE5MDc4OTI2MDQsMjk1NzgzNTU5LDE3MDIxNDY1NzBdfQ==
+
 -->
