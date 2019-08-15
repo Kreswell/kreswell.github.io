@@ -29,6 +29,8 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
+Let $$\mathcal{R}$$ be 
+
 # The Linear Order
 
 # The Algebraic Structure
@@ -38,11 +40,11 @@ I started writing this section and got myself so turned around that I had to pre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAxODkyNDcsLTE2MzM0MjQxNTgsLT
-Q3MjM4MzM1NSwxMDY2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3
-NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMy
-wtMTk0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2
-MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2Nz
-kwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYs
-MTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbMTk1ODkxODA0MywtMTI1MDE4OTI0NywtMT
+YzMzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkw
+NjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC
+0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5
+MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNj
+gxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwt
+MTgzNzc5NzExNl19
 -->
