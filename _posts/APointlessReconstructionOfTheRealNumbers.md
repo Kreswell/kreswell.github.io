@@ -15,7 +15,7 @@ The takeaway here is that all measurements necessarily have finite precision. Th
 The best we can do when making a measurement -- indeed, what we actually do whenever we make a measurement -- is to specify an open interval, $S$, that (we imagine) contains the "true" value. The measure of this interval is bounded below by our "smallest possible measurement": $\mu(S) \ge \delta$ for some specific $\delta \in \mathbb{Q}$ which depends on our measurement method. 
 
 ### The problem of the measurement basis
-Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $\mathbb{R}$, then we need two points which we could label $0$ and $1$, the origin and the point one (positive) unit from the origin.
+Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $\mathbb{R}$, then we need two points which we could label $0$ and $1$, the origin and the point one (positive) unit from the origin. From this we could measure any distance along the line passing through $0$ and $1$.
 
 ## The Pointless Topology
 
@@ -28,10 +28,11 @@ Since there is no universal, "God given" coordinate system, whenever we make a m
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjM0NjQ1MiwtMzE2MjU4NDk0LDEyNT
-UyNDM3MDMsMTMyODM4OTU1NSwtMTA3OTcwNTE3OCwyMDQ4NjU4
-MTA0LC01NTUzNTc3OTUsLTg4ODk1MTgzNywtMTc5MDcxNTgyLD
-IwNjU2MjQyNjUsLTE1NjQyNTc5ODQsLTExNTE5ODUzMzIsLTYz
-MzkwNDk0Niw5ODM4NDQ1MTksODM1MDM2Njg2LDk1ODU4NDg1Ny
-wtMTkwNzg5MjYwNCwyOTU3ODM1NTksMTcwMjE0NjU3MF19
+eyJoaXN0b3J5IjpbOTgxMjAwMzc2LDE3NDYzNDY0NTIsLTMxNj
+I1ODQ5NCwxMjU1MjQzNzAzLDEzMjgzODk1NTUsLTEwNzk3MDUx
+NzgsMjA0ODY1ODEwNCwtNTU1MzU3Nzk1LC04ODg5NTE4MzcsLT
+E3OTA3MTU4MiwyMDY1NjI0MjY1LC0xNTY0MjU3OTg0LC0xMTUx
+OTg1MzMyLC02MzM5MDQ5NDYsOTgzODQ0NTE5LDgzNTAzNjY4Ni
+w5NTg1ODQ4NTcsLTE5MDc4OTI2MDQsMjk1NzgzNTU5LDE3MDIx
+NDY1NzBdfQ==
 -->
