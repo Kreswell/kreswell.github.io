@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$\mathcal{R}$$ be a set where we're going to construct some structures. Once we
+Let $$\mathcal{R}$$ be a set where we're going to construct some structures. When we're done, it will bear a strong resemblance to $$\mathbb{R}$$ but with some restrictions that make it behave more like a "real-world" line.
 
 # The Linear Order
 
@@ -40,11 +40,11 @@ Let $$\mathcal{R}$$ be a set where we're going to construct some structures. Onc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDExNTQ4LC0xMjUwMTg5MjQ3LC0xNj
-MzNDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2
-NTU2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLT
-E0MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkx
-OTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2OD
-E1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0x
-ODM3Nzk3MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyMTMwNjI2NDUsLTEyNTAxODkyNDcsLT
+E2MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04ODA5
+MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcyNi
+wtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3Miwx
+OTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5Mj
+Y4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYs
+LTE4Mzc3OTcxMTZdfQ==
 -->
