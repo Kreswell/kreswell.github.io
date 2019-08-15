@@ -17,7 +17,7 @@ The best we can do when making a measurement -- indeed, what we actually do when
 ### The problem of the measurement basis
 Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $\mathbb{R}$, then we need two points which we could label $0$ and $1$, the origin and the point one (positive) unit from the origin. From this we could measure any distance along the line passing through $0$ and $1$.
 
-However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observa
+However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler.
 
 ## The Pointless Topology
 
@@ -30,11 +30,11 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDIzNzUyNzAsMTc0NjM0NjQ1MiwtMz
-E2MjU4NDk0LDEyNTUyNDM3MDMsMTMyODM4OTU1NSwtMTA3OTcw
-NTE3OCwyMDQ4NjU4MTA0LC01NTUzNTc3OTUsLTg4ODk1MTgzNy
-wtMTc5MDcxNTgyLDIwNjU2MjQyNjUsLTE1NjQyNTc5ODQsLTEx
-NTE5ODUzMzIsLTYzMzkwNDk0Niw5ODM4NDQ1MTksODM1MDM2Nj
-g2LDk1ODU4NDg1NywtMTkwNzg5MjYwNCwyOTU3ODM1NTksMTcw
-MjE0NjU3MF19
+eyJoaXN0b3J5IjpbMzUyNDE4NzY1LDE3NDYzNDY0NTIsLTMxNj
+I1ODQ5NCwxMjU1MjQzNzAzLDEzMjgzODk1NTUsLTEwNzk3MDUx
+NzgsMjA0ODY1ODEwNCwtNTU1MzU3Nzk1LC04ODg5NTE4MzcsLT
+E3OTA3MTU4MiwyMDY1NjI0MjY1LC0xNTY0MjU3OTg0LC0xMTUx
+OTg1MzMyLC02MzM5MDQ5NDYsOTgzODQ0NTE5LDgzNTAzNjY4Ni
+w5NTg1ODQ4NTcsLTE5MDc4OTI2MDQsMjk1NzgzNTU5LDE3MDIx
+NDY1NzBdfQ==
 -->
