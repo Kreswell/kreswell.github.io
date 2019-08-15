@@ -38,13 +38,7 @@ However,
 
 6. We cannot make logical statements about set elements directly. At best, we can make universal ("for all") statements about elements based on which sets they inhabit.
 
-As we will see, there will be some "unexcluded middle" statements. For example, there may exist 
-$$ A \subseteq X $$ 
-where both 
-$$ \exist \: a \in A $$
-and
-$$ A = \varnothing $$
-are not true. Th
+As we will see, there will be some "unexcluded middle" statements. For example, there may exist sets where we can't tell whether or not they are inhabited.
 
 # The Pointless Topology
 
@@ -58,6 +52,6 @@ are not true. Th
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDIxMTEzNSwtMTg0NzE5MzAzOSw4Mz
+eyJoaXN0b3J5IjpbMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mz
 k2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
