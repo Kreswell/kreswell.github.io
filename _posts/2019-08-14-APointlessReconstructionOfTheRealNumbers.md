@@ -44,7 +44,8 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
 1. $$X \in \mathcal{T}$$
 2. $$\varnothing \in \mathcal{T}$$
-3. $$\forall A,B \in \mathcal{T}, A \cup B \in \mathca $$
+3. $$\forall A \in \mathcal{T}, A \cup B \in \mathcal{T} $$
+4. $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
 
 # The Linear Order
 
@@ -55,7 +56,7 @@ Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following prope
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDg2NjAyLDE5ODkyNjgxNTUsMTc5Nj
-Y3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgzNzc5NzEx
-NiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbMTI0Nzk3MDEzMCwxOTg5MjY4MTU1LDE3OT
+Y2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcx
+MTYsMTI3NTUyMDY4OF19
 -->
