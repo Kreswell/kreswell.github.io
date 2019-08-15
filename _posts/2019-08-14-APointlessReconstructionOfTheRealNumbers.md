@@ -48,12 +48,12 @@ A statement is *true* if its conditions are met. A statement is *false* if the o
 A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty. It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
 ### Set relations
 Since we do not have full use of the axiom of choice, we have to be very careful about what we mean by set relations. Thus, we define the following:
-- Inclusion:
+- **Inclusion:**
 $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
-- Equality:
+- **Equality:**
 $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
-- Intersection:
-$$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A \: \text{and} \: C \su$$
+- **Intersection:**
+$$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A \: \text{and} \: C \subseteq B$$.
 - Equality:
 ### Topological structure
 Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
@@ -76,8 +76,9 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzA3OTA1NCwtMTk0NjQyMzQzNSwtMj
-ExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2
-NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMz
-ksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbLTE2MzUzNjA3ODYsLTE5NDY0MjM0MzUsLT
+IxMTM4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1
+Njc3MTQsMTk4OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMD
+M5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+
 -->
