@@ -30,7 +30,8 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
 Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
-### 1. Every set in $$\mathcal{T}$$ is finitely constructed.
+
+### 1. $$\mathcal{T}$$ is a topology.
 
 
 
@@ -44,7 +45,7 @@ Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjEzODgwMzEsLTE2MjA2NzA3NDgsLT
+eyJoaXN0b3J5IjpbLTE1NzE5MDI4NjMsLTE2MjA2NzA3NDgsLT
 I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
 MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
 U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
