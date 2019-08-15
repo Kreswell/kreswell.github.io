@@ -73,7 +73,7 @@ $$A \cup B$$ is the *unique* set such that
 $$\forall x \in A \cup B, \: x \in A \: \text{or} \: x \in B $$
 and
 
-$$C \cap (A \cup B) = \varnothing \iff C \cap A = \varnothing \: \text{and} \: C \cap B = \varnothing$$.
+$$\forall x \notin A \: \text{and} \: x \notin B, \: x \notin A \cup B$$
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
@@ -116,10 +116,10 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NDE4MzgxLDEwNjYxNzU3MDksLTg4MD
-kwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2
-LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLD
-E5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODky
-NjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNi
-wtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbMjEyNjE0ODQ1MSwxMDY2MTc1NzA5LC04OD
+A5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcy
+NiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3Mi
+wxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5
+MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMz
+YsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
