@@ -65,7 +65,7 @@ $$A \cap B$$ is the *unique* set such that
 $$\forall x \in A \cap B, \: x \in A \: \text{and} \: x \in B$$
 and
 
-$$\forall x \in C \: \text{s.t.} \: $$
+$$\forall x \notin A \: \text{or} \: x \notin B, \: x \notin A \cap B$$
 
 - **Union:**
 $$A \cup B$$ is the *unique* set such that 
@@ -116,7 +116,7 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2OTE1Mjg1LDEwNjYxNzU3MDksLTg4MD
+eyJoaXN0b3J5IjpbNjY2NDE4MzgxLDEwNjYxNzU3MDksLTg4MD
 kwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2
 LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLD
 E5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODky
