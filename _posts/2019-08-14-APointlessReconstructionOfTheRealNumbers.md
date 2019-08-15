@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$X$$ be a (pretty much arbitrary) set. We want to construct a topology, or at least a lattice of sets, 
+Let $$X$$ be a (pretty much arbitrary) set. We want to construct a topology, or at least a lattice of sets, which is as complete as possible, but still only requires 
 
 
 
@@ -42,7 +42,7 @@ Let $$X$$ be a (pretty much arbitrary) set. We want to construct a topology, or 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY2MDQ3MDQsLTI2MjA1OTEwMSwtMT
+eyJoaXN0b3J5IjpbLTE2MjA2NzA3NDgsLTI2MjA1OTEwMSwtMT
 IxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcy
 MzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNjU1NiwxODU4ODc1ND
 E4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0x
