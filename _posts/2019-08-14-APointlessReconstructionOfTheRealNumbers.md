@@ -53,7 +53,7 @@ $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 - Equality:
 $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - Intersection:
-$$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A$$
+$$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A \: \text{and} \: C \su$$
 - Equality:
 ### Topological structure
 Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
@@ -76,7 +76,7 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjUyMjcxNiwtMTk0NjQyMzQzNSwtMj
+eyJoaXN0b3J5IjpbLTc2NzA3OTA1NCwtMTk0NjQyMzQzNSwtMj
 ExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2
 NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMz
 ksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
