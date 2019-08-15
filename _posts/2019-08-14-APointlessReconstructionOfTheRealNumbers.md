@@ -26,23 +26,7 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 ## The plan
 This is my first draft of working all of this out on paper. Hopefully, if done right, this construction will make it clear why measurements are inherently probabilistic and why the [Born rule](https://en.wikipedia.org/wiki/Born_rule) is the way to represent states and observables. Hopefully I may also be able to show why states evolve according to the Schrödinger equation, and what constitutes an observation for the purposes of "snapping into" an eigenstate. (Hint: it has nothing to do with human minds).
 
----
-Let $$X$$ be a space. We're going to construct several different structures on $$X$$. Two of these are order structures, so we need to be careful with notation to avoid confusion. The goal is for $$X$$ to look like $$\mathbb{R}$$, but with some restrictions on what we can and cannot know.
-1. $$X$$ is a set, so it contains a nonzero number of elements.
-2. We can specify proper subsets of $$X$$ (and proper subsets of those).
-3. The usual set relations of inclusion, union, and intersection are well-defined.
-4. The empty set, $$\varnothing$$ exists.
-5. We can tell if a set is inhabited (contains a nonzero number of elements), and we can tell if a set is empty (contains zero elements).
-
-However,
-
-6. We cannot make logical statements about set elements directly. At best, we can make universal ("for all") statements about elements based on which sets they inhabit.
-
-As we will see, there will be some "unexcluded middle" statements. For example, there may exist sets where we can't tell whether or not they are inhabited.
-
 # The Pointless Topology
-
-
 
 
 # The Linear Order
@@ -54,7 +38,7 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk3Nzk4MzUsLTQ3MjM4MzM1NSwxMD
+eyJoaXN0b3J5IjpbLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMD
 Y2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIx
 NjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNS
 wtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3
