@@ -97,6 +97,7 @@ $$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$.
 $$\square$$
 
 #### Proof that the union is unique
+Note that to define the union
 Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that 
 
 
@@ -111,10 +112,10 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAzODUzMjUsLTg4MDkwNjU1NiwxOD
-U4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2
-MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMz
-QsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNTUsMTc5
-NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgzNzc5Nz
-ExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbLTk3ODIzNzg3MCwtODgwOTA2NTU2LDE4NT
+g4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0MDcwMTYy
+MDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1NzMzNC
+wxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NSwxNzk2
+Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3MT
+E2LDEyNzU1MjA2ODhdfQ==
 -->
