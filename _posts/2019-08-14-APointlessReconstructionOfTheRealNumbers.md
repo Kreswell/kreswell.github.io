@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Order Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rational numbers. (This conception of $$\mathbb{R}$$ is essentially the same as the familiar decimal representation). As argued above, we can't specify an arbitrary real number in finite time, but we can specify open intervals 
+Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rational numbers. (This conception of $$\mathbb{R}$$ is essentially the same as the familiar decimal representation). As argued above, we can't specify an arbitrary real number in finite time. The best we can do is specify 
 
 # The Algebraic Structure
 
@@ -38,11 +38,11 @@ Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rat
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTcyODE2OCwtNTQ0OTE1Njg0LC0xNj
-IwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAx
-ODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1Nz
-A5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUz
-MTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMz
-gxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2Nzcx
-NCwxOTg5MjY4MTU1XX0=
+eyJoaXN0b3J5IjpbOTExNTQ0Mzc5LC01NDQ5MTU2ODQsLTE2Mj
+A2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4
+OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MD
+ksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMx
+NjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzOD
+E0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0
+LDE5ODkyNjgxNTVdfQ==
 -->
