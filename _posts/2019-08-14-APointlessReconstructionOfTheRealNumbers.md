@@ -34,8 +34,10 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 4. The empty set, $$\varnothing$$ exists.
 5. We can tell if a set is inhabited (contains a nonzero number of elements), and we can tell if a set is empty (contains zero elements).
 
-However
-6. We cannot make logical statements about set elements directly. At best, we can make 
+However,
+
+6. We cannot make logical statements about set elements directly.
+7. 
 
 # The Pointless Topology
 
@@ -49,6 +51,6 @@ However
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkwOTk4MjIsLTE4NDcxOTMwMzksOD
-M5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbNTQ3MjAyMDc0LC0xODQ3MTkzMDM5LDgzOT
+YzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
 -->
