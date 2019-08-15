@@ -61,7 +61,7 @@ $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
 $$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A$$ and $$C \subseteq B$$.
 - **Proper containment:**
-$$A \subset B$$ iff $$A \subseteq B$$
+$$A \subset B$$ iff $$A \subseteq B$$ and $$\exist \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 - **Union:**
 $$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either $$x \in A$$ or $$x \in B$$.
 
@@ -75,7 +75,7 @@ $$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQyODM5MCwtMTQwNzAxNjIwMywtMT
+eyJoaXN0b3J5IjpbMjEzMDI0NDE5MCwtMTQwNzAxNjIwMywtMT
 k0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4
 MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwOD
 EsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3
