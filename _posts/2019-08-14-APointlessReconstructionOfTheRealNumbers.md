@@ -67,7 +67,7 @@ $$C \subseteq A \cap B \iff C \subseteq A \: \text{and} \: C \subseteq B$$
 - **Union:**
 $$A \cup B$$ is the *unique* set such that 
 
-$$\forall x \in A \cup B, \: x \in A \: \text{or} \: x \in B $$
+$$\forall x \in A \cup B, \: x \in A \: \text{or} \: x \in B $$.
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
@@ -108,10 +108,10 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1ODI0ODE4LDE4NTg4NzU0MTgsMTMxOT
-kyMTY5LC01MzE2MDE3MjYsLTE0MDcwMTYyMDMsLTE5NDY0MjM0
-MzUsLTIxMTM4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC
-04Nzk1Njc3MTQsMTk4OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3
-MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2OD
-hdfQ==
+eyJoaXN0b3J5IjpbLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEzMT
+k5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2NDIz
+NDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNi
+wtODc5NTY3NzE0LDE5ODkyNjgxNTUsMTc5NjY3OTA4MSwtMTg0
+NzE5MzAzOSw4Mzk2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNj
+g4XX0=
 -->
