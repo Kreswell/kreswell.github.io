@@ -69,7 +69,7 @@ $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that
 Note, again, that the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "all the stuff in here is also in there." Thus, we avoid needing to choose individual elements to be able to check the truth of these, and corollary, statements.
 
 #### Proof that the intersection is unique:
-
+Let $$U$$ and $$V$$ be sets with the property 
 
 
 # The Linear Order
@@ -81,9 +81,9 @@ Note, again, that the only statements made about elements of sets are universal 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMzI1NjgyLC01MzE2MDE3MjYsLTE0MD
-cwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1
-NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NS
-wxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3
-Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbLTYwMjI2NDEzMywtNTMxNjAxNzI2LC0xND
+A3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTky
+NTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNT
+UsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgz
+Nzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
