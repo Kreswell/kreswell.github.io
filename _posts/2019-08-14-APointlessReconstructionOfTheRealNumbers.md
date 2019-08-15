@@ -60,6 +60,8 @@ $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
 $$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A$$ and $$C \subseteq B$$.
+- **Proper containment:**
+$$A \subset B$$ iff $$A \subseteq B$$
 - **Union:**
 $$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either $$x \in A$$ or $$x \in B$$.
 
@@ -73,9 +75,9 @@ $$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4NjkzMDQ4LC0xNDA3MDE2MjAzLC0xOT
-Q2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgx
-MzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNTUsMTc5NjY3OTA4MS
-wtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgzNzc5NzExNiwxMjc1
-NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbLTE0MzQyODM5MCwtMTQwNzAxNjIwMywtMT
+k0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4
+MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwOD
+EsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3
+NTUyMDY4OF19
 -->
