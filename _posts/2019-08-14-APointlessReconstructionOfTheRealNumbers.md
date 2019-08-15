@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 ---
 Let $$X$$ be a space. We're going to construct several different structures on $$X$$. Two of these are order structures, so we need to be careful with notation to avoid confusion. The goal is for $$X$$ to look like $$\mathbb{R}$$, but with some restrictions on what we can and cannot know.
 1. $$X$$ is a set, so it contains a nonzero number of elements.
-2. 
+2. We can specify proper subsets of $$X$$ (and proper subsets of 
 
 # The Pointless Topology
 
@@ -43,6 +43,6 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY1Nzg1MjMsLTE4NDcxOTMwMzksOD
-M5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbMjA1MzE3MTg2OSwtMTg0NzE5MzAzOSw4Mz
+k2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
