@@ -29,13 +29,13 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Order Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
+In all of the following, declared sets (represented with a single character) will be understood to be inhabited unless otherwise stated. This assumption will not necessarily extend to sets defined by relations (such as intersection).
+
 Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two [partial orders](http://mathworld.wolfram.com/PartialOrder.html) defined on them, 
 - **Inclusion:** $$\subseteq$$
 - **Scalar ordering:** $$\le$$
 
-In all of the following, declared sets (represented with a single character) will be understood to be inhabited unless otherwise stated. This assumption will not necessarily extend to sets defined by relations (such as intersection).
-
-Let $$\mathcal{T}$$ include sufficient sets such that it is a (generalized) topology under $$\subseteq$$.  Let every set in the base of $$(\mathcal{T},\subseteq)$$
+such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let every set in the base of $$(\mathcal{T},\subseteq)$$
 
 # The Algebraic Structure
 
@@ -44,11 +44,11 @@ Let $$\mathcal{T}$$ include sufficient sets such that it is a (generalized) topo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTYwNDM2MiwtMjAyMjA5OTM3Nyw5Nz
-A4NDYxNTQsLTE1MjE4NjcwMDIsODM0MjQyODkxLC01NDQ5MTU2
-ODQsLTE2MjA2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2MjY0NS
-wtMTI1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMzU1LDEw
-NjYxNzU3MDksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEzMTk5Mj
-E2OSwtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1
-LC0yMTEzODE0NzcyXX0=
+eyJoaXN0b3J5IjpbNTg5Njc3MzQyLDE0NTk2MDQzNjIsLTIwMj
+IwOTkzNzcsOTcwODQ2MTU0LC0xNTIxODY3MDAyLDgzNDI0Mjg5
+MSwtNTQ0OTE1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLT
+EyMTMwNjI2NDUsLTEyNTAxODkyNDcsLTE2MzM0MjQxNTgsLTQ3
+MjM4MzM1NSwxMDY2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NT
+QxOCwxMzE5OTIxNjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywt
+MTk0NjQyMzQzNV19
 -->
