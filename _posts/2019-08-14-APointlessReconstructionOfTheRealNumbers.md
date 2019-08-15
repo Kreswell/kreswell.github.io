@@ -62,7 +62,10 @@ $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
 $$A \cap B$$ is the *unique* set such that 
 
-$$C \subseteq A \cap B \iff C \subseteq A \: \text{and} \: C \subseteq B$$
+$$\forall x \in A \cap B, \: x \in A \: \text{and} \: x \in B$$
+and
+
+$$\forall$$
 
 - **Union:**
 $$A \cup B$$ is the *unique* set such that 
@@ -113,10 +116,10 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjE3NTcwOSwtODgwOTA2NTU2LDE4NT
-g4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0MDcwMTYy
-MDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1NzMzNC
-wxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NSwxNzk2
-Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3MT
-E2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbMTk5NzUwNjAzLDEwNjYxNzU3MDksLTg4MD
+kwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2
+LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLD
+E5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODky
+NjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNi
+wtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
