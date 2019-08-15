@@ -64,7 +64,9 @@ $$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap 
 - **Union:**
 $$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either $$x \in A$$ or $$x \in B$$.
 - **Proper containment:**
-$$A \subset B$$ iff $$A \subseteq B$$ and $$\exist \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
+$$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
+
+Comme
 
 
 # The Linear Order
@@ -76,9 +78,9 @@ $$A \subset B$$ iff $$A \subseteq B$$ and $$\exist \: C \subseteq B$$ such that 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTIyMzA0LC01MzE2MDE3MjYsLTE0MD
-cwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1
-NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NS
-wxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3
-Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbMTI4NDk5MDE2NCwtNTMxNjAxNzI2LC0xND
+A3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTky
+NTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNT
+UsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgz
+Nzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
