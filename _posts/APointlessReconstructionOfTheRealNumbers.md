@@ -20,7 +20,7 @@ Since there is no universal, "God given" coordinate system, whenever we make a m
 However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly where our base points are. We can't know exactly how long our ruler is. As before, the best we can do is to specify open neighborhoods and say "$0$ is in here and $1$ is in there."
 
 ### The plan
-This is my first draft of working all of this out on paper. Hopefully, if done right, this construction will make it clear why measurements are inherently probabilistic and why the [Born rule](https://en.wikipedia.org/wiki/Born_rule) is the way to represent states and observables. Hopefully I may also be able to show why states evolve according to the Schrödinger equation
+This is my first draft of working all of this out on paper. Hopefully, if done right, this construction will make it clear why measurements are inherently probabilistic and why the [Born rule](https://en.wikipedia.org/wiki/Born_rule) is the way to represent states and observables. Hopefully I may also be able to show why states evolve according to the Schrödinger equation, and 
 
 ## The Pointless Topology
 
@@ -33,7 +33,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNTc1MTE2LC03ODAxMDAwNTYsLTE2ND
+eyJoaXN0b3J5IjpbOTE2NTc2NDYzLC03ODAxMDAwNTYsLTE2ND
 AwODk5NzcsLTExNTc0NTM2MzAsMTc0NjM0NjQ1MiwtMzE2MjU4
 NDk0LDEyNTUyNDM3MDMsMTMyODM4OTU1NSwtMTA3OTcwNTE3OC
 wyMDQ4NjU4MTA0LC01NTUzNTc3OTUsLTg4ODk1MTgzNywtMTc5
