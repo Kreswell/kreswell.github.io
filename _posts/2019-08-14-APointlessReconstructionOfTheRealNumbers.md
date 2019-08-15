@@ -29,12 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$.
-
-### 1. $$\mathcal{T}$$ is a topology.
-That is:
-1. $$X \subseteq \mathcal{T}$$
-2. $$\varnothing \subseteq  \mathcal{T}$$
+Let
 
 
 
@@ -47,11 +42,11 @@ That is:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTQ3Nzc3NiwtNTQ0OTE1Njg0LC0xNj
-IwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAx
-ODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1Nz
-A5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUz
-MTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMz
-gxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2Nzcx
-NCwxOTg5MjY4MTU1XX0=
+eyJoaXN0b3J5IjpbLTEyODE1MjUwMDgsLTU0NDkxNTY4NCwtMT
+YyMDY3MDc0OCwtMjYyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUw
+MTg5MjQ3LC0xNjMzNDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NT
+cwOSwtODgwOTA2NTU2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01
+MzE2MDE3MjYsLTE0MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMT
+M4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3
+MTQsMTk4OTI2ODE1NV19
 -->
