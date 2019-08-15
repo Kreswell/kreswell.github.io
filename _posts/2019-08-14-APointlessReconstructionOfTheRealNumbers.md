@@ -70,7 +70,7 @@ $$A \cup B$$ is the *unique* set such that
 $$\forall x \in A \cup B, \: x \in A \: \text{or} \: x \in B $$
 and
 
-$$C \cap (A \cup B) = \varnothing \implies C \cap A = \varnothing \: \text{and} \: C \cap B = \varnothing$$.
+$$C \cap (A \cup B) = \varnothing \iff C \cap A = \varnothing \: \text{and} \: C \cap B = \varnothing$$.
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
@@ -111,7 +111,7 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMyODU2OTEsLTg4MDkwNjU1NiwxOD
+eyJoaXN0b3J5IjpbLTE5MDAzODUzMjUsLTg4MDkwNjU1NiwxOD
 U4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2
 MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMz
 QsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNTUsMTc5
