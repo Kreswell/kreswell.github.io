@@ -35,7 +35,7 @@ Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two [par
 
 In all of the following, declared sets (represented with a single character) will be understood to be inhabited unless otherwise stated. This assumption will not necessarily extend to sets defined by relations (such as intersection).
 
-Let $$\mathcal{T}$$ include sufficient sets so that,$$\subseteq$$ form a topology
+Let $$\mathcal{T}$$ include sufficient sets such that it is a topology under $$\subseteq$$.
 
 # The Algebraic Structure
 
@@ -44,11 +44,11 @@ Let $$\mathcal{T}$$ include sufficient sets so that,$$\subseteq$$ form a topolog
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM4MTIxMzYsLTE1MjE4NjcwMDIsOD
-M0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLTI2MjA1
-OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYzMzQyND
-E1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNjU1Niwx
-ODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MD
-E2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTcz
-MzQsMTYwNTgxMzYwNl19
+eyJoaXN0b3J5IjpbOTcwODQ2MTU0LC0xNTIxODY3MDAyLDgzND
+I0Mjg5MSwtNTQ0OTE1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkx
+MDEsLTEyMTMwNjI2NDUsLTEyNTAxODkyNDcsLTE2MzM0MjQxNT
+gsLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04ODA5MDY1NTYsMTg1
+ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcyNiwtMTQwNzAxNj
+IwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0
+LDE2MDU4MTM2MDZdfQ==
 -->
