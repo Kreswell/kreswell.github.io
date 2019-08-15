@@ -50,7 +50,7 @@ Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following prope
   - $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
   - $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
 2. Proper set inclusion is defined by:
-$$A \subset C$$ iff $$A \subseteq C$$ and $$\exist B \subseteq C$$
+$$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $$A \cap B = \varnothing$$
 
 # The Linear Order
 
@@ -61,7 +61,7 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist B \subseteq C$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NjEzNTU4LC04Nzk1Njc3MTQsMTk4OT
-I2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2
-LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5OD
+kyNjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEz
+NiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
