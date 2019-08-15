@@ -60,10 +60,9 @@ $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
 $$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A$$ and $$C \subseteq B$$.
-- **Proper containment:**
-$$A \subset B$$ iff $$A \subseteq B$$ and $$\exist \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
+
 - **Union:**
-$$A \cup B$$ is the *unique* set such that $$A \subseteq A \cup B$$ either $$x \in A$$ or $$x \in B$$.
+$$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either $$x \in A$$ or $$x \in B$$.
 
 
 # The Linear Order
@@ -75,9 +74,9 @@ $$A \cup B$$ is the *unique* set such that $$A \subseteq A \cup B$$ either $$x \
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywtMT
-k0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4
-MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwOD
-EsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3
-NTUyMDY4OF19
+eyJoaXN0b3J5IjpbMTEwNjA2OTM1MCwtNTMxNjAxNzI2LC0xND
+A3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTky
+NTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNT
+UsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgz
+Nzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
