@@ -60,7 +60,9 @@ $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 - **Equality:**
 $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
-$$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A$$ and $$C \subseteq B$$.
+$$A \cap B$$ is the *unique* set such that 
+
+$$\C \subseteq A \cap B \iff C \subseteq A \: \text{and} $$C \subseteq B$$.
 - **Union:**
 $$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either $$x \in A$$ or $$x \in B$$.
 - **Proper containment:**
@@ -79,7 +81,7 @@ $$C \subseteq V \iff C \subseteq A \: \text{and} \: C \subseteq B$$
 
 then 
 
-$$U \subseteq V \: \text{and} \: 
+$$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$
 
 
 # The Linear Order
@@ -91,9 +93,9 @@ $$U \subseteq V \: \text{and} \:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkwMDI3OTAsLTUzMTYwMTcyNiwtMT
-QwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5
-MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4MT
-U1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4
-Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbODY5MTQzMzEyLC01MzE2MDE3MjYsLTE0MD
+cwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1
+NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NS
+wxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3
+Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
 -->
