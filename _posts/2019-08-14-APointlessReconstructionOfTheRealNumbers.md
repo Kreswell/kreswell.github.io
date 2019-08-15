@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let
+Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rational numbers. 
 
 
 
@@ -42,11 +42,11 @@ Let
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE1MjUwMDgsLTU0NDkxNTY4NCwtMT
-YyMDY3MDc0OCwtMjYyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUw
-MTg5MjQ3LC0xNjMzNDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NT
-cwOSwtODgwOTA2NTU2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01
-MzE2MDE3MjYsLTE0MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMT
-M4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3
-MTQsMTk4OTI2ODE1NV19
+eyJoaXN0b3J5IjpbNDk2NTg0OTkxLC01NDQ5MTU2ODQsLTE2Mj
+A2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4
+OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MD
+ksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMx
+NjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzOD
+E0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0
+LDE5ODkyNjgxNTVdfQ==
 -->
