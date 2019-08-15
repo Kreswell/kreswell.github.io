@@ -77,32 +77,7 @@ $$\forall x \notin A \: \text{and} \: x \notin B, \: x \notin A \cup B$$
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
-Note, again, that the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "all the stuff in here is also in there." Thus, we avoid needing to choose individual elements to be able to check the truth of these, and corollary, statements.
-
-#### Proof that the intersection is unique:
-Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that 
-
-$$C \subseteq U \iff C \subseteq A \: \text{and} \: C \subseteq B$$
-
-then
-
-$$U \subseteq A \: \text{and} \: U \subseteq B$$.
-
-Likewise,  
-
-$$C \subseteq V \iff C \subseteq A \: \text{and} \: C \subseteq B$$
-
-then
-
-$$V \subseteq A \: \text{and} \: V \subseteq B$$.
-
-$$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$.
-$$\square$$
-
-#### Proof that the union is unique
-Note that to define the union, we have to say that it includes everything in $$A$$ or $$B$$, and it excludes everything excluded from $$A$$ and $$B$$. This is necessary to properly union the undecidable cases. Otherwise, the union is *not* unique.
-
-Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that 
+Note, again, that the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "all the stuff in here is also in there." Thus, we avoid needing to choose individual elements to be able to check the truth of these, and corollary, statements. This means that we need b
 
 
 
@@ -116,7 +91,7 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjE0ODQ1MSwxMDY2MTc1NzA5LC04OD
+eyJoaXN0b3J5IjpbLTk2NzYzMDE5NiwxMDY2MTc1NzA5LC04OD
 A5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcy
 NiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3Mi
 wxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5
