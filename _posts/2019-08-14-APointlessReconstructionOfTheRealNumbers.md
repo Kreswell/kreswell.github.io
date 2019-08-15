@@ -62,7 +62,8 @@ $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
 $$A \cap B$$ is the *unique* set such that 
 
-$$\C \subseteq A \cap B \iff C \subseteq A \: \text{and} $$C \subseteq B$$.
+$$C \subseteq A \cap B \iff C \subseteq A \: \text{and} \: C \subseteq B$$
+
 - **Union:**
 $$A \cup B$$ is the *unique* set such that $$\forall \: x \in A \cup B$$ either $$x \in A$$ or $$x \in B$$.
 - **Proper containment:**
@@ -82,6 +83,10 @@ $$C \subseteq V \iff C \subseteq A \: \text{and} \: C \subseteq B$$
 then 
 
 $$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$
+$$\square$$
+
+#### Proof that the union is unique
+
 
 
 # The Linear Order
@@ -93,7 +98,7 @@ $$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MTQzMzEyLC01MzE2MDE3MjYsLTE0MD
+eyJoaXN0b3J5IjpbMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0MD
 cwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1
 NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NS
 wxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3
