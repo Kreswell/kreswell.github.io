@@ -80,11 +80,17 @@ $$C \subseteq U \iff C \subseteq A \: \text{and} \: C \subseteq B$$
 
 then
 
-$$U \subseteq A \: \text{and} \: U \subseteq B$$
+$$U \subseteq A \: \text{and} \: U \subseteq B$$.
 
-The id
+Likewise, if 
 
-$$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$
+$$C \subseteq V \iff C \subseteq A \: \text{and} \: C \subseteq B$$
+
+then
+
+$$V \subseteq A \: \text{and} \: V \subseteq B$$.
+
+$$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$.
 $$\square$$
 
 #### Proof that the union is unique
@@ -100,10 +106,10 @@ $$\square$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc1Nzc0MjgsMTg1ODg3NTQxOCwxMz
-E5OTIxNjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQy
-MzQzNSwtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MD
-YsLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4
-NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMD
-Y4OF19
+eyJoaXN0b3J5IjpbNDk1MDgxODkxLDE4NTg4NzU0MTgsMTMxOT
+kyMTY5LC01MzE2MDE3MjYsLTE0MDcwMTYyMDMsLTE5NDY0MjM0
+MzUsLTIxMTM4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC
+04Nzk1Njc3MTQsMTk4OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3
+MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2OD
+hdfQ==
 -->
