@@ -53,6 +53,7 @@ Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
 2.  $$\varnothing \in \mathcal{T}$$
 3. $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
 4. $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
+
 Where we define set the necessary set relations in the following way:
 - **Inclusion:**
 $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
@@ -75,9 +76,9 @@ $$A \subset B$$ iff $$A \subseteq B$$ and $$\exist \: C \subseteq B$$ such that 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY1MzAxOTQsLTUzMTYwMTcyNiwtMT
-QwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5
-MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4MT
-U1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4
-Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbMTU0MTIyMzA0LC01MzE2MDE3MjYsLTE0MD
+cwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1
+NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NS
+wxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3
+Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
 -->
