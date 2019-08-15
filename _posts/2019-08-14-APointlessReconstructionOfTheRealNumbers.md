@@ -52,7 +52,7 @@ Since we do not have full use of the axiom of choice, we have to be very careful
 $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 - Equality:
 - $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
-- Intersection:
+- Inter:
 - Equality:
 ### Topological structure
 Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
@@ -75,8 +75,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMT
-kxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2
-ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC
-0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbNzUyNTU2NTM4LC0xOTQ2NDIzNDM1LC0yMT
+EzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3
+NzE0LDE5ODkyNjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOS
+w4Mzk2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
