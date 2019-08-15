@@ -49,8 +49,9 @@ A set is *inhabited* if it contains at least one element. A set is *empty* if it
 ### Set relations
 Since we do not have full use of the axiom of choice, we have to be very careful about what we mean by set relations. Thus, we define the following:
 - Inclusion:
-$$A \subseteq B$$ iff $$x \in A \implies x \in B$$
-- Union:
+$$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
+- Equality:
+- $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - Intersection:
 - Equality:
 ### Topological structure
@@ -74,8 +75,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODIwMjA3NiwtMjExMzgxNDc3MiwxOT
-E5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4
-MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLT
-E4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMT
+kxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2
+ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC
+0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
 -->
