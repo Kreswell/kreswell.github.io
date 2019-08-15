@@ -42,7 +42,7 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 
 # The Pointless Topology
 ## Notation and conventions
-For brevity, it will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
+It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
 
 Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
 1. $$\mathcal{T}$$ is a topology. That is:
@@ -62,8 +62,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nz
-k1Njc3MTQsMTk4OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkz
-MDM5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ
-==
+eyJoaXN0b3J5IjpbLTIxMTM4MTQ3NzIsMTkxOTI1NzMzNCwxNj
+A1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NSwxNzk2Njc5
+MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LD
+EyNzU1MjA2ODhdfQ==
 -->
