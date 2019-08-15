@@ -40,7 +40,7 @@ However,
 
 As we will see, there will be some "unexcluded middle" statements. For example, there may exist
 
-$$ A \con
+$$ A \subseteq X $$
 
 # The Pointless Topology
 
@@ -54,6 +54,6 @@ $$ A \con
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMTE5NzUzLC0xODQ3MTkzMDM5LDgzOT
-YzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbLTExMTI1NjMwMjMsLTE4NDcxOTMwMzksOD
+M5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
