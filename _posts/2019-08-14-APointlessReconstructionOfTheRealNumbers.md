@@ -41,45 +41,8 @@ However,
 As we will see, there will be some "unexcluded middle" statements. For example, there may exist sets where we can't tell whether or not they are inhabited.
 
 # The Pointless Topology
-## Notations, definitions, and conventions
-### Logical trichotomy 
-A statement is *true* if its conditions are met. A statement is *false* if the opposite of at least one condition is met. A statement is *undecided* or *indeterminate* if it is neither true nor false (we can't tell whether it's true or false). A statement is *not true* if it is either false or undecided, likewise for *not false* statements.
 
-A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty. It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
 
-### Topological structure
-Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
-1. $$X \in \mathcal{T}$$
-2.  $$\varnothing \in \mathcal{T}$$
-3. $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
-4. $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
-
-Where we define set the necessary set relations in the following way:
-- **Inclusion:**
-$$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
-- **Equality:**
-$$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
-- **Intersection:**
-$$A \cap B$$ is the set such that 
-
-$$\forall x \in A \cap B, \: x \in A \: \text{and} \: x \in B$$
-and
-
-$$\forall x \notin A \: \text{or} \: x \notin B, \: x \notin A \cap B$$
-
-- **Union:**
-$$A \cup B$$ is the set such that 
-
-$$\forall x \in A \cup B, \: x \in A \: \text{or} \: x \in B $$
-and
-
-$$\forall x \notin A \: \text{and} \: x \notin B, \: x \notin A \cup B$$
-- **Proper containment:**
-$$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
-
-Note, again, that we can't check conditional statements on individual elements, so the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "All the stuff in here is also in there," but not statements of the form "This one is..." Thus, we need both an "outer" and "inner" definition for union and intersection. We need to say what is definitely in, and what is definitely out, and allow room for elements where we don't know if they're in or out. Union and intersection are, therefore, only unique up to the decidability of the sets being unioned or intersected.
-
-We need to be careful here. 
 
 
 # The Linear Order
@@ -91,10 +54,11 @@ We need to be careful here.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04OD
-A5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcy
-NiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3Mi
-wxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5
-MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMz
-YsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbLTE1NTk3Nzk4MzUsLTQ3MjM4MzM1NSwxMD
+Y2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIx
+NjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNS
+wtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3
+OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOT
+MwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+
 -->
