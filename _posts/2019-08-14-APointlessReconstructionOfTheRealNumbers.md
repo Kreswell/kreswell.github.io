@@ -27,6 +27,7 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 This is my first draft of working all of this out on paper. Hopefully, if done right, this construction will make it clear why measurements are inherently probabilistic and why the [Born rule](https://en.wikipedia.org/wiki/Born_rule) is the way to represent states and observables. Hopefully I may also be able to show why states evolve according to the Schrödinger equation, and what constitutes an observation for the purposes of "snapping into" an eigenstate. (Hint: it has nothing to do with human minds).
 
 # The Pointless Order Topology
+{note}
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
 Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rational numbers. (This conception of $$\mathbb{R}$$ is essentially the same as the familiar decimal representation). As argued above, we can't specify an arbitrary real number in finite time, but we can specify open intervals 
@@ -38,7 +39,7 @@ Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rat
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTcyODE2OCwtNTQ0OTE1Njg0LC0xNj
+eyJoaXN0b3J5IjpbLTUzMzYxNzA0NiwtNTQ0OTE1Njg0LC0xNj
 IwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAx
 ODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1Nz
 A5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUz
