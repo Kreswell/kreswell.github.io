@@ -32,9 +32,10 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 2. We can specify proper subsets of $$X$$ (and proper subsets of those).
 3. The usual set relations of inclusion, union, and intersection are well-defined.
 4. The empty set, $$\varnothing$$ exists.
+5. We can tell if a set is inhabited (contains a nonzero number of elements), and we can tell if a set is empty.
 
 However
-5. 
+6. 
 
 # The Pointless Topology
 
@@ -48,6 +49,6 @@ However
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ4NDIwMDUsLTE4NDcxOTMwMzksOD
-M5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbMTYxNTk4NDE4MiwtMTg0NzE5MzAzOSw4Mz
+k2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
