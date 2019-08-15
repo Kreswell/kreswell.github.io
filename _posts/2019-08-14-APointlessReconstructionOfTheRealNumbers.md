@@ -46,8 +46,14 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 A statement is *true* if its conditions are met. A statement is *false* if the opposite of at least one condition is met. A statement is *undecided* or *indeterminate* if it is neither true nor false (we can't tell whether it's true or false). A statement is *not true* if it is either false or undecided, likewise for *not false* statements.
 
 A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty. It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
-### Set relations
-Since we do not have full use of the axiom of choice, we have to be very careful about what we mean by set relations. Thus, we define the following:
+
+### Topological structure
+Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
+1. $$X \in \mathcal{T}$$
+2.  $$\varnothing \in \mathcal{T}$$
+3. $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
+4. $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
+Where we define set the necessary set relations in the following way:
 - **Inclusion:**
 $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 - **Equality:**
@@ -55,12 +61,6 @@ $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
 $$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A$$ and $$C \subseteq B$$.
 - **Union:**
-### Topological structure
-Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
-1. $$X \in \mathcal{T}$$
-2.  $$\varnothing \in \mathcal{T}$$
-3. $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
-4. $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
 
 Set equality is defined by:
 $$A = B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$
@@ -76,8 +76,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Njk3NDg5NCwtMTk0NjQyMzQzNSwtMj
-ExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2
-NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMz
-ksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbMTY2NzE1ODAwLC0xOTQ2NDIzNDM1LC0yMT
+EzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3
+NzE0LDE5ODkyNjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOS
+w4Mzk2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
