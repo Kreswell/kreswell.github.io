@@ -17,7 +17,7 @@ The best we can do when making a measurement -- indeed, what we actually do when
 ### The problem of the measurement basis
 Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $\mathbb{R}$, then we need two points which we could label $0$ and $1$, the origin and the point one (positive) unit from the origin. From this we could measure any distance along the line passing through $0$ and $1$.
 
-However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly how long our ruler is. 
+However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly how long our ruler is. We can't know exactly where the vertices of our affine [simplex](https://en.wikipedia.org/wiki/Simplex) are
 
 ## The Pointless Topology
 
@@ -30,11 +30,11 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTQ5NzI1OSwxNzQ2MzQ2NDUyLC0zMT
-YyNTg0OTQsMTI1NTI0MzcwMywxMzI4Mzg5NTU1LC0xMDc5NzA1
-MTc4LDIwNDg2NTgxMDQsLTU1NTM1Nzc5NSwtODg4OTUxODM3LC
-0xNzkwNzE1ODIsMjA2NTYyNDI2NSwtMTU2NDI1Nzk4NCwtMTE1
-MTk4NTMzMiwtNjMzOTA0OTQ2LDk4Mzg0NDUxOSw4MzUwMzY2OD
-YsOTU4NTg0ODU3LC0xOTA3ODkyNjA0LDI5NTc4MzU1OSwxNzAy
-MTQ2NTcwXX0=
+eyJoaXN0b3J5IjpbLTExNTc0NTM2MzAsMTc0NjM0NjQ1MiwtMz
+E2MjU4NDk0LDEyNTUyNDM3MDMsMTMyODM4OTU1NSwtMTA3OTcw
+NTE3OCwyMDQ4NjU4MTA0LC01NTUzNTc3OTUsLTg4ODk1MTgzNy
+wtMTc5MDcxNTgyLDIwNjU2MjQyNjUsLTE1NjQyNTc5ODQsLTEx
+NTE5ODUzMzIsLTYzMzkwNDk0Niw5ODM4NDQ1MTksODM1MDM2Nj
+g2LDk1ODU4NDg1NywtMTkwNzg5MjYwNCwyOTU3ODM1NTksMTcw
+MjE0NjU3MF19
 -->
