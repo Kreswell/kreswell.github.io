@@ -19,7 +19,8 @@ Since there is no universal, "God given" coordinate system, whenever we make a m
 
 However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly where our base points are. We can't know exactly how long our ruler is. As before, the best we can do is to specify open neighborhoods and say "$0$ is in here and $1$ is in there."
 
-The 
+### The plan
+This is my first draft of working all of this out on paper
 
 ## The Pointless Topology
 
@@ -32,11 +33,11 @@ The
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjkwODM5NywtNzgwMTAwMDU2LC0xNj
-QwMDg5OTc3LC0xMTU3NDUzNjMwLDE3NDYzNDY0NTIsLTMxNjI1
-ODQ5NCwxMjU1MjQzNzAzLDEzMjgzODk1NTUsLTEwNzk3MDUxNz
-gsMjA0ODY1ODEwNCwtNTU1MzU3Nzk1LC04ODg5NTE4MzcsLTE3
-OTA3MTU4MiwyMDY1NjI0MjY1LC0xNTY0MjU3OTg0LC0xMTUxOT
-g1MzMyLC02MzM5MDQ5NDYsOTgzODQ0NTE5LDgzNTAzNjY4Niw5
-NTg1ODQ4NTddfQ==
+eyJoaXN0b3J5IjpbMTk0ODk1ODA1LC03ODAxMDAwNTYsLTE2ND
+AwODk5NzcsLTExNTc0NTM2MzAsMTc0NjM0NjQ1MiwtMzE2MjU4
+NDk0LDEyNTUyNDM3MDMsMTMyODM4OTU1NSwtMTA3OTcwNTE3OC
+wyMDQ4NjU4MTA0LC01NTUzNTc3OTUsLTg4ODk1MTgzNywtMTc5
+MDcxNTgyLDIwNjU2MjQyNjUsLTE1NjQyNTc5ODQsLTExNTE5OD
+UzMzIsLTYzMzkwNDk0Niw5ODM4NDQ1MTksODM1MDM2Njg2LDk1
+ODU4NDg1N119
 -->
