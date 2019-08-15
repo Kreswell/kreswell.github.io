@@ -47,14 +47,14 @@ A statement is *true* if its conditions are met. A statement is *false* if the o
 
 A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty. It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
 
-### Topological stru
-Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
-1. $$\mathcal{T}$$ is a topology. That is:
-  - $$X \in \mathcal{T}$$
-  - $$\varnothing \in \mathcal{T}$$
-  - $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
-  - $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
-2. Proper set inclusion is defined by:
+### Topological structure
+Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
+1. $$X \in \mathcal{T}$$
+2.  $$\varnothing \in \mathcal{T}$$
+3. $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
+4. $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
+
+Set Proper set inclusion is defined by:
 $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $$A \cap B = \varnothing$$
 
 # The Linear Order
@@ -66,8 +66,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkxNTU2OTksLTIxMTM4MTQ3NzIsMT
-kxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2
-ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC
-0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbMjA4ODIzMDU4MywtMjExMzgxNDc3MiwxOT
+E5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4
+MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLT
+E4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
