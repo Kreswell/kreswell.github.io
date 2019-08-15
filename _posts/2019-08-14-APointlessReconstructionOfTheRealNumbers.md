@@ -41,7 +41,8 @@ However,
 As we will see, there will be some "unexcluded middle" statements. For example, there may exist sets where we can't tell whether or not they are inhabited.
 
 # The Pointless Topology
-
+Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
+1. $$X$$
 
 # The Linear Order
 
@@ -52,7 +53,7 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTI2ODE1NSwxNzk2Njc5MDgxLC0xOD
-Q3MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTEwODM1MzAzNjksMTk4OTI2ODE1NSwxNz
+k2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3
+MTE2LDEyNzU1MjA2ODhdfQ==
 -->
