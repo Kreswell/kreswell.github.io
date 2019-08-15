@@ -17,7 +17,7 @@ The best we can do when making a measurement -- indeed, what we actually do when
 ### The problem of the measurement basis
 Since there is no universal, "God given" coordinate system, whenever we make a measurement, we have to establish a measurement basis. That is, we must pick a few points to measure in reference to. Specifically, if the measurement can take values from $\mathbb{R}$, then we need two points which we could label $0$ and $1$, the origin and the point one (positive) unit from the origin. From this we could measure any distance along the line passing through $0$ and $1$.
 
-However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly how long our ruler is. We can't know exactly where the vertices of our [affine]() [simplex](https://en.wikipedia.org/wiki/Simplex) are
+However, if we look closely, we notice a serious problem. We can't just pick two points in empty space. How would we clearly specify them? We need real-world observables to anchor these points to. We need an actual stick to use as a ruler. But as before, we can't know exactly where our base points are. We can't know exactly how long our ruler is.
 
 ## The Pointless Topology
 
@@ -30,11 +30,11 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAwODk5NzcsLTExNTc0NTM2MzAsMT
-c0NjM0NjQ1MiwtMzE2MjU4NDk0LDEyNTUyNDM3MDMsMTMyODM4
-OTU1NSwtMTA3OTcwNTE3OCwyMDQ4NjU4MTA0LC01NTUzNTc3OT
-UsLTg4ODk1MTgzNywtMTc5MDcxNTgyLDIwNjU2MjQyNjUsLTE1
-NjQyNTc5ODQsLTExNTE5ODUzMzIsLTYzMzkwNDk0Niw5ODM4ND
-Q1MTksODM1MDM2Njg2LDk1ODU4NDg1NywtMTkwNzg5MjYwNCwy
-OTU3ODM1NTldfQ==
+eyJoaXN0b3J5IjpbLTc4MDEwMDA1NiwtMTY0MDA4OTk3NywtMT
+E1NzQ1MzYzMCwxNzQ2MzQ2NDUyLC0zMTYyNTg0OTQsMTI1NTI0
+MzcwMywxMzI4Mzg5NTU1LC0xMDc5NzA1MTc4LDIwNDg2NTgxMD
+QsLTU1NTM1Nzc5NSwtODg4OTUxODM3LC0xNzkwNzE1ODIsMjA2
+NTYyNDI2NSwtMTU2NDI1Nzk4NCwtMTE1MTk4NTMzMiwtNjMzOT
+A0OTQ2LDk4Mzg0NDUxOSw4MzUwMzY2ODYsOTU4NTg0ODU3LC0x
+OTA3ODkyNjA0XX0=
 -->
