@@ -41,7 +41,8 @@ However,
 As we will see, there will be some "unexcluded middle" statements. For example, there may exist sets where we can't tell whether or not they are inhabited.
 
 # The Pointless Topology
-For brevity, it will be assumed that all declared sets are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
+## Notation and conventions
+For brevity, it will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
 
 Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
 1. $$\mathcal{T}$$ is a topology. That is:
@@ -61,7 +62,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5OD
-kyNjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEz
-NiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nz
+k1Njc3MTQsMTk4OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkz
+MDM5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ
+==
 -->
