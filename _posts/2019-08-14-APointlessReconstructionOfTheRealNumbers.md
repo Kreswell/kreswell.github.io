@@ -51,8 +51,9 @@ Since we do not have full use of the axiom of choice, we have to be very careful
 - Inclusion:
 $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 - Equality:
-- $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
-- Inter:
+$$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
+- Intersection:
+$$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A$$
 - Equality:
 ### Topological structure
 Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
@@ -75,8 +76,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNTU2NTM4LC0xOTQ2NDIzNDM1LC0yMT
-EzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3
-NzE0LDE5ODkyNjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOS
-w4Mzk2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbMTg0NjUyMjcxNiwtMTk0NjQyMzQzNSwtMj
+ExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2
+NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMz
+ksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
