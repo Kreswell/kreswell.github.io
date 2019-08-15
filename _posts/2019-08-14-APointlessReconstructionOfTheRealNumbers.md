@@ -60,7 +60,7 @@ $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 - **Equality:**
 $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
-$$A \cap B$$ is the *unique* set such that 
+$$A \cap B$$ is the set such that 
 
 $$\forall x \in A \cap B, \: x \in A \: \text{and} \: x \in B$$
 and
@@ -68,7 +68,7 @@ and
 $$\forall x \notin A \: \text{or} \: x \notin B, \: x \notin A \cap B$$
 
 - **Union:**
-$$A \cup B$$ is the *unique* set such that 
+$$A \cup B$$ is the set such that 
 
 $$\forall x \in A \cup B, \: x \in A \: \text{or} \: x \in B $$
 and
@@ -77,9 +77,7 @@ $$\forall x \notin A \: \text{and} \: x \notin B, \: x \notin A \cup B$$
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
-Note, again, that we can't check conditional statements on individual elements, so the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "All the stuff in here is also in there," but not statements of the form "This one is..." Thus, we need both an "outer" and "inner" definition for union and intersection. We need to say what is definitely in, and what is definitely out, and allow room for elements where we don't know if they're in or out.
-
-The proofs of uniqueness of union and intersection are complicated because of this "outer" and 
+Note, again, that we can't check conditional statements on individual elements, so the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "All the stuff in here is also in there," but not statements of the form "This one is..." Thus, we need both an "outer" and "inner" definition for union and intersection. We need to say what is definitely in, and what is definitely out, and allow room for elements where we don't know if they're in or out. Union and intersection are, therefore, only unique up to 
 
 
 # The Linear Order
@@ -91,7 +89,7 @@ The proofs of uniqueness of union and intersection are complicated because of th
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTcyMzMzMywxMDY2MTc1NzA5LC04OD
+eyJoaXN0b3J5IjpbMTQ2OTQyODkxMCwxMDY2MTc1NzA5LC04OD
 A5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcy
 NiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3Mi
 wxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5
