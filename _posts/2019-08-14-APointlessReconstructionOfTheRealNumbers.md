@@ -43,7 +43,8 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 # The Pointless Topology
 ## Notations, definitions, and conventions
 ### Logical trichotomy 
-A statement is *true* if its conditions are met. A statement is *false* if at least one condition can be shown to be not met
+A statement is *true* if its conditions are met. A statement is *false* if at least one condition can be shown to be not met. A statement is *undecided* or *indeterminate* if it is neither true nor false (we can't tell whether it's true or false).
+
 A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty.
 
 It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
@@ -66,8 +67,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMjAzNTI1LC0yMTEzODE0NzcyLDE5MT
-kyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgx
-NTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMT
-gzNzc5NzExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbMTQyMjcxOTQyOCwtMjExMzgxNDc3MiwxOT
+E5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4
+MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLT
+E4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
