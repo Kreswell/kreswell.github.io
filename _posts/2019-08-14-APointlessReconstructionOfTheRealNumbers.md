@@ -27,7 +27,7 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 This is my first draft of working all of this out on paper. Hopefully, if done right, this construction will make it clear why measurements are inherently probabilistic and why the [Born rule](https://en.wikipedia.org/wiki/Born_rule) is the way to represent states and observables. Hopefully I may also be able to show why states evolve according to the Schrödinger equation, and what constitutes an observation for the purposes of "snapping into" an eigenstate. (Hint: it has nothing to do with human minds).
 
 # The Pointless Topology
-
+I started 
 
 # The Linear Order
 
@@ -38,11 +38,11 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMD
-Y2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwxMzE5OTIx
-NjksLTUzMTYwMTcyNiwtMTQwNzAxNjIwMywtMTk0NjQyMzQzNS
-wtMjExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3
-OTU2NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOT
-MwMzksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
-
+eyJoaXN0b3J5IjpbLTgyODk0ODc1NiwtMTYzMzQyNDE1OCwtND
+cyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNjU1NiwxODU4ODc1
+NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC
+0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMzQsMTYw
+NTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNTUsMTc5NjY3OT
+A4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgzNzc5NzExNiwx
+Mjc1NTIwNjg4XX0=
 -->
