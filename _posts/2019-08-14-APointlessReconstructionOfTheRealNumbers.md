@@ -48,6 +48,8 @@ A statement is *true* if its conditions are met. A statement is *false* if the o
 A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty. It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
 ### Set relations
 Since we do not have full use of the axiom of choice, we have to be very careful about what we mean by set relations. Thus, we define the following:
+- Inclusion:
+$$A \subseteq B$$ iff $$\forall \: x \in A$$
 - Union:
 - Intersection:
 - Equality:
@@ -72,7 +74,7 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY0NjgwMzcsLTIxMTM4MTQ3NzIsMT
+eyJoaXN0b3J5IjpbLTE5MTIxNDYyMjIsLTIxMTM4MTQ3NzIsMT
 kxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2
 ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC
 0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
