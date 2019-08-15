@@ -97,7 +97,7 @@ $$U \subseteq V \: \text{and} \: V \subseteq U \: \text{so} \: U = V$$.
 $$\square$$
 
 #### Proof that the union is unique
-Note that to define the union, we have to say that it includes everything in $$A$$ or $$B$$, and it excludes everything excluded from $$A$$ and $$B$$. This is necessary to properly union the undecidable cases.
+Note that to define the union, we have to say that it includes everything in $$A$$ or $$B$$, and it excludes everything excluded from $$A$$ and $$B$$. This is necessary to properly union the undecidable cases. Otherwise, the union is *not* unique.
 
 Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that 
 
@@ -113,10 +113,10 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg0MTk0NzUsLTg4MDkwNjU1NiwxOD
-U4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2
-MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMz
-QsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgxNTUsMTc5
-NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNiwtMTgzNzc5Nz
-ExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbMTA2NjE3NTcwOSwtODgwOTA2NTU2LDE4NT
+g4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0MDcwMTYy
+MDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1NzMzNC
+wxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1NSwxNzk2
+Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xODM3Nzk3MT
+E2LDEyNzU1MjA2ODhdfQ==
 -->
