@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Order Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rational numbers. (This conception of $$\mathbb{R}$$ is essentially the same as the familiar decimal representation). As argued above, we can't specify an arbitrary real number in finite time. The best we can do is specify 
+Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rational numbers. (This conception of $$\mathbb{R}$$ is essentially the same as the familiar decimal representation). As argued above, we can't specify an arbitrary real number in finite time. The best we can do is specify some finite sized intervals
 
 # The Algebraic Structure
 
@@ -38,7 +38,7 @@ Let's take $$\mathbb{R}$$, as usual, to be the set of limits of sequences of rat
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNTQ0Mzc5LC01NDQ5MTU2ODQsLTE2Mj
+eyJoaXN0b3J5IjpbODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2Mj
 A2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4
 OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MD
 ksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMx
