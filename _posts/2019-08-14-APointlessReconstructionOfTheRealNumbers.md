@@ -47,7 +47,8 @@ Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following prope
   - $$\varnothing \in \mathcal{T}$$
   - $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
   - $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
-2. 
+2. Proper set inclusion is defined by
+$$A \subset B \: \text{iff} \: A \subseteq B$$
 
 # The Linear Order
 
@@ -58,7 +59,7 @@ Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following prope
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTU2NzcxNCwxOTg5MjY4MTU1LDE3OT
-Y2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4Mzc3OTcx
-MTYsMTI3NTUyMDY4OF19
+eyJoaXN0b3J5IjpbLTcyODg0MjkyLC04Nzk1Njc3MTQsMTk4OT
+I2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2
+LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
 -->
