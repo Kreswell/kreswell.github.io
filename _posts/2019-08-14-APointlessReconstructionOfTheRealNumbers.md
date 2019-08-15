@@ -29,13 +29,11 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Order Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two partial orders defined on them, 
+Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two [partial orders](http://mathworld.wolfram.com/PartialOrder.html) defined on them, 
 - **Inclusion:** $$\subseteq$$
 - **Scalar ordering:** $$\le$$
 
-Both are partial orders, that is:
-1. $$A \subseteq A$$
-2. If $$A \subseteq B$$ and $$B \subseteq C$$ then $$
+In all of the following, declared sets (represented with a single character) will be understood to be inhabited
 
 # The Algebraic Structure
 
@@ -44,11 +42,11 @@ Both are partial orders, that is:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA4MDA0MjEsODM0MjQyODkxLC01ND
-Q5MTU2ODQsLTE2MjA2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2
-MjY0NSwtMTI1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMz
-U1LDEwNjYxNzU3MDksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEz
-MTk5MjE2OSwtNTMxNjAxNzI2LC0xNDA3MDE2MjAzLC0xOTQ2ND
-IzNDM1LC0yMTEzODE0NzcyLDE5MTkyNTczMzQsMTYwNTgxMzYw
-NiwtODc5NTY3NzE0XX0=
+eyJoaXN0b3J5IjpbMjE0MzcwNjExOCw4MzQyNDI4OTEsLTU0ND
+kxNTY4NCwtMTYyMDY3MDc0OCwtMjYyMDU5MTAxLC0xMjEzMDYy
+NjQ1LC0xMjUwMTg5MjQ3LC0xNjMzNDI0MTU4LC00NzIzODMzNT
+UsMTA2NjE3NTcwOSwtODgwOTA2NTU2LDE4NTg4NzU0MTgsMTMx
+OTkyMTY5LC01MzE2MDE3MjYsLTE0MDcwMTYyMDMsLTE5NDY0Mj
+M0MzUsLTIxMTM4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2
+LC04Nzk1Njc3MTRdfQ==
 -->
