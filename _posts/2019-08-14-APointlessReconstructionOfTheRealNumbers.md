@@ -46,7 +46,8 @@ As we will see, there will be some "unexcluded middle" statements. For example, 
 A statement is *true* if its conditions are met. A statement is *false* if the opposite of at least one condition is met. A statement is *undecided* or *indeterminate* if it is neither true nor false (we can't tell whether it's true or false). A statement is *not true* if it is either false or undecided, likewise for *not false* statements.
 
 A set is *inhabited* if it contains at least one element. A set is *empty* if it contains no elements. A set is *indeterminate* if it is not inhabited and not empty. It will be assumed that all declared sets (sets represented with a single character) are inhabited. This assumption does not necessarily extend to sets defined via relations on declared sets.
-
+### Set relations
+Since we do not have full use of the axiom of choice, we have to be very careful about what we mean by set relations. W
 ### Topological structure
 Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
 1. $$X \in \mathcal{T}$$
@@ -68,8 +69,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIwNzQ0ODUsLTIxMTM4MTQ3NzIsMT
-kxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2
-ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC
-0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbOTY5MTIxNDgsLTIxMTM4MTQ3NzIsMTkxOT
+I1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1
+NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2LC0xOD
+M3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
 -->
