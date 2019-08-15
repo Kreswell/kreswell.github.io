@@ -29,7 +29,9 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$
+Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
+### 1. Every set in $$\mathcal{T}$$ is finitely constructed.
+
 
 
 
@@ -42,11 +44,11 @@ Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDM1MzI4OCwtMTYyMDY3MDc0OCwtMj
-YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
-NDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2NT
-U2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0
-MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3NzIsMTkxOT
-I1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4OTI2ODE1
-NSwxNzk2Njc5MDgxXX0=
+eyJoaXN0b3J5IjpbLTE1MjEzODgwMzEsLTE2MjA2NzA3NDgsLT
+I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
+MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
+U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
+NDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLDE5MT
+kyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODkyNjgx
+NTUsMTc5NjY3OTA4MV19
 -->
