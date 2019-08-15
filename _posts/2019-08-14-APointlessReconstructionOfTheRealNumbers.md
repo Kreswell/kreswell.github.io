@@ -32,7 +32,9 @@ Let $$X$$ be a space. We're going to construct several different structures on $
 2. We can specify proper subsets of $$X$$ (and proper subsets of those).
 3. The usual set relations of inclusion, union, and intersection are well-defined.
 4. The empty set, $$\varnothing$$ exists.
-H
+
+However
+5. 
 
 # The Pointless Topology
 
@@ -46,6 +48,6 @@ H
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU1MTA1NiwtMTg0NzE5MzAzOSw4Mz
-k2MzEzNiwtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ4NDIwMDUsLTE4NDcxOTMwMzksOD
+M5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
