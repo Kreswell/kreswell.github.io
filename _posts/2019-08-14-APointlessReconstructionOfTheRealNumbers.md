@@ -77,7 +77,8 @@ $$\forall x \notin A \: \text{and} \: x \notin B, \: x \notin A \cup B$$
 - **Proper containment:**
 $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that $$A \cap C = \varnothing$$.
 
-Note, again, that the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "all the stuff in here is also in there." Thus, we avoid needing to choose individual elements to be able to check the truth of these, and corollary, statements. 
+Note, again, that we can't check conditional statements on individuthe only statements made about elements of sets are universal ones. In plain English, they are statements of the form "all the stuff in here is also in there." Thus, we need both an "outer" and "inner" definition for union and intersection, since it's possible to have undecided statements about elements. 
+
 
 
 
@@ -90,10 +91,10 @@ Note, again, that the only statements made about elements of sets are universal 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg3MzE4NzEsMTA2NjE3NTcwOSwtOD
-gwOTA2NTU2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3
-MjYsLTE0MDcwMTYyMDMsLTE5NDY0MjM0MzUsLTIxMTM4MTQ3Nz
-IsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1Njc3MTQsMTk4
-OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMT
-M2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbLTQ3MjM3NzA2LDEwNjYxNzU3MDksLTg4MD
+kwNjU1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2
+LC0xNDA3MDE2MjAzLC0xOTQ2NDIzNDM1LC0yMTEzODE0NzcyLD
+E5MTkyNTczMzQsMTYwNTgxMzYwNiwtODc5NTY3NzE0LDE5ODky
+NjgxNTUsMTc5NjY3OTA4MSwtMTg0NzE5MzAzOSw4Mzk2MzEzNi
+wtMTgzNzc5NzExNiwxMjc1NTIwNjg4XX0=
 -->
