@@ -29,7 +29,7 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 # The Pointless Topology
 I started writing this section and got myself so turned around that I had to pretty much scrap everything and start over.
 
-Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
+Let $$X$$ be a (pretty much arbitrary) set. Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ which has a finitely 
 
 ### 1. $$\mathcal{T}$$ is a topology.
 That is:
@@ -47,7 +47,7 @@ That is:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzg2MTIzMywtMTYyMDY3MDc0OCwtMj
+eyJoaXN0b3J5IjpbMjAzNTI1MDEyNiwtMTYyMDY3MDc0OCwtMj
 YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
 NDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2NT
 U2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0
