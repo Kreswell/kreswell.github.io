@@ -41,6 +41,7 @@ However,
 As we will see, there will be some "unexcluded middle" statements. For example, there may exist sets where we can't tell whether or not they are inhabited.
 
 # The Pointless Topology
+For all of the following, all sets designated with a single variable (not 
 Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following properties:
 1. $$\mathcal{T}$$ is a topology. That is:
   - $$X \in \mathcal{T}$$
@@ -48,7 +49,7 @@ Let $$\mathcal{T}$$ be a collection of subsets of $$X$$ with the following prope
   - $$\forall A,B \in \mathcal{T}, A \cap B \in \mathcal{T} $$
   - $$\forall A_i \in \mathcal{T}, \bigcup_i A_i \in \mathcal{T} $$
 2. Proper set inclusion is defined by
-$$A \subset B \: \text{iff} \: A \subseteq B$$
+$$A \subset B$$ iff $$A \subseteq B$$ and $$\exist $$
 
 # The Linear Order
 
@@ -59,7 +60,7 @@ $$A \subset B \: \text{iff} \: A \subseteq B$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODg0MjkyLC04Nzk1Njc3MTQsMTk4OT
-I2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMDM5LDgzOTYzMTM2
-LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
+eyJoaXN0b3J5IjpbLTE0NDkxNTc1NTIsLTg3OTU2NzcxNCwxOT
+g5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMx
+MzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
