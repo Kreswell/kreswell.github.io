@@ -69,7 +69,7 @@ $$A \subset B$$ iff $$A \subseteq B$$ and $$\exists \: C \subseteq B$$ such that
 Note, again, that the only statements made about elements of sets are universal ones. In plain English, they are statements of the form "all the stuff in here is also in there." Thus, we avoid needing to choose individual elements to be able to check the truth of these, and corollary, statements.
 
 #### Proof that the intersection is unique:
-Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that $$C \subseteq U $$
+Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that $$C \subseteq U \iff C \subseteq A$$ and $$C \subseteq B$$
 
 
 # The Linear Order
@@ -81,7 +81,7 @@ Let $$A$$, $$B$$, $$U$$ and $$V$$ be sets with the property that $$C \subseteq U
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI0MzkwNTMsLTUzMTYwMTcyNiwtMT
+eyJoaXN0b3J5IjpbLTEzNjEwNTQyNzAsLTUzMTYwMTcyNiwtMT
 QwNzAxNjIwMywtMTk0NjQyMzQzNSwtMjExMzgxNDc3MiwxOTE5
 MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2NzcxNCwxOTg5MjY4MT
 U1LDE3OTY2NzkwODEsLTE4NDcxOTMwMzksODM5NjMxMzYsLTE4
