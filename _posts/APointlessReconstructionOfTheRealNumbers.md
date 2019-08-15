@@ -22,6 +22,7 @@ However, if we look closely, we notice a serious problem. We can't just pick two
 ### The plan
 This is my first draft of working all of this out on paper. Hopefully, if done right, this construction will make a few things clear
 1. Why measurement is inherently probabilistic.
+2. Why the Born rule is the way to handle these probabilities.
 
 ## The Pointless Topology
 
@@ -34,11 +35,11 @@ This is my first draft of working all of this out on paper. Hopefully, if done r
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NzYyNjQwLC03ODAxMDAwNTYsLTE2ND
-AwODk5NzcsLTExNTc0NTM2MzAsMTc0NjM0NjQ1MiwtMzE2MjU4
-NDk0LDEyNTUyNDM3MDMsMTMyODM4OTU1NSwtMTA3OTcwNTE3OC
-wyMDQ4NjU4MTA0LC01NTUzNTc3OTUsLTg4ODk1MTgzNywtMTc5
-MDcxNTgyLDIwNjU2MjQyNjUsLTE1NjQyNTc5ODQsLTExNTE5OD
-UzMzIsLTYzMzkwNDk0Niw5ODM4NDQ1MTksODM1MDM2Njg2LDk1
-ODU4NDg1N119
+eyJoaXN0b3J5IjpbLTE3ODM3NjczMzksLTc4MDEwMDA1NiwtMT
+Y0MDA4OTk3NywtMTE1NzQ1MzYzMCwxNzQ2MzQ2NDUyLC0zMTYy
+NTg0OTQsMTI1NTI0MzcwMywxMzI4Mzg5NTU1LC0xMDc5NzA1MT
+c4LDIwNDg2NTgxMDQsLTU1NTM1Nzc5NSwtODg4OTUxODM3LC0x
+NzkwNzE1ODIsMjA2NTYyNDI2NSwtMTU2NDI1Nzk4NCwtMTE1MT
+k4NTMzMiwtNjMzOTA0OTQ2LDk4Mzg0NDUxOSw4MzUwMzY2ODYs
+OTU4NTg0ODU3XX0=
 -->
