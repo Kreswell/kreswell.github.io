@@ -53,8 +53,8 @@ $$A \subseteq B$$ iff $$\forall x \in A, \: x \in B$$.
 - **Equality:**
 $$A=B$$ iff $$A \subseteq B$$ and $$B \subseteq A$$.
 - **Intersection:**
-$$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A \: \text{and} \: C \subseteq B$$.
-- Equality:
+$$A \cap B$$ is the *unique* set such that $$\forall\: C, \: C \subseteq A \cap B \implies C \subseteq A$$ and $$C \subseteq B$$.
+- **Union:**
 ### Topological structure
 Let $$\mathcal{T}$$ be a topology on $$X$$. That is:
 1. $$X \in \mathcal{T}$$
@@ -76,9 +76,8 @@ $$A \subset C$$ iff $$A \subseteq C$$ and $$\exist\: B \subseteq C$$ such that $
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUzNjA3ODYsLTE5NDY0MjM0MzUsLT
-IxMTM4MTQ3NzIsMTkxOTI1NzMzNCwxNjA1ODEzNjA2LC04Nzk1
-Njc3MTQsMTk4OTI2ODE1NSwxNzk2Njc5MDgxLC0xODQ3MTkzMD
-M5LDgzOTYzMTM2LC0xODM3Nzk3MTE2LDEyNzU1MjA2ODhdfQ==
-
+eyJoaXN0b3J5IjpbMTk0Njk3NDg5NCwtMTk0NjQyMzQzNSwtMj
+ExMzgxNDc3MiwxOTE5MjU3MzM0LDE2MDU4MTM2MDYsLTg3OTU2
+NzcxNCwxOTg5MjY4MTU1LDE3OTY2NzkwODEsLTE4NDcxOTMwMz
+ksODM5NjMxMzYsLTE4Mzc3OTcxMTYsMTI3NTUyMDY4OF19
 -->
