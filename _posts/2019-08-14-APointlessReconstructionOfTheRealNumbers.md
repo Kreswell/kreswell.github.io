@@ -58,7 +58,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Several properti
 4. $$\mathcal{B}$$ is a topological base for $$\mathcal{T}$$.
 5. Each $$B \in \mathcal{B}$$ is the principal set for an ultrafilter.
 
-I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's essentially what they are. We can picture them as histogram bins. The other picture to have in mind is
+I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's essentially what they are. We can picture them as histogram bins. The other picture to have in mind is that of putting marks on a rod to make a ruler. The key idea is that, while this bin structure can always be refined
 
 # The Algebraic Structure
 
@@ -67,7 +67,7 @@ I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's es
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0ODA0ODc0LC00MzcxMTQ0NDAsLTM0Mz
+eyJoaXN0b3J5IjpbMTg4Njg4Mjg2LC00MzcxMTQ0NDAsLTM0Mz
 A1NDcwMiw1ODk2NzczNDIsMTQ1OTYwNDM2MiwtMjAyMjA5OTM3
 Nyw5NzA4NDYxNTQsLTE1MjE4NjcwMDIsODM0MjQyODkxLC01ND
 Q5MTU2ODQsLTE2MjA2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2
