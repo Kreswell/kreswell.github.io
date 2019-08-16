@@ -39,6 +39,8 @@ such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathc
 
 $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothing$$.
 
+That is, $$\mathcal
+
 # The Algebraic Structure
 
 # The Measure
@@ -46,11 +48,11 @@ $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODgzMjM0Niw1ODk2NzczNDIsMTQ1OT
-YwNDM2MiwtMjAyMjA5OTM3Nyw5NzA4NDYxNTQsLTE1MjE4Njcw
-MDIsODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLT
-I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
-MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
-U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
-NDA3MDE2MjAzXX0=
+eyJoaXN0b3J5IjpbLTIxMzg4MzA0NDUsNTg5Njc3MzQyLDE0NT
+k2MDQzNjIsLTIwMjIwOTkzNzcsOTcwODQ2MTU0LC0xNTIxODY3
+MDAyLDgzNDI0Mjg5MSwtNTQ0OTE1Njg0LC0xNjIwNjcwNzQ4LC
+0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAxODkyNDcsLTE2
+MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04ODA5MD
+Y1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcyNiwt
+MTQwNzAxNjIwM119
 -->
