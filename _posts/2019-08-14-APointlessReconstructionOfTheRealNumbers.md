@@ -39,7 +39,7 @@ such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathc
 
 $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothing$$.
 
-That is, $$\mathcal{B}$$ is the set of smallest
+That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. It follows directly from their definitions that $$\mathcal{B}$$ 
 
 # The Algebraic Structure
 
@@ -48,11 +48,11 @@ That is, $$\mathcal{B}$$ is the set of smallest
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU0NjEwODQsNTg5Njc3MzQyLDE0NT
-k2MDQzNjIsLTIwMjIwOTkzNzcsOTcwODQ2MTU0LC0xNTIxODY3
-MDAyLDgzNDI0Mjg5MSwtNTQ0OTE1Njg0LC0xNjIwNjcwNzQ4LC
-0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAxODkyNDcsLTE2
-MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04ODA5MD
-Y1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcyNiwt
-MTQwNzAxNjIwM119
+eyJoaXN0b3J5IjpbOTI5OTQ0OTMsNTg5Njc3MzQyLDE0NTk2MD
+QzNjIsLTIwMjIwOTkzNzcsOTcwODQ2MTU0LC0xNTIxODY3MDAy
+LDgzNDI0Mjg5MSwtNTQ0OTE1Njg0LC0xNjIwNjcwNzQ4LC0yNj
+IwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAxODkyNDcsLTE2MzM0
+MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04ODA5MDY1NT
+YsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcyNiwtMTQw
+NzAxNjIwM119
 -->
