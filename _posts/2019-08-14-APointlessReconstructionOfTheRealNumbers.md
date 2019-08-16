@@ -39,7 +39,7 @@ such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathc
 
 $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothing$$.
 
-That is, $$\mathcal
+That is, $$\mathcal{B}$$ is the set of smallest
 
 # The Algebraic Structure
 
@@ -48,7 +48,7 @@ That is, $$\mathcal
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg4MzA0NDUsNTg5Njc3MzQyLDE0NT
+eyJoaXN0b3J5IjpbLTE3MTU0NjEwODQsNTg5Njc3MzQyLDE0NT
 k2MDQzNjIsLTIwMjIwOTkzNzcsOTcwODQ2MTU0LC0xNTIxODY3
 MDAyLDgzNDI0Mjg5MSwtNTQ0OTE1Njg0LC0xNjIwNjcwNzQ4LC
 0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAxODkyNDcsLTE2
