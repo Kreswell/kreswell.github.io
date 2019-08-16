@@ -37,7 +37,7 @@ Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two [par
 
 with the following properties:
 1. $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  
-2. The lattice induced by $$\subseteq$$ is complete in the sense that $$A \subset C$$ if and only if there is a $$B \subseteq C$$ such that $$A \cap B = \varnothing$$.
+2. The lattice induced by $$\subseteq$$ is complete in the sense that $$A \subset C$$ if and only if there is a $$B \subseteq C$$ such that $$A \cap B = \varnothing$$. However, we cannot assume that if $$A \subseteq C$$ and $$\not$$
 3. $$\le$$ is a total order on any collection of pairwise disjoint sets. That is, if $$A \cap B = \varnothing$$ then either $$A < B$$ or $$B < A$$. The empty set is not comparable to any inhabited set.
 
 **Definition:** A set $$B$$ to be *bounded* if there exists sets $$A$$ and $$C$$ such that $$A<B<C$$. Call $$A$$ a *lower bound* for $$B$$ and $$C$$ an *upper bound* for $$B$$. 
@@ -71,7 +71,7 @@ Since the sets $$\mathcal{B}$$ are *open* sets
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkxMjk3MywtNDM3MTE0NDQwLC0zND
+eyJoaXN0b3J5IjpbMTcwMzU5ODQ1OCwtNDM3MTE0NDQwLC0zND
 MwNTQ3MDIsNTg5Njc3MzQyLDE0NTk2MDQzNjIsLTIwMjIwOTkz
 NzcsOTcwODQ2MTU0LC0xNTIxODY3MDAyLDgzNDI0Mjg5MSwtNT
 Q0OTE1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMw
