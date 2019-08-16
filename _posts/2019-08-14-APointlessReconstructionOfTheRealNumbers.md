@@ -45,7 +45,8 @@ with the following properties:
 
 $$\exists A, C$$ s.t. $$\forall i, \: A<B_i<C$$.
 
-Let $$\mathcal{B}$$ be a collection of sets with the property that 
+Continuing with the defining properties of $$(\mathcal{T},\subseteq,\le)$$:
+3. There is a $$\mathcal{B}$$ be a collection of sets with the property that 
 
 $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothing$$.
 
@@ -58,11 +59,11 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTY3Mzg3Miw1ODk2NzczNDIsMTQ1OT
-YwNDM2MiwtMjAyMjA5OTM3Nyw5NzA4NDYxNTQsLTE1MjE4Njcw
-MDIsODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLT
-I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
-MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
-U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
-NDA3MDE2MjAzXX0=
+eyJoaXN0b3J5IjpbMjE1NzIyNTAwLDU4OTY3NzM0MiwxNDU5Nj
+A0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAw
+Miw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
+YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
+NDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2NT
+U2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0
+MDcwMTYyMDNdfQ==
 -->
