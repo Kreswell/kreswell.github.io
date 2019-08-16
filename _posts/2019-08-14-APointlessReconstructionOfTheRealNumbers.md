@@ -60,7 +60,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Several properti
 
 I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's essentially what they are. We can picture them as histogram bins.
 
-I intend to show that this bin 
+I intend to show that this bin structure gives $$X$$ a structure 
 
 # The Algebraic Structure
 
@@ -69,7 +69,7 @@ I intend to show that this bin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkxMjY3MCwtNDM3MTE0NDQwLC0zND
+eyJoaXN0b3J5IjpbMTg4MzAwODY3NSwtNDM3MTE0NDQwLC0zND
 MwNTQ3MDIsNTg5Njc3MzQyLDE0NTk2MDQzNjIsLTIwMjIwOTkz
 NzcsOTcwODQ2MTU0LC0xNTIxODY3MDAyLDgzNDI0Mjg5MSwtNT
 Q0OTE1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMw
