@@ -39,7 +39,7 @@ with the following properties:
 1. $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  
 2. $$\le$$ is a total order on any collection of pairwise disjoint sets. That is, if $$A \cap B = \varnothing$$ then either $$A < B$$ or $$B < A$$. The empty set is not comparable to any inhabited set.
 
-Define a set $$B$$ to be *bounded* if there exists sets $$A$$ and $$C$$ such that $$A<B<C$$.
+Define a set $$B$$ to be *bounded* if there exists sets $$A$$ and $$C$$ such that $$A<B<C$$. Call $$A$$ a *lower bound* for $$B$$ and $$C$$ an *upper bound* for $$B$$. Define a collection of sets to be 
 
 3. Let $$\mathcal{B}$$ be a countable collection of sets with the property that 
 
@@ -54,11 +54,11 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODQ1ODYyNiw1ODk2NzczNDIsMTQ1OT
-YwNDM2MiwtMjAyMjA5OTM3Nyw5NzA4NDYxNTQsLTE1MjE4Njcw
-MDIsODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLT
-I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
-MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
-U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
-NDA3MDE2MjAzXX0=
+eyJoaXN0b3J5IjpbNTUwOTUwNjI2LDU4OTY3NzM0MiwxNDU5Nj
+A0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAw
+Miw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
+YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
+NDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2NT
+U2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0
+MDcwMTYyMDNdfQ==
 -->
