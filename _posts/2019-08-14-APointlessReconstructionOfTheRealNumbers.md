@@ -47,8 +47,7 @@ $$\exists A, C$$ s.t. $$\forall i, \: A<B_i<C$$.
 
 Continuing with the defining properties of $$(\mathcal{T},\subseteq,\le)$$:
 
-3. There is a collection of sets $$\mathcal{B} \subseteq \mathcal{T}$$ with the following properties:
-  - $$\mathcal{B}$$ is locally 
+3. There is a collection of sets $$\mathcal{B} \subseteq \mathcal{T}$$ such that
 
 $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothing$$.
 
@@ -61,11 +60,11 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDYxNzA5LDU4OTY3NzM0MiwxNDU5Nj
-A0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAw
-Miw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
-YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
-NDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2NT
-U2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0
-MDcwMTYyMDNdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzg0NjI1Nyw1ODk2NzczNDIsMTQ1OT
+YwNDM2MiwtMjAyMjA5OTM3Nyw5NzA4NDYxNTQsLTE1MjE4Njcw
+MDIsODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLT
+I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
+MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
+U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
+NDA3MDE2MjAzXX0=
 -->
