@@ -62,7 +62,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Several properti
 I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's essentially what they are. We can picture them as histogram bins. The other picture to have in mind is that of putting marks on a rod to make a ruler. The key idea is that, while this bin structure can always be refined, this is the best we can do in finite steps. We cannot take the limit of infinitesimal refinement in finite time. This partitioning is really no different than that which is done in calculus before taking limits.
 
 ### Undecidable statements
-Since the structure of $$\mathcal{T},\subseteq,\le$$ on $$X$$ is only defined in terms of *open* sets, and not in terms of elements, there are some statements which are undecidable. I'll discuss those next time, but essentially they arise when we're "too close to the edge" of  
+Since the structure of $$\mathcal{T},\subseteq,\le$$ on $$X$$ is only defined in terms of *open* sets, and not in terms of elements, there are some statements which are undecidable. I'll discuss those next time, but essentially they arise when we're "too close to the edge" of a set to tell if we're in or out.
 
 # The Algebraic Structure
 
@@ -71,11 +71,11 @@ Since the structure of $$\mathcal{T},\subseteq,\le$$ on $$X$$ is only defined in
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMwOTI5NTUsLTQzNzExNDQ0MCwtMz
-QzMDU0NzAyLDU4OTY3NzM0MiwxNDU5NjA0MzYyLC0yMDIyMDk5
-Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAwMiw4MzQyNDI4OTEsLT
-U0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMjYyMDU5MTAxLC0xMjEz
-MDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMzNDI0MTU4LC00NzIzOD
-MzNTUsMTA2NjE3NTcwOSwtODgwOTA2NTU2LDE4NTg4NzU0MTgs
-MTMxOTkyMTY5XX0=
+eyJoaXN0b3J5IjpbLTEzMzY3NTUzMywtNDM3MTE0NDQwLC0zND
+MwNTQ3MDIsNTg5Njc3MzQyLDE0NTk2MDQzNjIsLTIwMjIwOTkz
+NzcsOTcwODQ2MTU0LC0xNTIxODY3MDAyLDgzNDI0Mjg5MSwtNT
+Q0OTE1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMw
+NjI2NDUsLTEyNTAxODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4Mz
+M1NSwxMDY2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwx
+MzE5OTIxNjldfQ==
 -->
