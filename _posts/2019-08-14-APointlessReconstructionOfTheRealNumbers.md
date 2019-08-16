@@ -58,7 +58,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Several properti
 4. $$\mathcal{B}$$ is a topological base for $$\mathcal{T}$$.
 5. Each $$B \in \mathcal{B}$$ is the principal set for an ultrafilter.
 
-
+This collection of basis sets is the 
 
 # The Algebraic Structure
 
@@ -67,11 +67,11 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Several properti
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzExNDQ0MCwtMzQzMDU0NzAyLDU4OT
-Y3NzM0MiwxNDU5NjA0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1
-NCwtMTUyMTg2NzAwMiw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMT
-YyMDY3MDc0OCwtMjYyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUw
-MTg5MjQ3LC0xNjMzNDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NT
-cwOSwtODgwOTA2NTU2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01
-MzE2MDE3MjZdfQ==
+eyJoaXN0b3J5IjpbMTMwNDY3OTA2NSwtNDM3MTE0NDQwLC0zND
+MwNTQ3MDIsNTg5Njc3MzQyLDE0NTk2MDQzNjIsLTIwMjIwOTkz
+NzcsOTcwODQ2MTU0LC0xNTIxODY3MDAyLDgzNDI0Mjg5MSwtNT
+Q0OTE1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMw
+NjI2NDUsLTEyNTAxODkyNDcsLTE2MzM0MjQxNTgsLTQ3MjM4Mz
+M1NSwxMDY2MTc1NzA5LC04ODA5MDY1NTYsMTg1ODg3NTQxOCwx
+MzE5OTIxNjldfQ==
 -->
