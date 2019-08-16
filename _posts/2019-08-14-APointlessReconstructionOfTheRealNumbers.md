@@ -39,7 +39,7 @@ with the following properties:
 1. $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  
 2. $$\le$$ is a total order on any collection of pairwise disjoint sets. That is, if $$A \cap B = \varnothing$$ then either $$A < B$$ or $$B < A$$. The empty set is not comparable to any inhabited set.
 
-Define a set 
+Define a set $$B$$ to be *bounded* if there exists sets $$A$$ and $$C$$ such that $$A<B<C$$.
 
 Let $$\mathcal{B}$$ be a countable collection of sets with the property that 
 
@@ -54,7 +54,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMwMTI0OTcsNTg5Njc3MzQyLDE0NT
+eyJoaXN0b3J5IjpbLTE3MzY4ODIyNTcsNTg5Njc3MzQyLDE0NT
 k2MDQzNjIsLTIwMjIwOTkzNzcsOTcwODQ2MTU0LC0xNTIxODY3
 MDAyLDgzNDI0Mjg5MSwtNTQ0OTE1Njg0LC0xNjIwNjcwNzQ4LC
 0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAxODkyNDcsLTE2
