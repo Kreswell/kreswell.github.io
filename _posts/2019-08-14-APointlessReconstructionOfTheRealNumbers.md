@@ -39,7 +39,7 @@ such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathc
 
 $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothing$$.
 
-That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. It follows directly from their definitions that $$\mathcal{B}$$ is a topological base for $$\mathcal{T}$$ and that each $$B \in \mathcal{B}$$ is the principal set for an ultrafilter. Furthermore, 
+That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct $$B$$ are pairwise disjoint. Also, it follows directly from their definitions that $$\mathcal{B}$$ is a topological base for $$\mathcal{T}$$ and that each $$B \in \mathcal{B}$$ is the principal set for an ultrafilter. Furthermore, let $$\mathcal{B}$$
 
 # The Algebraic Structure
 
@@ -48,7 +48,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. It follows direc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDQwNjczMyw1ODk2NzczNDIsMTQ1OT
+eyJoaXN0b3J5IjpbMTA0MjQ2OTMwNyw1ODk2NzczNDIsMTQ1OT
 YwNDM2MiwtMjAyMjA5OTM3Nyw5NzA4NDYxNTQsLTE1MjE4Njcw
 MDIsODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLT
 I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
