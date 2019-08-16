@@ -58,7 +58,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Several properti
 4. $$\mathcal{B}$$ is a topological base for $$\mathcal{T}$$.
 5. Each $$B \in \mathcal{B}$$ is the principal set for an ultrafilter.
 
-Let's call $$\mathcal{B}$$ the set of *bins*
+I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's essentially what they are.
 
 # The Algebraic Structure
 
@@ -67,11 +67,11 @@ Let's call $$\mathcal{B}$$ the set of *bins*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MDk2NDk3LC00MzcxMTQ0NDAsLTM0Mz
-A1NDcwMiw1ODk2NzczNDIsMTQ1OTYwNDM2MiwtMjAyMjA5OTM3
-Nyw5NzA4NDYxNTQsLTE1MjE4NjcwMDIsODM0MjQyODkxLC01ND
-Q5MTU2ODQsLTE2MjA2NzA3NDgsLTI2MjA1OTEwMSwtMTIxMzA2
-MjY0NSwtMTI1MDE4OTI0NywtMTYzMzQyNDE1OCwtNDcyMzgzMz
-U1LDEwNjYxNzU3MDksLTg4MDkwNjU1NiwxODU4ODc1NDE4LDEz
-MTk5MjE2OV19
+eyJoaXN0b3J5IjpbLTE3ODMwNDI4NzcsLTQzNzExNDQ0MCwtMz
+QzMDU0NzAyLDU4OTY3NzM0MiwxNDU5NjA0MzYyLC0yMDIyMDk5
+Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAwMiw4MzQyNDI4OTEsLT
+U0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMjYyMDU5MTAxLC0xMjEz
+MDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMzNDI0MTU4LC00NzIzOD
+MzNTUsMTA2NjE3NTcwOSwtODgwOTA2NTU2LDE4NTg4NzU0MTgs
+MTMxOTkyMTY5XX0=
 -->
