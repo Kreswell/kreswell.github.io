@@ -46,7 +46,9 @@ with the following properties:
 $$\exists A, C$$ s.t. $$\forall i, \: A<B_i<C$$.
 
 Continuing with the defining properties of $$(\mathcal{T},\subseteq,\le)$$:
-3. There is a $$\mathcal{B}$$ be a collection of sets with the property that 
+
+3. There is a collection of sets $$\mathcal{B} \subseteq \mathcal{T}$$ with the following properties:
+  - $$\mathcal{B}$$ is locally 
 
 $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothing$$.
 
@@ -59,7 +61,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1NzIyNTAwLDU4OTY3NzM0MiwxNDU5Nj
+eyJoaXN0b3J5IjpbLTI2NDYxNzA5LDU4OTY3NzM0MiwxNDU5Nj
 A0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAw
 Miw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
 YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
