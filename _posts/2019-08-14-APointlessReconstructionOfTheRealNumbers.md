@@ -41,7 +41,7 @@ with the following properties:
 
 Define a set $$B$$ to be *bounded* if there exists sets $$A$$ and $$C$$ such that $$A<B<C$$. Call $$A$$ a *lower bound* for $$B$$ and $$C$$ an *upper bound* for $$B$$. Define a collection of sets $$B_i$$ to be bounded if 
 
-$$\exists A, C$$ s.t. $$\forall i, \: A<B_i<C$$
+$$\exists A, C$$ s.t. $$\forall i, \: A<B_i<C$$.
 
 3. Let $$\mathcal{B}$$ be a countable collection of sets with the property that 
 
@@ -56,7 +56,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2Mzk4Nzg2LDU4OTY3NzM0MiwxNDU5Nj
+eyJoaXN0b3J5IjpbLTQ0MDc2MDAwLDU4OTY3NzM0MiwxNDU5Nj
 A0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAw
 Miw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
 YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
