@@ -45,7 +45,7 @@ with the following properties:
 
 $$\exists A, C$$ s.t. $$\forall i, \: A<B_i<C$$.
 
-**Definition:** A collection of sets is *locally finite*
+**Definition:** A collection of sets $$\mathcal{A}$$ is *locally finite* if any bounded, pairwise disjoint
 
 3. Let $$\mathcal{B}$$ be a countable collection of sets with the property that 
 
@@ -60,11 +60,11 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzk1MDI1MSw1ODk2NzczNDIsMTQ1OT
-YwNDM2MiwtMjAyMjA5OTM3Nyw5NzA4NDYxNTQsLTE1MjE4Njcw
-MDIsODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLT
-I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
-MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
-U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
-NDA3MDE2MjAzXX0=
+eyJoaXN0b3J5IjpbLTE1MDI0ODIxNDgsNTg5Njc3MzQyLDE0NT
+k2MDQzNjIsLTIwMjIwOTkzNzcsOTcwODQ2MTU0LC0xNTIxODY3
+MDAyLDgzNDI0Mjg5MSwtNTQ0OTE1Njg0LC0xNjIwNjcwNzQ4LC
+0yNjIwNTkxMDEsLTEyMTMwNjI2NDUsLTEyNTAxODkyNDcsLTE2
+MzM0MjQxNTgsLTQ3MjM4MzM1NSwxMDY2MTc1NzA5LC04ODA5MD
+Y1NTYsMTg1ODg3NTQxOCwxMzE5OTIxNjksLTUzMTYwMTcyNiwt
+MTQwNzAxNjIwM119
 -->
