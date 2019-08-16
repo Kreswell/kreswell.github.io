@@ -35,7 +35,7 @@ Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two [par
 - **Inclusion:** $$\subseteq$$
 - **Scalar ordering:** $$\le$$
 
-such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathcal{B}$$ be a (topological) base for $$(\mathcal{T},\subseteq)$$ such 
+such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathcal{B}$$ be an, at most countable, $$(\mathcal{T},\subseteq)$$ such that $$\forall B \in \mathcal{B}$$
 
 # The Algebraic Structure
 
@@ -44,7 +44,7 @@ such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMTkwNTYwLDU4OTY3NzM0MiwxNDU5Nj
+eyJoaXN0b3J5IjpbNTM5ODMxMDU3LDU4OTY3NzM0MiwxNDU5Nj
 A0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAw
 Miw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
 YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
