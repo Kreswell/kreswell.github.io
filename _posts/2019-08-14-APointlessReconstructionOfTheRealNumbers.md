@@ -53,7 +53,8 @@ $$\forall A \in \mathcal{T}$$ either $$A \cap B = B$$ or $$A \cap B = \varnothin
 
 That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Several properties can be easily shown:
 1. Distinct $$B$$ are pairwise disjoint. 
-2. 
+2. Any bounded collection of $$B \in \mathcal{B}$$ is finite.
+3. Therefore $$\mathcal{B}$$ is, at most, countable.
 Also, it follows directly from their definitions that $$\mathcal{B}$$ is a topological base for $$\mathcal{T}$$ and that each $$B \in \mathcal{B}$$ is the principal set for an ultrafilter. Furthermore, let $$\mathcal{B}$$ be locally finite in the sense that any bounded collection
 
 # The Algebraic Structure
@@ -63,11 +64,11 @@ Also, it follows directly from their definitions that $$\mathcal{B}$$ is a topol
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzA1NDcwMiw1ODk2NzczNDIsMTQ1OT
-YwNDM2MiwtMjAyMjA5OTM3Nyw5NzA4NDYxNTQsLTE1MjE4Njcw
-MDIsODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLT
-I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
-MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
-U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
-NDA3MDE2MjAzXX0=
+eyJoaXN0b3J5IjpbLTE4NDEwMzI4OCwtMzQzMDU0NzAyLDU4OT
+Y3NzM0MiwxNDU5NjA0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1
+NCwtMTUyMTg2NzAwMiw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMT
+YyMDY3MDc0OCwtMjYyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUw
+MTg5MjQ3LC0xNjMzNDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NT
+cwOSwtODgwOTA2NTU2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01
+MzE2MDE3MjZdfQ==
 -->
