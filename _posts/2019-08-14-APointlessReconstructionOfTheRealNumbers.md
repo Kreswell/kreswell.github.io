@@ -41,7 +41,7 @@ with the following properties:
 
 Define a set $$B$$ to be *bounded* if there exists sets $$A$$ and $$C$$ such that $$A<B<C$$. Call $$A$$ a *lower bound* for $$B$$ and $$C$$ an *upper bound* for $$B$$. Define a collection of sets $$B_i$$ to be bounded if 
 
-$$\forall i, \: \exists A, C $$ 
+$$\exists A, C$$ s.t. $$\forall i, \: A<B_i<C$$
 
 3. Let $$\mathcal{B}$$ be a countable collection of sets with the property that 
 
@@ -56,11 +56,11 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Clearly distinct
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTAzODcyOSw1ODk2NzczNDIsMTQ1OT
-YwNDM2MiwtMjAyMjA5OTM3Nyw5NzA4NDYxNTQsLTE1MjE4Njcw
-MDIsODM0MjQyODkxLC01NDQ5MTU2ODQsLTE2MjA2NzA3NDgsLT
-I2MjA1OTEwMSwtMTIxMzA2MjY0NSwtMTI1MDE4OTI0NywtMTYz
-MzQyNDE1OCwtNDcyMzgzMzU1LDEwNjYxNzU3MDksLTg4MDkwNj
-U1NiwxODU4ODc1NDE4LDEzMTk5MjE2OSwtNTMxNjAxNzI2LC0x
-NDA3MDE2MjAzXX0=
+eyJoaXN0b3J5IjpbMzc2Mzk4Nzg2LDU4OTY3NzM0MiwxNDU5Nj
+A0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAw
+Miw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
+YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
+NDI0MTU4LC00NzIzODMzNTUsMTA2NjE3NTcwOSwtODgwOTA2NT
+U2LDE4NTg4NzU0MTgsMTMxOTkyMTY5LC01MzE2MDE3MjYsLTE0
+MDcwMTYyMDNdfQ==
 -->
