@@ -58,7 +58,7 @@ That is, $$\mathcal{B}$$ is the set of smallest inhabited sets. Several properti
 4. $$\mathcal{B}$$ is a topological base for $$\mathcal{T}$$.
 5. Each $$B \in \mathcal{B}$$ is the principal set for an ultrafilter.
 
-I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's essentially what they are. We can picture them as histogram bins. The other picture to have in mind is that of putting marks on a rod to make a ruler. The key idea is that, while this bin structure can always be refined, this is the best we can do in finite steps. We cannot take the limit of infinitesimal refinement in finite time. This partitioning is really no different than that which is done in calculus *before* taking limits
+I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's essentially what they are. We can picture them as histogram bins. The other picture to have in mind is that of putting marks on a rod to make a ruler. The key idea is that, while this bin structure can always be refined, this is the best we can do in finite steps. We cannot take the limit of infinitesimal refinement in finite time. This partitioning is really no different than that which is done in calculus before taking limits.
 
 # The Algebraic Structure
 
@@ -67,7 +67,7 @@ I'll call $$\mathcal{B}$$ the set of *bins* of $$\mathcal{T}$$ because that's es
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTEzMDc5OCwtNDM3MTE0NDQwLC0zND
+eyJoaXN0b3J5IjpbMTcyNTc1MjQwNCwtNDM3MTE0NDQwLC0zND
 MwNTQ3MDIsNTg5Njc3MzQyLDE0NTk2MDQzNjIsLTIwMjIwOTkz
 NzcsOTcwODQ2MTU0LC0xNTIxODY3MDAyLDgzNDI0Mjg5MSwtNT
 Q0OTE1Njg0LC0xNjIwNjcwNzQ4LC0yNjIwNTkxMDEsLTEyMTMw
