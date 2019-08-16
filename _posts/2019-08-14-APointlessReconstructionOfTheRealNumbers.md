@@ -35,7 +35,7 @@ Let $$\mathcal{T}$$ be a collection of open sets of some set $$X$$ with two [par
 - **Inclusion:** $$\subseteq$$
 - **Scalar ordering:** $$\le$$
 
-such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathcal{B}$$ be a countable (topological) base for $$(\mathcal{T},\subseteq)$$ such that each $$B \in \mathcal{B}$$ is the (setwise) principal for an ultrafilter. In other words, every ultrafilter in $$\mathcal{T}$$ has a principal set, and these principals form a base for 
+such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathcal{B}$$ be a countable collection of sets which are the principal sets for  $$(\mathcal{T},\subseteq)$$ such that each $$B \in \mathcal{B}$$ is the (setwise) principal for an ultrafilter. In other words, every ultrafilter in $$\mathcal{T}$$ has a principal set, and these principals form a base for 
 
 # The Algebraic Structure
 
@@ -44,7 +44,7 @@ such that $$(\mathcal{T},\subseteq)$$ is a (generalized) topology.  Let $$\mathc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzgzMDQxLDU4OTY3NzM0MiwxNDU5Nj
+eyJoaXN0b3J5IjpbMzA4NzczMDc5LDU4OTY3NzM0MiwxNDU5Nj
 A0MzYyLC0yMDIyMDk5Mzc3LDk3MDg0NjE1NCwtMTUyMTg2NzAw
 Miw4MzQyNDI4OTEsLTU0NDkxNTY4NCwtMTYyMDY3MDc0OCwtMj
 YyMDU5MTAxLC0xMjEzMDYyNjQ1LC0xMjUwMTg5MjQ3LC0xNjMz
