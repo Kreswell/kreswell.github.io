@@ -3,10 +3,10 @@ Alright, everyone, take out your [envelopes](https://en.wikipedia.org/wiki/Back-
 I've been reading [*Leviathan Wakes*](https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089), the first book in the series that *The Expanse* is based on (I haven't seen any of the show, so no spoilers, please). The setting is a few hundred years in the future. Humanity has colonized the solar system. Travel between the various planets, moons, and asteroids is accomplished in space ships that can sustain accelerations around 1[g](https://en.wikipedia.org/wiki/G-force) for weeks, or even months, at a time[<sup>1</sup>](#<sup>1</sup>).
 
 ---
-###### <sup>1</sup>
+###### <>
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDI0OTQ0LC05NTI0MTAwMDcsMjA3ND
-Y3NzYwLDE3Mzg2OTA5NiwtNTgwMDYzOTg5XX0=
+eyJoaXN0b3J5IjpbLTQ3Mzg3MjU1NCwtOTUyNDEwMDA3LDIwNz
+Q2Nzc2MCwxNzM4NjkwOTYsLTU4MDA2Mzk4OV19
 -->
