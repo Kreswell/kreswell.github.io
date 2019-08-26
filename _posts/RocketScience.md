@@ -2,15 +2,15 @@ Alright, everyone, take out your [envelopes](https://en.wikipedia.org/wiki/Back-
 
 I've been reading [*Leviathan Wakes*](https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089), the first book in the *Expanse* series (I haven't seen any of the show yet, so no spoilers, please). The setting is a few hundred years in the future. Humanity has colonized the solar system. Travel between the various planets, moons, and asteroids is accomplished in space ships that can sustain accelerations around 1[g](https://en.wikipedia.org/wiki/G-force) for weeks, or even months, at a time<sup>1</sup>.
 
-Naturally, this got me wondering if such a propulsion system is even possible.  
+Naturally, this got me wondering if such a propulsion system is even possible. Assuming  
 
 ---
 <sup>1</sup>In the book, they typically "cruise" at 0.5g and occasionally "gun it" to 10g or more.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkzNDIyNDksLTE1MTAxOTE5NDIsLT
-E2ODA2MDU1MjYsLTE2NzcxMzAyODcsMTU3Nzc3Mjg4NSwxMDg4
-NTc2MzE0LC05NTI0MTAwMDcsMjA3NDY3NzYwLDE3Mzg2OTA5Ni
-wtNTgwMDYzOTg5XX0=
+eyJoaXN0b3J5IjpbOTM0NzczNzYsLTE1MTAxOTE5NDIsLTE2OD
+A2MDU1MjYsLTE2NzcxMzAyODcsMTU3Nzc3Mjg4NSwxMDg4NTc2
+MzE0LC05NTI0MTAwMDcsMjA3NDY3NzYwLDE3Mzg2OTA5NiwtNT
+gwMDYzOTg5XX0=
 -->
