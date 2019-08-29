@@ -6,12 +6,12 @@ One of the most important things that I've recently come to understand about ADH
 
 This week there's been a lot going on at work and in my personal life, but I think one of the main sticking points that's been preventing me from working is this blog.
 
-I've been wanting to do more writing 
+For years, I've been wanting to do more writing. I've always wanted to 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA0Mzg1MTksMjExNzA2OTkyNywtMj
+eyJoaXN0b3J5IjpbLTIxNDA1MTE4NTQsMjExNzA2OTkyNywtMj
 MxMzMzMDAyLDc0MTk2OTg3N119
 -->
