@@ -2,8 +2,10 @@ Well I've had a pretty unproductive week. And this is a week when I really neede
 
 Having ADHD means having days, or even whole weeks, when I know I need to get things done, I have every intention of getting things done, but nothing gets done.
 
+One of the most important things I've come
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTU1OTI5Nyw3NDE5Njk4NzddfQ==
+eyJoaXN0b3J5IjpbLTgwNjQ5MjM4MCw3NDE5Njk4NzddfQ==
 -->
