@@ -6,12 +6,12 @@ One of the most important things that I've recently come to understand about ADH
 
 This week there's been a lot going on at work and in my personal life which has been throwing me off, but I think the main sticking point has been this blog.
 
-For years, I've been wanting to do more writing. I've always wanted to be more involved in science communication. In fact, I think I'd like to make it the focus of my career, if the opportunities arise. But even more than that, I need to write for my own sake. I usually have a lot going on in my brain, and it's usually a tangled mess of a few hundred different thought fragments. Writing helps me get these threads out of my head and into a more concrete form where I can start to untangle them. So I set myself the goal of writing 10,000 words in 100 days, with the intention of keeping the posts very short and very frequent, to try to create a habit of writing regularly. 
+For years, I've been wanting to do more writing. I've always wanted to be more involved in science communication. In fact, I think I'd like to make it the focus of my career, if the opportunities arise. But even more than that, I need to write for my own sake. I usually have a lot going on in my brain, and it's usually a tangled mess of a few hundred different thought fragments. Writing helps me get these threads out of my head and into a more concrete form where I can start to untangle them. So I set myself the goal of writing 10,000 words in 100 days, with the intention of keeping the posts very short and very frequent, to try to create a habit of writing regularly. Since I want to 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUwMTQxMTcsMjExNzA2OTkyNywtMj
-MxMzMzMDAyLDc0MTk2OTg3N119
+eyJoaXN0b3J5IjpbLTcyNzg0MTM2NywtMTA4NTAxNDExNywyMT
+E3MDY5OTI3LC0yMzEzMzMwMDIsNzQxOTY5ODc3XX0=
 -->
