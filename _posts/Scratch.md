@@ -6,12 +6,12 @@ One of the most important things that I've recently come to understand about ADH
 
 This week there's been a lot going on at work and in my personal life, but I think one of the main sticking points that's been preventing me from working is this blog.
 
-For years, I've been wanting to do more writing. I've always wanted to be more involved in science communication. In fact, I think I'd like to make it the focus of my career, if the opportunities arise. But even more than that, I need to write for my own sake. I usually have a lot going on in my brain, and it's usually a tangled mess of a few hundred different thought threads. Writing helps me get these threads out of my head and into a more concrete form 
+For years, I've been wanting to do more writing. I've always wanted to be more involved in science communication. In fact, I think I'd like to make it the focus of my career, if the opportunities arise. But even more than that, I need to write for my own sake. I usually have a lot going on in my brain, and it's usually a tangled mess of a few hundred different thought fragments. Writing helps me get these threads out of my head and into a more concrete form where I can start to untangle them. So I set myself the goal of writing 10,000 words in 100 days to try to motivate myself, and I w
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwOTYzNjgxLDIxMTcwNjk5MjcsLTIzMT
-MzMzAwMiw3NDE5Njk4NzddfQ==
+eyJoaXN0b3J5IjpbMTk1NDUyMzg5OCwyMTE3MDY5OTI3LC0yMz
+EzMzMwMDIsNzQxOTY5ODc3XX0=
 -->
