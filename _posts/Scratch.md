@@ -6,12 +6,12 @@ One of the most important things that I've recently come to understand about ADH
 
 This week there's been a lot going on at work and in my personal life, but I think one of the main sticking points that's been preventing me from working is this blog.
 
-For years, I've been wanting to do more writing. I've always wanted to be more involved in science communication. In fact, I think I'd like to make it the focus of my career, if the opportunities arise. 
+For years, I've been wanting to do more writing. I've always wanted to be more involved in science communication. In fact, I think I'd like to make it the focus of my career, if the opportunities arise. But even more than that, I need to write for my own sake. The best way to mana
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE2ODEyMTAsMjExNzA2OTkyNywtMj
+eyJoaXN0b3J5IjpbLTEwOTg3NzI3ODQsMjExNzA2OTkyNywtMj
 MxMzMzMDAyLDc0MTk2OTg3N119
 -->
