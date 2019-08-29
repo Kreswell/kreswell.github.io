@@ -2,11 +2,13 @@ Well I've had a pretty unproductive week. And this is a week when I really neede
 
 Having ADHD means having days, or even whole weeks, when I know I need to get things done, I have every intention of getting things done, but nothing gets done.
 
-One of the most important things that I've recently come to understand about ADHD is that there's always a reason why I'm not working. And the reason isn't "because I'm a slacker." There is some specific hang-up that's stopping me from moving forward. Identifying what exactly the problem is can often be very difficult. After all, ADHD is really an impairment 
+One of the most important things that I've recently come to understand about ADHD is that there's always a reason why I'm not working. And the reason isn't "because I'm a slacker." There is some specific hang-up that's stopping me from moving forward. Identifying what exactly the problem is can often be very difficult.
+
+ADHD is
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzA2OTkyNywtMjMxMzMzMDAyLDc0MT
-k2OTg3N119
+eyJoaXN0b3J5IjpbLTEyOTg1MDIwMTYsMjExNzA2OTkyNywtMj
+MxMzMzMDAyLDc0MTk2OTg3N119
 -->
