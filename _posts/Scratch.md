@@ -8,12 +8,12 @@ This week there's been a lot going on at work and in my personal life which has 
 
 For years, I've been wanting to do more writing. I've always wanted to be more involved in science communication. In fact, I think I'd like to make it the focus of my career, if the opportunities arise. But even more than that, I need to write for my own sake. I usually have a lot going on in my brain, and it's usually a tangled mess of a few hundred different thought fragments. Writing helps me get these threads out of my head and into a more concrete form where I can start to untangle them. So I set myself the goal of writing 10,000 words in 100 days, with the intention of keeping the posts very short and very frequent, to try to create a habit of writing regularly. 
 
-Since I want to write (semi-)professionally about physics and math, I've been trying to keep the focus of my current posts on those topics. But I think that, instead, I need to give myself permission to write about *whatever*. I have a lot I want to say about physics and math, but that can wait, if need be. 
+Since I want to write (semi-)professionally about physics and math, I've been trying to keep the focus of my current posts on those topics. But I think that, instead, I need to give myself permission to write about *whatever*. I have a lot I want to say about physics and math, but that can wait, if need be. For now, I just need to write a. 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjcwNjU2NSwtMTA4NTAxNDExNywyMT
+eyJoaXN0b3J5IjpbMTQ4NTU0OTQ1NCwtMTA4NTAxNDExNywyMT
 E3MDY5OTI3LC0yMzEzMzMwMDIsNzQxOTY5ODc3XX0=
 -->
