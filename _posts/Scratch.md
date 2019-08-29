@@ -8,12 +8,12 @@ This week there's been a lot going on at work and in my personal life, but I thi
 
 For years, I've been wanting to do more writing. I've always wanted to be more involved in science communication. In fact, I think I'd like to make it the focus of my career, if the opportunities arise. But even more than that, I need to write for my own sake. I usually have a lot going on in my brain, and it's usually a tangled mess of a few hundred different thought fragments. Writing helps me get these threads out of my head and into a more concrete form where I can start to untangle them. So I set myself the goal of writing 10,000 words in 100 days, with the intention of keeping the posts very short and very frequent, to try to create a habit of writing regularly. 
 
-I think that, this week, I got hung up on trying to find the "right" topic for my next post. Since I want to write (semi-)professionally about physics and math, I've been trying to keep the focus of my current posts on those topics. But I think that, instead, I need to give myself permission to write about *whatever*. For now, any topic that comes out easily in a few hundred words is the "right" topic. Often that *will* be related to physics, math, or ADHD, but not always. Also, I should probably stop trying to start series of posts. This makes me feel obligated to follow-up in my next post, which can often lead to sticking points. I'm sure I'll circle back to follow-up on previous posts eventually, but, at least during these 100 days
+I think that, this week, I got hung up on trying to find the "right" topic for my next post. Since I want to write (semi-)professionally about physics and math, I've been trying to keep the focus of my current posts on those topics. But I think that, instead, I need to give myself permission to write about *whatever*. For now, any topic that comes out easily in a few hundred words is the "right" topic. Often that *will* be related to physics, math, or ADHD, but not always. Also, I should probably stop trying to start series of posts. This makes me feel obligated to follow-up in my next post, which can often lead to sticking points. I'm sure I'll circle back to follow-up on previous posts eventually, but I don't need to make myself feel obligated
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEzMzcyMTcsLTEwODUwMTQxMTcsMj
-ExNzA2OTkyNywtMjMxMzMzMDAyLDc0MTk2OTg3N119
+eyJoaXN0b3J5IjpbNTk0NDY5ODMyLC0xMDg1MDE0MTE3LDIxMT
+cwNjk5MjcsLTIzMTMzMzAwMiw3NDE5Njk4NzddfQ==
 -->
