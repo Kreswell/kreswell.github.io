@@ -1,10 +1,10 @@
 I'm currently involved with two particle physics experiments at Fermilab: Mu2e and MicroBooNE. Since I need to prepare an overview talk about MicroBooNE for an upcoming meeting, I thought this would be a great chance to talk about it here.
 
-MicroBooNE is a neutrino experiment. Neutrinos are elementary particles that are extremely abundant, but also extremely light and charge-neutral, so they don't interact much. 
+MicroBooNE is a neutrino experiment. Neutrinos are elementary particles that are extremely abundant, but also extremely light and charge-neutral, so they don't interact much. They come in three "flavors" 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTAxNzMxMSwtMjcxNzI1ODA3LDczMD
+eyJoaXN0b3J5IjpbLTMxMjEyMDEyNywtMjcxNzI1ODA3LDczMD
 k5ODExNl19
 -->
